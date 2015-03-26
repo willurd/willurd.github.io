@@ -5,10 +5,6 @@ var bootstrapService = require('service/bootstrap');
 
 var log = Logger.get('core/app');
 
-// Load polyfills.
-require('es6-shim');
-require("babelify/polyfill");
-
 bootstrapService.run().then(() => {
   router.run((Handler) => {
     try {

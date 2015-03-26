@@ -1,3 +1,4 @@
+var alt = require('core/alt');
 var config = require('core/config');
 var { Logger } = require('lib/log');
 
@@ -25,7 +26,6 @@ var debug = {
 
     Object.assign(window, {
       action: {
-        build: require('action/build')
       },
 
       core: {

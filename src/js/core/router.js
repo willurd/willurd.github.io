@@ -1,7 +1,6 @@
 var React = require('react');
 var Router = require('react-router');
-var App = require('component/app/App');
-var Home = require('component/home/Home');
+var App = require('view/app/App');
 
 var { Route } = Router;
 

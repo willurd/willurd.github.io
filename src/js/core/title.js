@@ -6,7 +6,7 @@ function renderTitle() {
 
 var title = {
   push(value) {
-    this.stack.push(value);
+    stack.push(value);
     renderTitle();
   },
 
@@ -16,7 +16,7 @@ var title = {
   },
 
   pop() {
-    this.stack.pop();
+    stack.pop();
   }
 };
 

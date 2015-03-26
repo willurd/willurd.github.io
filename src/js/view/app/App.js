@@ -1,6 +1,6 @@
 var React = require('react');
 var config = require('core/config');
-var titleMixin = require('mixins/title');
+var titleMixin = require('mixin/title');
 var { RouteHandler } = require('react-router');
 
 var App = React.createClass({
@@ -14,11 +14,9 @@ var App = React.createClass({
 
   render() {
     return (
-      <div class='App'>
-        <Container>
-          <h1>William Bowers</h1>
-          <RouteHandler />
-        </Container>
+      <div className='App'>
+        <h1>William Bowers</h1>
+        <RouteHandler />
       </div>
     );
   }
