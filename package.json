@@ -1,0 +1,12 @@
+{
+  "name": "willurd.github.io",
+  "description": "My personal website",
+  "author": "William Bowers <william.bowers@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "clean": "grunt clean",
+    "build": "grunt build",
+    "watch": "grunt watch"
+  }
+}
