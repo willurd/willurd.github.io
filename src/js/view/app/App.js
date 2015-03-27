@@ -20,7 +20,7 @@ const AppContainer = React.createClass({
 
 const App = React.createClass({
   mixins: [
-    titleMixin
+    titleMixin(0)
   ],
 
   componentDidMount() {
@@ -38,4 +38,4 @@ const App = React.createClass({
   }
 });
 
-module.exports = AppContainer;
+export default AppContainer;

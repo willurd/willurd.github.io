@@ -96,6 +96,43 @@ a
 // Home
 // ======================================================================
 
+.MyLinks
+  list-style-type none
+  margin 0
+  padding 0
+
+  .IconLink
+    display inline-block
+
+    i
+      border-radius 10px
+      color $colorMutedText
+      display inline-block
+      font-size 40px
+      height 64px
+      line-height 64px
+      margin 5px
+      text-align center
+      width 64px
+      vertical-align bottom
+
+    &.accredible i
+      background url('/static/img/icon/accredible-grey.png') no-repeat center center;
+
+      &:hover
+        background-image url('/static/img/icon/accredible-white.png');
+        background-color rgb(66, 139, 202)
+
+    &.linkedin i:hover
+      background-color #0D62A6
+      color #fff
+
+    &.github i:hover
+      background-color #000000
+      color #fff
+
+
+
 // ======================================================================
 // Resume
 // ======================================================================

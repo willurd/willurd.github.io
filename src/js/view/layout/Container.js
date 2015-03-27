@@ -1,6 +1,6 @@
-var React = require('react');
+import React from 'react';
 
-var Container = React.createClass({
+const Container = React.createClass({
   propTypes: {
     style: React.PropTypes.object
   },
@@ -14,4 +14,4 @@ var Container = React.createClass({
   }
 });
 
-module.exports = Container;
+export default Container;

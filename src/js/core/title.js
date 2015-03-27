@@ -1,23 +1,22 @@
-var stack = [];
+import { compact } from 'lib/fp';
 
-function renderTitle() {
-  document.title = stack.reverse().join(' | ');
-}
+class Title {
+  constructor() {
+    this.values = [];
+  }
 
-var title = {
-  push(value) {
-    stack.push(value);
-    renderTitle();
-  },
+  set(index, value) {
+    this.values[index] = value;
+    this.renderTitle();
+  }
 
-  swap(value) {
-    stack[stack.length - 1] = value;
-    renderTitle();
-  },
+  title() {
+    return compact(this.values).join(' | ');
+  }
 
-  pop() {
-    stack.pop();
+  renderTitle() {
+    document.title = this.title();
   }
 };
 
-export default title;
+export default new Title();

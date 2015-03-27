@@ -1,6 +1,6 @@
-var React = require('react');
+import React from 'react';
 
-var Column = React.createClass({
+const Column = React.createClass({
   propTypes: {
     size: React.PropTypes.number.isRequired,
     style: React.PropTypes.object
@@ -15,4 +15,4 @@ var Column = React.createClass({
   }
 });
 
-module.exports = Column;
+export default Column;

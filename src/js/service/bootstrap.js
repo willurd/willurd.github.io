@@ -1,13 +1,13 @@
-var Q = require('q');
-var debug = require('core/debug');
+import Q from 'q';
+import debug from 'core/debug';
 
-var bootstrapService = {
+class BootstrapService {
   run() {
     debug.init();
 
     // TODO: Load initial data here.
     return Promise.resolve();
   }
-};
+}
 
-module.exports = bootstrapService;
+export default new BootstrapService();

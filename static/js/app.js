@@ -762,32 +762,47 @@ module.exports = router;
 },{"./../view/app/App.js":18,"./../view/home/Home.js":22,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
 "use strict";
 
-var stack = [];
+var _createClass = (function () { function defineProperties(target, props) { for (var key in props) { var prop = props[key]; prop.configurable = true; if (prop.value) prop.writable = true; } Object.defineProperties(target, props); } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
 
-function renderTitle() {
-  document.title = stack.reverse().join(" | ");
-}
+var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
 
-var title = {
-  push: function push(value) {
-    stack.push(value);
-    renderTitle();
-  },
+var compact = require('./../lib/fp.js').compact;
 
-  swap: function swap(value) {
-    stack[stack.length - 1] = value;
-    renderTitle();
-  },
+var Title = (function () {
+  function Title() {
+    _classCallCheck(this, Title);
 
-  pop: function pop() {
-    stack.pop();
+    this.values = [];
   }
-};
 
-module.exports = title;
+  _createClass(Title, {
+    set: {
+      value: function set(index, value) {
+        this.values[index] = value;
+        this.renderTitle();
+      }
+    },
+    title: {
+      value: function title() {
+        return compact(this.values).join(" | ");
+      }
+    },
+    renderTitle: {
+      value: function renderTitle() {
+        document.title = this.title();
+      }
+    }
+  });
+
+  return Title;
+})();
+
+;
+
+module.exports = new Title();
 
 
-},{}],11:[function(require,module,exports){
+},{"./../lib/fp.js":12}],11:[function(require,module,exports){
 "use strict";
 
 var types = {};
@@ -801,9 +816,11 @@ module.exports = types;
 exports.identity = identity;
 exports.flatten = flatten;
 exports.flatMap = flatMap;
-exports.range = range;
 exports.times = times;
 exports.interleave = interleave;
+exports.isFalse = isFalse;
+exports.isTruthy = isTruthy;
+exports.compact = compact;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -815,15 +832,19 @@ function identity(value) {
   return value;
 }
 
+;
+
 function flatten(list) {
   return list.reduce(flattener, []);
 }
+
+;
 
 function flatMap(list, fn) {
   return flatten(list.map(fn));
 }
 
-function range(count) {}
+;
 
 function times(count, fn) {
   var result = [];
@@ -835,12 +856,15 @@ function times(count, fn) {
   return result;
 }
 
+;
+
 function interleave() {
   for (var _len = arguments.length, lists = Array(_len), _key = 0; _key < _len; _key++) {
     lists[_key] = arguments[_key];
   }
 
   var first = lists[0];
+
   return times(first.length, identity).reduce(function (acc, index) {
     lists.forEach(function (list) {
       return list[index] !== undefined && acc.push(list[index]);
@@ -848,6 +872,26 @@ function interleave() {
     return acc;
   }, []);
 }
+
+;
+
+function isFalse(value) {
+  return !value;
+}
+
+;
+
+function isTruthy(value) {
+  return !!value;
+}
+
+;
+
+function compact(list) {
+  return list.filter(isTruthy);
+}
+
+;
 
 
 },{}],13:[function(require,module,exports){
@@ -1032,35 +1076,31 @@ module.exports = new Screen();
 },{"events":1}],16:[function(require,module,exports){
 "use strict";
 
-var title = require('./../core/title.js');
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
-var titleMixin = {
-  title: (function (_title) {
-    var _titleWrapper = function title(_x) {
-      return _title.apply(this, arguments);
-    };
+var title = _interopRequire(require('./../core/title.js'));
 
-    _titleWrapper.toString = function () {
-      return _title.toString();
-    };
+function titleMixin(index) {
+  return {
+    title: (function (_title) {
+      var _titleWrapper = function title(_x) {
+        return _title.apply(this, arguments);
+      };
 
-    return _titleWrapper;
-  })(function (value) {
-    if (this.titleSet) {
-      title.swap(value);
-    } else {
-      title.push(value);
+      _titleWrapper.toString = function () {
+        return _title.toString();
+      };
+
+      return _titleWrapper;
+    })(function (value) {
+      title.set(index, value);
+    }),
+
+    componentWillUnmount: function componentWillUnmount() {
+      title.set(index, undefined);
     }
-
-    this.titleSet = true;
-  }),
-
-  componentWillUnmount: function componentWillUnmount() {
-    if (this.titleSet) {
-      title.pop();
-    }
-  }
-};
+  };
+}
 
 module.exports = titleMixin;
 
@@ -1068,19 +1108,36 @@ module.exports = titleMixin;
 },{"./../core/title.js":10}],17:[function(require,module,exports){
 "use strict";
 
-var Q = require("q");
-var debug = require('./../core/debug.js');
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
-var bootstrapService = {
-  run: function run() {
-    debug.init();
+var _createClass = (function () { function defineProperties(target, props) { for (var key in props) { var prop = props[key]; prop.configurable = true; if (prop.value) prop.writable = true; } Object.defineProperties(target, props); } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
 
-    // TODO: Load initial data here.
-    return Promise.resolve();
+var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
+
+var Q = _interopRequire(require("q"));
+
+var debug = _interopRequire(require('./../core/debug.js'));
+
+var BootstrapService = (function () {
+  function BootstrapService() {
+    _classCallCheck(this, BootstrapService);
   }
-};
 
-module.exports = bootstrapService;
+  _createClass(BootstrapService, {
+    run: {
+      value: function run() {
+        debug.init();
+
+        // TODO: Load initial data here.
+        return Promise.resolve();
+      }
+    }
+  });
+
+  return BootstrapService;
+})();
+
+module.exports = new BootstrapService();
 
 
 },{"./../core/debug.js":7,"q":"q"}],18:[function(require,module,exports){
@@ -1119,7 +1176,7 @@ var AppContainer = React.createClass({
 var App = React.createClass({
   displayName: "App",
 
-  mixins: [titleMixin],
+  mixins: [titleMixin(0)],
 
   componentDidMount: function componentDidMount() {
     this.title("William Bowers");
@@ -1396,16 +1453,122 @@ module.exports = Stripes;
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
 var React = _interopRequire(require("react"));
+
+var ReactAddons = _interopRequire(require("react-addons"));
+
+var titleMixin = _interopRequire(require('./../../mixin/title.js'));
+
+var cx = ReactAddons.classSet;
+
+var IconLink = React.createClass({
+  displayName: "IconLink",
+
+  onMouseEnter: function onMouseEnter() {
+    this.props.onActivate(this.props);
+  },
+
+  render: function render() {
+    return React.createElement(
+      "li",
+      { className: cx("IconLink", this.props.id) },
+      React.createElement("i", {
+        className: this.props.iconClass,
+        onMouseEnter: this.onMouseEnter })
+    );
+  }
+});
+
+var MyLinks = React.createClass({
+  displayName: "MyLinks",
+
+  getInitialState: function getInitialState() {
+    return {
+      activeLink: null,
+      links: [{
+        id: "github",
+        iconClass: "fa fa-github",
+        link: "https://github.com/willurd",
+        text: "\n            Check out my code (including this site).\n          "
+      }, {
+        id: "linkedin",
+        iconClass: "fa fa-linkedin",
+        link: "http://www.linkedin.com/in/wbowers",
+        text: "\n            Take a look at my professional history.\n          "
+      }, {
+        id: "accredible",
+        iconClass: "",
+        link: "http://www.accredible.com/u/willurd",
+        text: "\n            Check out my portfolio on online course certificates.\n          "
+      }, {
+        id: "gibbon",
+        iconClass: "",
+        link: "https://gibbon.co/willurd",
+        text: "\n            Take a look at what I'm teaching.\n          "
+      }, {
+        id: "soundcloud",
+        iconClass: "fa fa-soundcloud",
+        link: "http://soundcloud.com/willurd",
+        text: "\n            Check out my music\n          "
+      }]
+    };
+  },
+
+  onActivate: function onActivate(link) {
+    this.setState({ activeLink: link });
+  },
+
+  render: function render() {
+    var _this = this;
+
+    return React.createElement(
+      "div",
+      { className: "MyLinks" },
+      React.createElement(
+        "ul",
+        null,
+        this.state.links.map(function (link) {
+          return React.createElement(IconLink, _extends({ key: link.id }, link, { onActivate: _this.onActivate }));
+        })
+      ),
+      this.state.activeLink && React.createElement("div", { dangerouslySetInnerHTML: { __html: this.state.activeLink.text } })
+    );
+  }
+});
 
 var Home = React.createClass({
   displayName: "Home",
 
+  mixins: [titleMixin(1)],
+
+  componentDidMount: function componentDidMount() {
+    this.title("Software Engineer");
+  },
+
   render: function render() {
     return React.createElement(
-      "p",
-      null,
-      "WHAT DO YOU DO? I AM A software engineer AND interaction designer I WORK AT Coursera HELPING TO BRING the very best education TO the world FOR free WHERE CAN I FIND YOUR WORK? ON github YOU CAN FIND MY code ON soundcloud YOU CAN FIND MY music ON kongregate YOU CAN FIND MY games ON linkedin YOU CAN FIND MY professional history ON accredible YOU CAN FIND MY online course portfolio ON gibbon YOU CAN SEE WHAT I'm teaching"
+      "div",
+      { className: "Home" },
+      React.createElement(
+        "p",
+        null,
+        "I am a Software Engineer at ",
+        React.createElement(
+          "a",
+          { href: "https://www.coursera.org/" },
+          "Coursera"
+        ),
+        ",  helping them provide ",
+        React.createElement(
+          "em",
+          null,
+          "universal access to the world's best education"
+        ),
+        "."
+      ),
+      React.createElement(MyLinks, null)
     );
   }
 });
@@ -1413,4 +1576,4 @@ var Home = React.createClass({
 module.exports = Home;
 
 
-},{"react":"react"}]},{},[5]);
+},{"./../../mixin/title.js":16,"react":"react","react-addons":"react-addons"}]},{},[5]);

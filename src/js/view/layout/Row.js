@@ -1,6 +1,6 @@
-var React = require('react');
+import React from 'react';
 
-var Row = React.createClass({
+const Row = React.createClass({
   propTypes: {
     style: React.PropTypes.object
   },
@@ -14,4 +14,4 @@ var Row = React.createClass({
   }
 })
 
-module.exports = Row;
+export default Row;

@@ -1,5 +1,5 @@
 function storeListenerMixin() {
-  var stores = Array.prototype.slice.call(arguments);
+  let stores = Array.prototype.slice.call(arguments);
 
   return {
     getInitialState() {
@@ -20,4 +20,4 @@ function storeListenerMixin() {
   };
 }
 
-module.exports = storeListenerMixin;
+export default storeListenerMixin;

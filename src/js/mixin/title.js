@@ -1,21 +1,15 @@
-var title = require('core/title');
+import title from 'core/title';
 
-var titleMixin = {
-  title(value) {
-    if (this.titleSet) {
-      title.swap(value);
-    } else {
-      title.push(value);
+function titleMixin(index) {
+  return {
+    title(value) {
+      title.set(index, value);
+    },
+
+    componentWillUnmount() {
+      title.set(index, undefined);
     }
-
-    this.titleSet = true;
-  },
-
-  componentWillUnmount() {
-    if (this.titleSet) {
-      title.pop();
-    }
-  }
-};
+  };
+}
 
 export default titleMixin;
