@@ -1187,13 +1187,13 @@ var App = React.createClass({
       "div",
       { className: "App" },
       React.createElement(Header, null),
-      React.createElement(Navigation, null),
       React.createElement(RouteHandler, null)
     );
   }
 });
 
 module.exports = AppContainer;
+/* to be added once the resume view is complete: <Navigation /> */
 
 
 },{"./../../core/config.js":6,"./../../mixin/title.js":16,"./Header.js":19,"./Navigation.js":20,"./Stripes.js":21,"react":"react","react-router":"react-router"}],19:[function(require,module,exports){
@@ -1227,7 +1227,7 @@ var Whatami = React.createClass({
 
   getInitialState: function getInitialState() {
     return {
-      ima: ["Software Engineer", "Product builder", "Lifelong learner", "Advocate for users"]
+      ima: ["Software Engineer", "Product builder", "Lifelong learner"]
     };
   },
 
@@ -1473,10 +1473,14 @@ var IconLink = React.createClass({
   render: function render() {
     return React.createElement(
       "li",
-      { className: cx("IconLink", this.props.id) },
-      React.createElement("i", {
-        className: this.props.iconClass,
-        onMouseEnter: this.onMouseEnter })
+      { className: cx("IconLink", this.props.isActive ? "active" : "", this.props.id) },
+      React.createElement(
+        "a",
+        { href: this.props.href, target: "_blank" },
+        React.createElement("i", {
+          className: this.props.iconClass,
+          onMouseEnter: this.onMouseEnter })
+      )
     );
   }
 });
@@ -1490,28 +1494,23 @@ var MyLinks = React.createClass({
       links: [{
         id: "github",
         iconClass: "fa fa-github",
-        link: "https://github.com/willurd",
+        href: "https://github.com/willurd",
         text: "\n            Check out my code (including this site).\n          "
       }, {
         id: "linkedin",
         iconClass: "fa fa-linkedin",
-        link: "http://www.linkedin.com/in/wbowers",
-        text: "\n            Take a look at my professional history.\n          "
+        href: "https://www.linkedin.com/in/wbowers",
+        text: "\n            Read up on my professional history.\n          "
       }, {
         id: "accredible",
         iconClass: "",
-        link: "http://www.accredible.com/u/willurd",
-        text: "\n            Check out my portfolio on online course certificates.\n          "
+        href: "https://learning.accredible.com/u/willurd",
+        text: "\n            Take a look at my portfolio of completed online courses.\n          "
       }, {
         id: "gibbon",
         iconClass: "",
-        link: "https://gibbon.co/willurd",
-        text: "\n            Take a look at what I'm teaching.\n          "
-      }, {
-        id: "soundcloud",
-        iconClass: "fa fa-soundcloud",
-        link: "http://soundcloud.com/willurd",
-        text: "\n            Check out my music\n          "
+        href: "https://gibbon.co/willurd",
+        text: "\n            Check out what I'm teaching.\n          "
       }]
     };
   },
@@ -1523,6 +1522,8 @@ var MyLinks = React.createClass({
   render: function render() {
     var _this = this;
 
+    var activeLink = this.state.activeLink;
+
     return React.createElement(
       "div",
       { className: "MyLinks" },
@@ -1530,10 +1531,15 @@ var MyLinks = React.createClass({
         "ul",
         null,
         this.state.links.map(function (link) {
-          return React.createElement(IconLink, _extends({ key: link.id }, link, { onActivate: _this.onActivate }));
+          return React.createElement(IconLink, _extends({
+            key: link.id }, link, {
+            isActive: activeLink && activeLink.id === link.id,
+            onActivate: _this.onActivate }));
         })
       ),
-      this.state.activeLink && React.createElement("div", { dangerouslySetInnerHTML: { __html: this.state.activeLink.text } })
+      activeLink && React.createElement("div", {
+        className: "active-link-text",
+        dangerouslySetInnerHTML: { __html: activeLink.text } })
     );
   }
 });
@@ -1553,16 +1559,17 @@ var Home = React.createClass({
       { className: "Home" },
       React.createElement(
         "p",
-        null,
-        "I am a Software Engineer at ",
+        { className: "lead" },
+        "I'm a Software Engineer at ",
         React.createElement(
           "a",
-          { href: "https://www.coursera.org/" },
+          { href: "https://www.coursera.org/", target: "_blank" },
           "Coursera"
         ),
-        ",  helping them provide ",
+        ",  helping them provide",
+        React.createElement("br", null),
         React.createElement(
-          "em",
+          "strong",
           null,
           "universal access to the world's best education"
         ),

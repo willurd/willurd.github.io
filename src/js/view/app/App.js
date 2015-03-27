@@ -31,7 +31,7 @@ const App = React.createClass({
     return (
       <div className='App'>
         <Header />
-        <Navigation />
+        {/* to be added once the resume view is complete: <Navigation /> */}
         <RouteHandler />
       </div>
     );

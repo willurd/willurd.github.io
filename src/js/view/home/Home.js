@@ -11,10 +11,12 @@ const IconLink = React.createClass({
 
   render() {
     return (
-      <li className={cx('IconLink', this.props.id)}>
-        <i
-          className={this.props.iconClass}
-          onMouseEnter={this.onMouseEnter}></i>
+      <li className={cx('IconLink', this.props.isActive ? 'active' : '', this.props.id)}>
+        <a href={this.props.href} target='_blank'>
+          <i
+            className={this.props.iconClass}
+            onMouseEnter={this.onMouseEnter}></i>
+        </a>
       </li>
     );
   }
@@ -28,7 +30,7 @@ const MyLinks = React.createClass({
         {
           id: 'github',
           iconClass: 'fa fa-github',
-          link: 'https://github.com/willurd',
+          href: 'https://github.com/willurd',
           text: `
             Check out my code (including this site).
           `
@@ -36,35 +38,27 @@ const MyLinks = React.createClass({
         {
           id: 'linkedin',
           iconClass: 'fa fa-linkedin',
-          link: 'http://www.linkedin.com/in/wbowers',
+          href: 'https://www.linkedin.com/in/wbowers',
           text: `
-            Take a look at my professional history.
+            Read up on my professional history.
           `
         },
         {
           id: 'accredible',
           iconClass: '',
-          link: 'http://www.accredible.com/u/willurd',
+          href: 'https://learning.accredible.com/u/willurd',
           text: `
-            Check out my portfolio on online course certificates.
+            Take a look at my portfolio of completed online courses.
           `
         },
         {
           id: 'gibbon',
           iconClass: '',
-          link: 'https://gibbon.co/willurd',
+          href: 'https://gibbon.co/willurd',
           text: `
-            Take a look at what I'm teaching.
+            Check out what I'm teaching.
           `
-        },
-        {
-          id: 'soundcloud',
-          iconClass: 'fa fa-soundcloud',
-          link: 'http://soundcloud.com/willurd',
-          text: `
-            Check out my music
-          `
-        },
+        }
       ]
     };
   },
@@ -74,16 +68,23 @@ const MyLinks = React.createClass({
   },
 
   render() {
+    let activeLink = this.state.activeLink;
+
     return (
       <div className='MyLinks'>
         <ul>
           {this.state.links.map(link =>
-            <IconLink key={link.id} {...link} onActivate={this.onActivate} />
+            <IconLink
+              key={link.id} {...link}
+              isActive={activeLink && activeLink.id === link.id}
+              onActivate={this.onActivate} />
           )}
         </ul>
 
-        {this.state.activeLink &&
-          <div dangerouslySetInnerHTML={{__html: this.state.activeLink.text}}></div>}
+        {activeLink &&
+          <div
+            className='active-link-text'
+            dangerouslySetInnerHTML={{__html: activeLink.text}}></div>}
       </div>
     );
   }
@@ -101,9 +102,10 @@ const Home = React.createClass({
   render() {
     return (
       <div className='Home'>
-        <p>
-          I am a Software Engineer at <a href='https://www.coursera.org/'>Coursera</a>,&nbsp;
-          helping them provide <em>universal access to the world's best education</em>.
+        <p className='lead'>
+          I'm a Software Engineer at <a href='https://www.coursera.org/' target='_blank'>Coursera</a>,&nbsp;
+          helping them provide<br />
+          <strong>universal access to the world's best education</strong>.
         </p>
 
         <MyLinks />

@@ -26,7 +26,7 @@ body
   top 0
 
 // ======================================================================
-// Native elements
+// Typography
 // ======================================================================
 
 h1
@@ -42,9 +42,15 @@ a
   &:hover
     color lighten($colorLink, 25%)
 
+.lead strong
+  font-weight 400
+
 // ======================================================================
 // Header
 // ======================================================================
+
+.Header
+  margin-bottom 50px
 
 .Photo img
   border 5px solid #fff
@@ -72,7 +78,6 @@ a
 .Navigation
   font-weight 300
   list-style-type none
-  margin 50px
   padding 0
 
   .NavItem
@@ -97,47 +102,57 @@ a
 // ======================================================================
 
 .MyLinks
-  list-style-type none
-  margin 0
-  padding 0
+  margin-top 30px
 
-  .IconLink
-    display inline-block
+  ul
+    list-style-type none
+    margin 0
+    padding 0
 
-    i
-      border-radius 10px
-      color $colorMutedText
+    .IconLink
       display inline-block
-      font-size 40px
-      height 64px
-      line-height 64px
-      margin 5px
-      text-align center
-      width 64px
-      vertical-align bottom
 
-    &.accredible i
-      background url('/static/img/icon/accredible-grey.png') no-repeat center center;
+      i
+        border-radius 10px
+        color $colorMutedText
+        display inline-block
+        font-size 40px
+        height 64px
+        line-height 64px
+        margin 5px
+        text-align center
+        width 64px
+        vertical-align bottom
 
-      &:hover
-        background-image url('/static/img/icon/accredible-white.png');
-        background-color rgb(66, 139, 202)
+      &.accredible
+        i
+          background url('/static/img/icon/accredible-grey.png') no-repeat center center;
 
-    &.gibbon i
-      background url('/static/img/icon/gibbon-grey.png') no-repeat center center;
+        &.active i
+          background-image url('/static/img/icon/accredible-white.png');
+          background-color rgb(66, 139, 202)
 
-      &:hover
-        background-image url('/static/img/icon/gibbon-white.png');
-        background-color #37C5AC
+      &.gibbon
+        i
+         background url('/static/img/icon/gibbon-grey.png') no-repeat center center;
 
-    &.linkedin i:hover
-      background-color #0D62A6
-      color #fff
+        &.active i
+          background-image url('/static/img/icon/gibbon-white.png');
+          background-color #37C5AC
 
-    &.github i:hover
-      background-color #000000
-      color #fff
+      &.linkedin.active i
+        background-color #0D62A6
+        color #fff
 
+      &.github.active i
+        background-color #000000
+        color #fff
+
+  .active-link-text
+    background-color #fff
+    display inline-block
+    margin-top 10px
+    padding 15px 20px
 
 
 // ======================================================================

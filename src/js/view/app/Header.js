@@ -18,8 +18,7 @@ var Whatami = React.createClass({
       ima: [
         'Software Engineer',
         'Product builder',
-        'Lifelong learner',
-        'Advocate for users'
+        'Lifelong learner'
       ]
     };
   },
