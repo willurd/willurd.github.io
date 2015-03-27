@@ -1119,9 +1119,38 @@ var Header = React.createClass({
         "WILLIAM BOWERS"
       ),
       React.createElement(
-        "div",
-        { className: "whatami" },
+        "p",
+        null,
         whatami.join(" · ")
+      ),
+      React.createElement(
+        "p",
+        { className: "email" },
+        React.createElement(
+          "em",
+          null,
+          "william.bowers"
+        ),
+        React.createElement(
+          "span",
+          null,
+          " [at] "
+        ),
+        React.createElement(
+          "em",
+          null,
+          "gmail"
+        ),
+        React.createElement(
+          "span",
+          null,
+          " [dot] "
+        ),
+        React.createElement(
+          "em",
+          null,
+          "com"
+        )
       )
     );
   }

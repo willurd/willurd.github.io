@@ -23,7 +23,14 @@ var Header = React.createClass({
       <div className='Header'>
         <Photo />
         <h1>WILLIAM BOWERS</h1>
-        <div className='whatami'>{whatami.join(' · ')}</div>
+        <p>{whatami.join(' · ')}</p>
+        <p className='email'>
+          <em>william.bowers</em>
+          <span> [at] </span>
+          <em>gmail</em>
+          <span> [dot] </span>
+          <em>com</em>
+        </p>
       </div>
     );
   }
