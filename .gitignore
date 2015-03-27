@@ -5,3 +5,4 @@ node_modules/
 *.hot-update.js.map
 *.hot-update.json
 *.sublime-project
+*.sublime-workspace
