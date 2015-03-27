@@ -1,44 +1,64 @@
 @import 'colors'
 
-body {
+body
   background-color #f5f5f5
   color $colorText
+  font-family 'Open Sans', sans-serif
   margin 0
   padding 0
   text-align center
-}
 
-.App {
+.App
   box-shadow 0 0 15px 0px rgba(0, 0, 0, 1)
   margin 0 15px
   padding 60px
   min-height 100vh
-}
 
-.Stripes {
+.Stripes
   bottom 0
   opacity 0.5
   position absolute
   top 0
-}
 
-.Photo {
-
-}
-
-.Photo img {
+.Photo img
   border 5px solid #fff
   border-radius 100px
   box-shadow 0px 0px 15px -5px rgba(0, 0, 0, 0.75)
   height 200px
   width 200px
-}
 
-h1 {
-  font-family "Josefin Sans"
+h1
+  font-family 'Josefin Sans', sans-serif
   font-size 32px
-}
 
-.email span {
-  color $mutedText
-}
+a
+  color $colorLink
+
+  &:hover
+    color lighten($colorLink, 25%)
+
+.email span
+  color $colorMutedText
+
+.Navigation
+  font-weight 300
+  list-style-type none
+  margin 50px
+  padding 0
+
+  .NavItem
+    display inline-block
+    margin 0 10px
+
+    a
+      font-size 16px
+      padding 8px 12px
+      text-decoration none
+
+      &.active
+        background-color $colorLink
+        color #fff
+
+      &:hover
+        background-color lighten($colorLink, 25%)
+        color #fff

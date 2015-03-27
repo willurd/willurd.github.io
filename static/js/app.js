@@ -734,9 +734,15 @@ var Router = require("react-router");
 var App = require('./../view/app/App.js');
 
 var Route = Router.Route;
+var DefaultRoute = Router.DefaultRoute;
 
 var router = Router.create({
-  routes: React.createElement(Route, { handler: App, path: "/" })
+  routes: React.createElement(
+    Route,
+    { handler: App, path: "/" },
+    React.createElement(DefaultRoute, { name: "home", path: "" }),
+    React.createElement(Route, { name: "resume" })
+  )
 });
 
 module.exports = router;
@@ -1044,6 +1050,8 @@ var RouteHandler = require("react-router").RouteHandler;
 
 var Header = _interopRequire(require('./Header.js'));
 
+var Navigation = _interopRequire(require('./Navigation.js'));
+
 var Stripes = _interopRequire(require('./Stripes.js'));
 
 var AppContainer = React.createClass({
@@ -1074,6 +1082,7 @@ var App = React.createClass({
       "div",
       { className: "App" },
       React.createElement(Header, null),
+      React.createElement(Navigation, null),
       React.createElement(RouteHandler, null)
     );
   }
@@ -1082,7 +1091,7 @@ var App = React.createClass({
 module.exports = AppContainer;
 
 
-},{"./../../core/config.js":6,"./../../mixin/title.js":16,"./Header.js":19,"./Stripes.js":20,"react":"react","react-router":"react-router"}],19:[function(require,module,exports){
+},{"./../../core/config.js":6,"./../../mixin/title.js":16,"./Header.js":19,"./Navigation.js":20,"./Stripes.js":21,"react":"react","react-router":"react-router"}],19:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1164,6 +1173,74 @@ module.exports = Header;
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var React = _interopRequire(require("react"));
+
+var Link = require("react-router").Link;
+
+var classNames = _interopRequire(require("classnames"));
+
+var NavItem = React.createClass({
+  displayName: "NavItem",
+
+  contextTypes: {
+    router: React.PropTypes.func
+  },
+
+  render: function render() {
+    var router = this.context.router;
+
+    var isActive = router.isActive(this.props.to, this.props.params, this.props.query);
+    var classes = classNames({
+      NavItem: true,
+      active: isActive
+    });
+    var link = React.createElement(
+      Link,
+      this.props,
+      this.props.children
+    );
+    return React.createElement(
+      "li",
+      { className: classes },
+      link
+    );
+  }
+});
+
+var Navigation = React.createClass({
+  displayName: "Navigation",
+
+  getInitialState: function getInitialState() {
+    return {
+      items: [{ to: "home", label: "Home" }, { to: "resume", label: "Resume" }]
+    };
+  },
+
+  render: function render() {
+    return React.createElement(
+      "ul",
+      { className: "Navigation" },
+      this.state.items.map(function (item) {
+        return React.createElement(
+          NavItem,
+          _extends({ key: item.to }, item),
+          item.label
+        );
+      })
+    );
+  }
+});
+
+module.exports = Navigation;
+
+
+},{"classnames":"classnames","react":"react","react-router":"react-router"}],21:[function(require,module,exports){
+"use strict";
+
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
 var React = _interopRequire(require("react"));
 
 var screen = _interopRequire(require('./../../lib/screen.js'));
@@ -1208,8 +1285,6 @@ var Stripes = React.createClass({
     ctx.clearRect(0, 0, c.width, c.height);
     c.height = height;
 
-    // TODO: Randomize theme to find the best order of colors.
-
     var y = 0;
     var colors = flatMap(theme, function (color) {
       return [color, "#FFF"];
@@ -1233,8 +1308,6 @@ var Stripes = React.createClass({
 });
 
 module.exports = Stripes;
-
-// [ '#', '#', '#', '#', '#' ],
 
 
 },{"./../../lib/fp.js":12,"./../../lib/screen.js":15,"react":"react"}]},{},[5]);

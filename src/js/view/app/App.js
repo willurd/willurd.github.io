@@ -3,6 +3,7 @@ import config from 'core/config';
 import titleMixin from 'mixin/title';
 import { RouteHandler } from 'react-router';
 import Header from 'view/app/Header';
+import Navigation from 'view/app/Navigation';
 import Stripes from 'view/app/Stripes';
 
 const AppContainer = React.createClass({
@@ -30,6 +31,7 @@ const App = React.createClass({
     return (
       <div className='App'>
         <Header />
+        <Navigation />
         <RouteHandler />
       </div>
     );

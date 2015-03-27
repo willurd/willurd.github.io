@@ -7,7 +7,6 @@ const themes = [
   [ '#3F95A1', '#5FB0BB', '#E5001A', '#181F22', '#3C5C60' ],
   [ '#F90324', '#215DB0' ],
   [ '#F8A6AA', '#91C1B4', '#EFC236', '#E3373F', '#A5CD52', '#E05F0B', '#94D9D5', '#674026' ],
-  // [ '#', '#', '#', '#', '#' ],
 ];
 
 const Stripes = React.createClass({
@@ -36,8 +35,6 @@ const Stripes = React.createClass({
 
     ctx.clearRect(0, 0, c.width, c.height);
     c.height = height;
-
-    // TODO: Randomize theme to find the best order of colors.
 
     let y = 0;
     let colors = flatMap(theme, color => [color, '#FFF']);
