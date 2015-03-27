@@ -8,13 +8,13 @@ const NavItem = React.createClass({
   },
 
   render: function () {
-    var { router } = this.context;
-    var isActive = router.isActive(this.props.to, this.props.params, this.props.query);
-    var classes = classNames({
+    let { router } = this.context;
+    let isActive = router.isActive(this.props.to, this.props.params, this.props.query);
+    let classes = classNames({
       NavItem: true,
       active: isActive
     });
-    var link = (
+    let link = (
       <Link {...this.props}>{this.props.children}</Link>
     );
     return <li className={classes}>{link}</li>;
