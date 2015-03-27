@@ -10,6 +10,7 @@ module.exports = window.alt = new Alt();
 "use strict";
 
 var React = require("react");
+var analytics = require("ga-react-router");
 var router = require('./router.js');
 
 var _require = require('./../lib/log.js');
@@ -21,7 +22,9 @@ var bootstrapService = require('./../service/bootstrap.js');
 var log = Logger.get("core/app");
 
 bootstrapService.run().then(function () {
-  router.run(function (Handler) {
+  router.run(function (Handler, state) {
+    analytics(state);
+
     try {
       React.render(React.createElement(Handler, null), document.body);
     } catch (e) {
@@ -33,7 +36,7 @@ bootstrapService.run().then(function () {
 });
 
 
-},{"./../lib/log.js":9,"./../service/bootstrap.js":11,"./router.js":5,"react":"react"}],3:[function(require,module,exports){
+},{"./../lib/log.js":9,"./../service/bootstrap.js":11,"./router.js":5,"ga-react-router":"ga-react-router","react":"react"}],3:[function(require,module,exports){
 "use strict";
 
 var config = {
