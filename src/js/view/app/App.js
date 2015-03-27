@@ -1,7 +1,8 @@
-var React = require('react');
-var config = require('core/config');
-var titleMixin = require('mixin/title');
-var { RouteHandler } = require('react-router');
+import React from 'react';
+import config from 'core/config';
+import titleMixin from 'mixin/title';
+import { RouteHandler } from 'react-router';
+import Header from 'view/app/Header';
 
 var App = React.createClass({
   mixins: [
@@ -15,7 +16,7 @@ var App = React.createClass({
   render() {
     return (
       <div className='App'>
-        <h1>William Bowers</h1>
+        <Header />
         <RouteHandler />
       </div>
     );
