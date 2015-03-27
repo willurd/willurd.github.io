@@ -1107,7 +1107,7 @@ var Header = React.createClass({
   displayName: "Header",
 
   render: function render() {
-    var whatami = ["Software Engineer", "Lifelong Learner", "Advocate for Users"];
+    var whatami = ["Software Engineer", "Lifelong learner", "Advocate for users"];
 
     return React.createElement(
       "div",

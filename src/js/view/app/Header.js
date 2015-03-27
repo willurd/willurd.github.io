@@ -15,8 +15,8 @@ var Header = React.createClass({
   render() {
     var whatami = [
       'Software Engineer',
-      'Lifelong Learner',
-      'Advocate for Users'
+      'Lifelong learner',
+      'Advocate for users'
     ];
 
     return (
