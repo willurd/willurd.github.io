@@ -5,6 +5,7 @@ var loadGruntTasks = require('load-grunt-tasks');
 var nodeResolve = require('resolve');
 
 var extraVendorIds = [
+  'babelify/polyfill'
 ];
 
 function getNPMPackageIds() {
@@ -27,9 +28,14 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
 
     watch: {
-      src: {
+      js: {
         files: ['./src/js/**/*.js'],
         tasks: ['browserify:app']
+      },
+
+      css: {
+        files: ['./src/css/**/*.styl'],
+        tasks: ['stylus:app']
       }
     },
 
@@ -73,9 +79,17 @@ module.exports = function(grunt) {
           }
         }
       }
+    },
+
+    stylus: {
+      app: {
+        files: {
+          './static/css/app.css': ['./src/css/**/*.styl']
+        }
+      }
     }
   });
 
-  grunt.registerTask('build', ['browserify:vendor', 'browserify:app']);
+  grunt.registerTask('build', ['stylus:app', 'browserify:vendor', 'browserify:app']);
   grunt.registerTask('default', ['build', 'watch']);
 };
