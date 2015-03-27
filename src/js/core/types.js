@@ -1,5 +1,5 @@
-var types = {
+const types = {
 
 };
 
-module.exports = types;
+export default types;

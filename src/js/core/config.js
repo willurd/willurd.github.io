@@ -1,4 +1,4 @@
-var config = {
+const config = {
   debug: {
     actions: true,
     globals: true,
@@ -6,4 +6,4 @@ var config = {
   }
 };
 
-module.exports = config;
+export default config;

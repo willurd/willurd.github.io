@@ -1,10 +1,10 @@
-var React = require('react');
-var analytics = require('ga-react-router');
-var router = require('core/router');
-var { Logger } = require('lib/log');
-var bootstrapService = require('service/bootstrap');
+import React from 'react';
+import analytics from 'ga-react-router';
+import router from 'core/router';
+import bootstrapService from 'service/bootstrap';
+import { Logger } from 'lib/log';
 
-var log = Logger.get('core/app');
+const log = Logger.get('core/app');
 
 bootstrapService.run().then(() => {
   router.run((Handler, state) => {

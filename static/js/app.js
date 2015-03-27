@@ -592,23 +592,27 @@ process.umask = function() { return 0; };
 },{}],4:[function(require,module,exports){
 "use strict";
 
-var Alt = require("alt");
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
-module.exports = window.alt = new Alt();
+var Alt = _interopRequire(require("alt"));
+
+module.exports = new Alt();
 
 
 },{"alt":"alt"}],5:[function(require,module,exports){
 "use strict";
 
-var React = require("react");
-var analytics = require("ga-react-router");
-var router = require('./router.js');
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
-var _require = require('./../lib/log.js');
+var React = _interopRequire(require("react"));
 
-var Logger = _require.Logger;
+var analytics = _interopRequire(require("ga-react-router"));
 
-var bootstrapService = require('./../service/bootstrap.js');
+var router = _interopRequire(require('./router.js'));
+
+var bootstrapService = _interopRequire(require('./../service/bootstrap.js'));
+
+var Logger = require('./../lib/log.js').Logger;
 
 var log = Logger.get("core/app");
 
@@ -644,15 +648,13 @@ module.exports = config;
 },{}],7:[function(require,module,exports){
 "use strict";
 
-var alt = require('./alt.js');
-var config = require('./config.js');
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
 
-var _require = require('./../lib/log.js');
+var alt = _interopRequire(require('./alt.js'));
 
-var Logger = _require.Logger;
+var config = _interopRequire(require('./config.js'));
 
-var actionLog = Logger.get("alt/action");
-var actionLogMethod = actionLog.debug.bind(actionLog);
+var Logger = require('./../lib/log.js').Logger;
 
 var debug = {
   init: function init() {
@@ -664,6 +666,9 @@ var debug = {
     if (!config.debug.actions) {
       return;
     }
+
+    var actionLog = Logger.get("alt/action");
+    var actionLogMethod = actionLog.debug.bind(actionLog);
 
     alt.dispatcher.register(actionLogMethod);
   },
@@ -729,9 +734,15 @@ module.exports = resource;
 },{"path":2}],9:[function(require,module,exports){
 "use strict";
 
-var React = require("react");
-var Router = require("react-router");
-var App = require('./../view/app/App.js');
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
+var React = _interopRequire(require("react"));
+
+var Router = _interopRequire(require("react-router"));
+
+var App = _interopRequire(require('./../view/app/App.js'));
+
+var Home = _interopRequire(require('./../view/home/Home.js'));
 
 var Route = Router.Route;
 var DefaultRoute = Router.DefaultRoute;
@@ -740,7 +751,7 @@ var router = Router.create({
   routes: React.createElement(
     Route,
     { handler: App, path: "/" },
-    React.createElement(DefaultRoute, { name: "home", path: "" }),
+    React.createElement(DefaultRoute, { name: "home", path: "", handler: Home }),
     React.createElement(Route, { name: "resume" })
   )
 });
@@ -748,7 +759,7 @@ var router = Router.create({
 module.exports = router;
 
 
-},{"./../view/app/App.js":18,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
+},{"./../view/app/App.js":18,"./../view/home/Home.js":22,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
 "use strict";
 
 var stack = [];
@@ -842,13 +853,13 @@ function interleave() {
 },{}],13:[function(require,module,exports){
 "use strict";
 
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
 var _toConsumableArray = function (arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) arr2[i] = arr[i]; return arr2; } else { return Array.from(arr); } };
 
-var request = require("superagent");
+var request = _interopRequire(require("superagent"));
 
-var _require = require('./log.js');
-
-var Logger = _require.Logger;
+var Logger = require('./log.js').Logger;
 
 var log = Logger.get("core/http");
 
@@ -905,13 +916,15 @@ module.exports = http;
 },{"./log.js":14,"superagent":"superagent"}],14:[function(require,module,exports){
 "use strict";
 
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
 var _toConsumableArray = function (arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) arr2[i] = arr[i]; return arr2; } else { return Array.from(arr); } };
 
 var _createClass = (function () { function defineProperties(target, props) { for (var key in props) { var prop = props[key]; prop.configurable = true; if (prop.value) prop.writable = true; } Object.defineProperties(target, props); } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
 
 var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
 
-var config = require('./../core/config.js');
+var config = _interopRequire(require('./../core/config.js'));
 
 var loggers = {};
 var logFunctions = ["debug", "error", "info", "log", "warn"];
@@ -959,6 +972,7 @@ var Logger = (function () {
 })();
 
 var log = Logger.get("log");
+
 log.Logger = Logger;
 
 module.exports = log;
@@ -1377,4 +1391,26 @@ var Stripes = React.createClass({
 module.exports = Stripes;
 
 
-},{"./../../lib/fp.js":12,"./../../lib/screen.js":15,"react":"react"}]},{},[5]);
+},{"./../../lib/fp.js":12,"./../../lib/screen.js":15,"react":"react"}],22:[function(require,module,exports){
+"use strict";
+
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
+var React = _interopRequire(require("react"));
+
+var Home = React.createClass({
+  displayName: "Home",
+
+  render: function render() {
+    return React.createElement(
+      "p",
+      null,
+      "WHAT DO YOU DO? I AM A software engineer AND interaction designer I WORK AT Coursera HELPING TO BRING the very best education TO the world FOR free WHERE CAN I FIND YOUR WORK? ON github YOU CAN FIND MY code ON soundcloud YOU CAN FIND MY music ON kongregate YOU CAN FIND MY games ON linkedin YOU CAN FIND MY professional history ON accredible YOU CAN FIND MY online course portfolio ON gibbon YOU CAN SEE WHAT I'm teaching"
+    );
+  }
+});
+
+module.exports = Home;
+
+
+},{"react":"react"}]},{},[5]);

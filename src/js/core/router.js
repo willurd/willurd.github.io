@@ -1,16 +1,17 @@
-var React = require('react');
-var Router = require('react-router');
-var App = require('view/app/App');
+import React from 'react';
+import Router from 'react-router';
+import App from 'view/app/App';
+import Home from 'view/home/Home';
 
-var { Route, DefaultRoute } = Router;
+const { Route, DefaultRoute } = Router;
 
-var router = Router.create({
+const router = Router.create({
   routes: (
     <Route handler={App} path='/'>
-      <DefaultRoute name='home' path='' />
+      <DefaultRoute name='home' path='' handler={Home} />
       <Route name='resume' />
     </Route>
   )
 });
 
-module.exports = router;
+export default router;

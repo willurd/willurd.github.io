@@ -1,4 +1,4 @@
-var isPressedMixin = {
+const isPressedMixin = {
   getInitialState() {
     return {
       isPressed: false
@@ -6,7 +6,7 @@ var isPressedMixin = {
   },
 
   componentDidMount() {
-    var el = this.getDOMNode();
+    let el = this.getDOMNode();
 
     el.addEventListener('mousedown', this._isPressed_OnMouseDown, false);
     el.addEventListener('mouseup', this._isPressed_onMouseUp, false);
@@ -14,7 +14,7 @@ var isPressedMixin = {
   },
 
   componentWillUnmount() {
-    var el = this.getDOMNode();
+    let el = this.getDOMNode();
 
     el.removeEventListener('mousedown', this._isPressed_OnMouseDown, false);
     el.removeEventListener('mouseup', this._isPressed_onMouseUp, false);
@@ -30,4 +30,4 @@ var isPressedMixin = {
   }
 };
 
-module.exports = isPressedMixin;
+export default isPressedMixin;

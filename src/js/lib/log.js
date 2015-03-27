@@ -1,7 +1,7 @@
-var config = require('core/config');
+import config from 'core/config';
 
-var loggers = {};
-var logFunctions = ['debug', 'error', 'info', 'log', 'warn'];
+const loggers = {};
+const logFunctions = ['debug', 'error', 'info', 'log', 'warn'];
 
 class Logger {
   static get(name) {
@@ -27,7 +27,8 @@ class Logger {
   }
 }
 
-var log = Logger.get('log');
+const log = Logger.get('log');
+
 log.Logger = Logger;
 
-module.exports = log;
+export default log;

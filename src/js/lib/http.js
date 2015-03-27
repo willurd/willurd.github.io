@@ -1,11 +1,11 @@
-var request = require('superagent');
-var { Logger } = require('lib/log');
+import request from 'superagent';
+import { Logger } from 'lib/log';
 
-var log = Logger.get('core/http');
+const log = Logger.get('core/http');
 
-var httpMethods = ['get', 'post'];
-var dataTypes = ['text', 'json'];
-var dataTypeConverters = {
+const httpMethods = ['get', 'post'];
+const dataTypes = ['text', 'json'];
+const dataTypeConverters = {
   text: (text) => text,
   json: (text) => JSON.parse(text)
 };
@@ -24,7 +24,7 @@ function promisedRequest(httpMethod, url, data, dataType) {
   });
 }
 
-var http = {
+const http = {
   get(url, dataType) {
     return promisedRequest('get', url, {}, dataType);
   },
@@ -42,4 +42,4 @@ dataTypes.forEach(dataType => {
   });
 });
 
-module.exports = http;
+export default http;

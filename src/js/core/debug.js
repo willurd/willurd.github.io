@@ -1,11 +1,8 @@
-var alt = require('core/alt');
-var config = require('core/config');
-var { Logger } = require('lib/log');
+import alt from 'core/alt';
+import config from 'core/config';
+import { Logger } from 'lib/log';
 
-var actionLog = Logger.get('alt/action');
-var actionLogMethod = actionLog.debug.bind(actionLog);
-
-var debug = {
+const debug = {
   init() {
     this.setupActions();
     this.setupGlobals();
@@ -15,6 +12,9 @@ var debug = {
     if (!config.debug.actions) {
       return;
     }
+
+    let actionLog = Logger.get('alt/action');
+    let actionLogMethod = actionLog.debug.bind(actionLog);
 
     alt.dispatcher.register(actionLogMethod);
   },
@@ -52,4 +52,4 @@ var debug = {
   }
 };
 
-module.exports = debug;
+export default debug;
