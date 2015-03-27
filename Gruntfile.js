@@ -87,9 +87,23 @@ module.exports = function(grunt) {
           './static/css/app.css': ['./src/css/**/*.styl']
         }
       }
+    },
+
+    uglify: {
+      vendor: {
+        files: {
+          './static/js/vendor.js': ['./static/js/vendor.js']
+        }
+      },
+
+      app: {
+        files: {
+          './static/js/app.js': ['./static/js/app.js']
+        }
+      }
     }
   });
 
-  grunt.registerTask('build', ['stylus:app', 'browserify:vendor', 'browserify:app']);
+  grunt.registerTask('build', ['stylus', 'browserify', 'uglify']);
   grunt.registerTask('default', ['build', 'watch']);
 };
