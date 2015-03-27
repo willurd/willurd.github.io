@@ -787,8 +787,12 @@ module.exports = types;
 },{}],12:[function(require,module,exports){
 "use strict";
 
+exports.identity = identity;
 exports.flatten = flatten;
 exports.flatMap = flatMap;
+exports.range = range;
+exports.times = times;
+exports.interleave = interleave;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -796,12 +800,42 @@ var flattener = function (acc, subList) {
   return acc.concat(subList);
 };
 
+function identity(value) {
+  return value;
+}
+
 function flatten(list) {
   return list.reduce(flattener, []);
 }
 
 function flatMap(list, fn) {
   return flatten(list.map(fn));
+}
+
+function range(count) {}
+
+function times(count, fn) {
+  var result = [];
+
+  for (var i = 0; i < count; i++) {
+    result.push(fn(i));
+  }
+
+  return result;
+}
+
+function interleave() {
+  for (var _len = arguments.length, lists = Array(_len), _key = 0; _key < _len; _key++) {
+    lists[_key] = arguments[_key];
+  }
+
+  var first = lists[0];
+  return times(first.length, identity).reduce(function (acc, index) {
+    lists.forEach(function (list) {
+      return list[index] !== undefined && acc.push(list[index]);
+    });
+    return acc;
+  }, []);
 }
 
 
@@ -1100,6 +1134,11 @@ var React = _interopRequire(require("react"));
 
 var resource = _interopRequire(require('./../../core/resource.js'));
 
+var _libFp = require('./../../lib/fp.js');
+
+var interleave = _libFp.interleave;
+var times = _libFp.times;
+
 var Photo = React.createClass({
   displayName: "Photo",
 
@@ -1112,12 +1151,44 @@ var Photo = React.createClass({
   }
 });
 
+var Whatami = React.createClass({
+  displayName: "Whatami",
+
+  getInitialState: function getInitialState() {
+    return {
+      ima: ["Software Engineer", "Product builder", "Lifelong learner", "Advocate for users"]
+    };
+  },
+
+  render: function render() {
+    var things = this.state.ima.map(function (thing) {
+      return React.createElement(
+        "span",
+        { key: thing, className: "thing" },
+        thing
+      );
+    });
+    var spacers = times(things.length - 1, function (i) {
+      return React.createElement(
+        "span",
+        { key: i, className: "spacer" },
+        "·"
+      );
+    });
+    var children = interleave(things, spacers);
+
+    return React.createElement(
+      "div",
+      { className: "Whatami" },
+      children
+    );
+  }
+});
+
 var Header = React.createClass({
   displayName: "Header",
 
   render: function render() {
-    var whatami = ["Software Engineer", "Lifelong learner", "Advocate for users"];
-
     return React.createElement(
       "div",
       { className: "Header" },
@@ -1127,11 +1198,7 @@ var Header = React.createClass({
         null,
         "WILLIAM BOWERS"
       ),
-      React.createElement(
-        "p",
-        null,
-        whatami.join(" · ")
-      ),
+      React.createElement(Whatami, null),
       React.createElement(
         "p",
         { className: "email" },
@@ -1168,7 +1235,7 @@ var Header = React.createClass({
 module.exports = Header;
 
 
-},{"./../../core/resource.js":8,"react":"react"}],20:[function(require,module,exports){
+},{"./../../core/resource.js":8,"./../../lib/fp.js":12,"react":"react"}],20:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };

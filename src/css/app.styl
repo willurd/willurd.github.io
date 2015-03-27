@@ -1,9 +1,14 @@
-@import 'colors'
+@import 'variables'
+
+// ======================================================================
+// Body & Chrome
+// ======================================================================
 
 body
   background-color #f5f5f5
   color $colorText
   font-family 'Open Sans', sans-serif
+  font-size $fontSizeRegular
   margin 0
   padding 0
   text-align center
@@ -20,16 +25,13 @@ body
   position absolute
   top 0
 
-.Photo img
-  border 5px solid #fff
-  border-radius 100px
-  box-shadow 0px 0px 15px -5px rgba(0, 0, 0, 0.75)
-  height 200px
-  width 200px
+// ======================================================================
+// Native elements
+// ======================================================================
 
 h1
   font-family 'Josefin Sans', sans-serif
-  font-size 32px
+  font-size $fontSizeExtraLarge
 
 a
   color $colorLink
@@ -37,8 +39,29 @@ a
   &:hover
     color lighten($colorLink, 25%)
 
-.email span
-  color $colorMutedText
+// ======================================================================
+// Header
+// ======================================================================
+
+.Photo img
+  border 5px solid #fff
+  border-radius 100px
+  box-shadow 0px 0px 15px -5px rgba(0, 0, 0, 0.75)
+  height 200px
+  width 200px
+
+.Whatami
+  margin 10px 20px
+
+  .spacer
+    color $colorMutedText
+    margin 0 8px
+
+.email
+  font-size $fontSizeSmall
+
+  span
+    color $colorMutedText
 
 .Navigation
   font-weight 300
@@ -62,3 +85,11 @@ a
       &:hover
         background-color lighten($colorLink, 25%)
         color #fff
+
+// ======================================================================
+// Home
+// ======================================================================
+
+// ======================================================================
+// Resume
+// ======================================================================
