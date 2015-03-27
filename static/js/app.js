@@ -627,7 +627,7 @@ bootstrapService.run().then(function () {
 });
 
 
-},{"./../lib/log.js":13,"./../service/bootstrap.js":16,"./router.js":9,"ga-react-router":"ga-react-router","react":"react"}],6:[function(require,module,exports){
+},{"./../lib/log.js":14,"./../service/bootstrap.js":17,"./router.js":9,"ga-react-router":"ga-react-router","react":"react"}],6:[function(require,module,exports){
 "use strict";
 
 var config = {
@@ -700,7 +700,7 @@ var debug = {
 module.exports = debug;
 
 
-},{"./../lib/http.js":12,"./../lib/log.js":13,"./alt.js":4,"./config.js":6,"./router.js":9,"./title.js":10,"./types.js":11}],8:[function(require,module,exports){
+},{"./../lib/http.js":13,"./../lib/log.js":14,"./alt.js":4,"./config.js":6,"./router.js":9,"./title.js":10,"./types.js":11}],8:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -742,7 +742,7 @@ var router = Router.create({
 module.exports = router;
 
 
-},{"./../view/app/App.js":17,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
+},{"./../view/app/App.js":18,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
 "use strict";
 
 var stack = [];
@@ -779,6 +779,27 @@ module.exports = types;
 
 
 },{}],12:[function(require,module,exports){
+"use strict";
+
+exports.flatten = flatten;
+exports.flatMap = flatMap;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var flattener = function (acc, subList) {
+  return acc.concat(subList);
+};
+
+function flatten(list) {
+  return list.reduce(flattener, []);
+}
+
+function flatMap(list, fn) {
+  return flatten(list.map(fn));
+}
+
+
+},{}],13:[function(require,module,exports){
 "use strict";
 
 var _toConsumableArray = function (arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) arr2[i] = arr[i]; return arr2; } else { return Array.from(arr); } };
@@ -841,7 +862,7 @@ dataTypes.forEach(function (dataType) {
 module.exports = http;
 
 
-},{"./log.js":13,"superagent":"superagent"}],13:[function(require,module,exports){
+},{"./log.js":14,"superagent":"superagent"}],14:[function(require,module,exports){
 "use strict";
 
 var _toConsumableArray = function (arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) arr2[i] = arr[i]; return arr2; } else { return Array.from(arr); } };
@@ -903,7 +924,7 @@ log.Logger = Logger;
 module.exports = log;
 
 
-},{"./../core/config.js":6}],14:[function(require,module,exports){
+},{"./../core/config.js":6}],15:[function(require,module,exports){
 "use strict";
 
 var _createClass = (function () { function defineProperties(target, props) { for (var key in props) { var prop = props[key]; prop.configurable = true; if (prop.value) prop.writable = true; } Object.defineProperties(target, props); } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
@@ -954,7 +975,7 @@ var Screen = (function (_EventEmitter) {
 module.exports = new Screen();
 
 
-},{"events":1}],15:[function(require,module,exports){
+},{"events":1}],16:[function(require,module,exports){
 "use strict";
 
 var title = require('./../core/title.js');
@@ -990,7 +1011,7 @@ var titleMixin = {
 module.exports = titleMixin;
 
 
-},{"./../core/title.js":10}],16:[function(require,module,exports){
+},{"./../core/title.js":10}],17:[function(require,module,exports){
 "use strict";
 
 var Q = require("q");
@@ -1008,7 +1029,7 @@ var bootstrapService = {
 module.exports = bootstrapService;
 
 
-},{"./../core/debug.js":7,"q":"q"}],17:[function(require,module,exports){
+},{"./../core/debug.js":7,"q":"q"}],18:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1025,6 +1046,20 @@ var Header = _interopRequire(require('./Header.js'));
 
 var Stripes = _interopRequire(require('./Stripes.js'));
 
+var AppContainer = React.createClass({
+  displayName: "AppContainer",
+
+  render: function render() {
+    return React.createElement(
+      "div",
+      { className: "AppContainer" },
+      React.createElement(Stripes, { position: "left" }),
+      React.createElement(Stripes, { position: "right" }),
+      React.createElement(App, null)
+    );
+  }
+});
+
 var App = React.createClass({
   displayName: "App",
 
@@ -1038,18 +1073,16 @@ var App = React.createClass({
     return React.createElement(
       "div",
       { className: "App" },
-      React.createElement(Stripes, { position: "left" }),
-      React.createElement(Stripes, { position: "right" }),
       React.createElement(Header, null),
       React.createElement(RouteHandler, null)
     );
   }
 });
 
-module.exports = App;
+module.exports = AppContainer;
 
 
-},{"./../../core/config.js":6,"./../../mixin/title.js":15,"./Header.js":18,"./Stripes.js":19,"react":"react","react-router":"react-router"}],18:[function(require,module,exports){
+},{"./../../core/config.js":6,"./../../mixin/title.js":16,"./Header.js":19,"./Stripes.js":20,"react":"react","react-router":"react-router"}],19:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1097,7 +1130,7 @@ var Header = React.createClass({
 module.exports = Header;
 
 
-},{"./../../core/resource.js":8,"react":"react"}],19:[function(require,module,exports){
+},{"./../../core/resource.js":8,"react":"react"}],20:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1106,8 +1139,20 @@ var React = _interopRequire(require("react"));
 
 var screen = _interopRequire(require('./../../lib/screen.js'));
 
+var flatMap = require('./../../lib/fp.js').flatMap;
+
+var themes = [["#F2A199", "#E43664", "#54A0A6", "#5D4C40"], ["#3F95A1", "#5FB0BB", "#E5001A", "#181F22", "#3C5C60"], ["#F90324", "#215DB0"], ["#F8A6AA", "#91C1B4", "#EFC236", "#E3373F", "#A5CD52", "#E05F0B", "#94D9D5", "#674026"]];
+
 var Stripes = React.createClass({
   displayName: "Stripes",
+
+  getDefaultProps: function getDefaultProps() {
+    return {
+      theme: themes[0],
+      colorHeight: 15,
+      width: 15
+    };
+  },
 
   componentDidMount: function componentDidMount() {
     this.draw();
@@ -1119,6 +1164,10 @@ var Stripes = React.createClass({
   },
 
   draw: function draw() {
+    var _props = this.props;
+    var theme = _props.theme;
+    var colorHeight = _props.colorHeight;
+
     var c = this.refs.canvas.getDOMNode();
     var ctx = c.getContext("2d");
 
@@ -1127,18 +1176,36 @@ var Stripes = React.createClass({
     var width = _screen$size.width;
     var height = _screen$size.height;
 
+    ctx.clearRect(0, 0, c.width, c.height);
     c.height = height;
+
+    // TODO: Randomize theme to find the best order of colors.
+
+    var y = 0;
+    var colors = flatMap(theme, function (color) {
+      return [color, "#FFF"];
+    });
+
+    for (var i = 0; y < height; i = (i + 1) % colors.length, y += colorHeight) {
+      var color = colors[i];
+      ctx.fillStyle = color;
+      ctx.fillRect(0, y, c.width, colorHeight);
+    }
   },
 
   render: function render() {
+    var width = this.props.width;
+
     var style = {};
     style[this.props.position] = 0;
 
-    return React.createElement("canvas", { className: "Stripes", ref: "canvas", width: 100, style: style });
+    return React.createElement("canvas", { className: "Stripes", ref: "canvas", width: width, style: style });
   }
 });
 
 module.exports = Stripes;
 
+// [ '#', '#', '#', '#', '#' ],
 
-},{"./../../lib/screen.js":14,"react":"react"}]},{},[5]);
+
+},{"./../../lib/fp.js":12,"./../../lib/screen.js":15,"react":"react"}]},{},[5]);

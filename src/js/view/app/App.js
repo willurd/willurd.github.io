@@ -5,7 +5,19 @@ import { RouteHandler } from 'react-router';
 import Header from 'view/app/Header';
 import Stripes from 'view/app/Stripes';
 
-var App = React.createClass({
+const AppContainer = React.createClass({
+  render() {
+    return (
+      <div className='AppContainer'>
+        <Stripes position='left' />
+        <Stripes position='right' />
+        <App />
+      </div>
+    );
+  }
+});
+
+const App = React.createClass({
   mixins: [
     titleMixin
   ],
@@ -17,9 +29,6 @@ var App = React.createClass({
   render() {
     return (
       <div className='App'>
-        <Stripes position='left' />
-        <Stripes position='right' />
-
         <Header />
         <RouteHandler />
       </div>
@@ -27,4 +36,4 @@ var App = React.createClass({
   }
 });
 
-module.exports = App;
+module.exports = AppContainer;
