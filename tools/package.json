@@ -1,0 +1,13 @@
+{
+  "name": "tools",
+  "version": "0.0.1",
+  "description": "Tools for willurd.github.io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Bowers <william.bowers@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parse": "^1.3.5"
+  }
+}
