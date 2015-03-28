@@ -11,7 +11,7 @@ bootstrapService.run().then(() => {
     analytics(state);
 
     try {
-      React.render(<Handler />, document.body);
+      React.render(<Handler />, document.getElementById('app'));
     } catch(e) {
       log.error('Error performing initial render:', e.stack || e);
     }
