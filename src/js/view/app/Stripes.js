@@ -2,6 +2,19 @@ import React from 'react';
 import screen from 'lib/screen';
 import { flatMap } from 'lib/fp';
 
+function documentHeight() {
+  let body = document.body;
+  let html = document.documentElement;
+
+  return Math.max(
+    body.scrollHeight,
+    body.offsetHeight,
+    html.clientHeight,
+    html.scrollHeight,
+    html.offsetHeight
+  );
+}
+
 const themes = [
   [ '#F2A199', '#E43664', '#54A0A6', '#5D4C40' ],
   [ '#3F95A1', '#5FB0BB', '#E5001A', '#181F22', '#3C5C60' ],
@@ -31,7 +44,8 @@ const Stripes = React.createClass({
     let { theme, colorHeight } = this.props;
     let c = this.refs.canvas.getDOMNode();
     let ctx = c.getContext('2d');
-    let { width, height } = screen.size();
+    let width = screen.width();
+    let height = documentHeight();
 
     ctx.clearRect(0, 0, c.width, c.height);
     c.height = height;
