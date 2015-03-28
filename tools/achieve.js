@@ -1,6 +1,6 @@
 var Parse = require('parse').Parse;
 
-Parse.initialize('EVYQ3z8RxbmAwigJXTpGXHu7bzeMY8DEJOJSxVYj', 'iHa7fkaXNIWZAUvmjyDftPXpzJjSRsGTb5blnjcY');
+Parse.initialize('', '');
 
 var Achievement = Parse.Object.extend('Achievement');
 var text = process.argv.slice(2).join(' ').trim();
