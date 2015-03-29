@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactAddons from 'react-addons'
 import titleMixin from 'mixin/title';
+import Achievements from './Achievements';
 
 const cx = ReactAddons.classSet;
 
@@ -109,6 +110,7 @@ const Home = React.createClass({
         </p>
 
         <MyLinks />
+        <Achievements />
       </div>
     );
   }
