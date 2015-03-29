@@ -1,39 +1,36 @@
+#!/usr/bin/env node
+
 var Parse = require('parse').Parse;
 var read = require('read');
 
 Parse.initialize("EVYQ3z8RxbmAwigJXTpGXHu7bzeMY8DEJOJSxVYj", "iHa7fkaXNIWZAUvmjyDftPXpzJjSRsGTb5blnjcY");
 
 var Achievement = Parse.Object.extend('Achievement');
-var text = process.argv.slice(2).join(' ').trim();
+var username = process.argv[2];
+var password = process.argv[3];
+var text = process.argv.slice(4).join(' ').trim();
 
 if (text) {
-  read({ prompt: 'Username:' }, function(err, username) {
-    if (err) {
-      console.log('Error reading username:', err);
-      return;
+  Parse.User.logIn(username, password, {
+    success: function(user) {
+      console.log(4);
+      var acl = new Parse.ACL();
+      acl.setPublicReadAccess(true);
+      acl.setPublicWriteAccess(false);
+
+      var achievement = new Achievement();
+      achievement.setACL(acl);
+      achievement
+        .save({text: text})
+        .then(function(object) {
+          console.log('success');
+        }, function(e) {
+          console.log('error:', e);
+        });
+    },
+    error: function(user, error) {
+      console.log('Unable to log in:', error);
     }
-
-    read({ prompt: 'Password:', silent: true }, function(err, password) {
-      if (err) {
-        console.log('Error reading password:', err);
-        return;
-      }
-
-      Parse.User.logIn(username, password, {
-        success: function(user) {
-          new Achievement()
-            .save({text: text})
-            .then(function(object) {
-              console.log('success');
-            }, function(e) {
-              console.log('error:', e);
-            });
-        },
-        error: function(user, error) {
-          console.log('Unable to log in:', error);
-        }
-      });
-    });
   });
 } else {
   new Parse.Query(Achievement)

@@ -6,4 +6,3 @@ node_modules/
 *.hot-update.json
 *.sublime-project
 *.sublime-workspace
-tools/creds.txt
