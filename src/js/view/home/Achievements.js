@@ -33,8 +33,6 @@ const Achievements = React.createClass({
   },
 
   render() {
-    console.debug(this.state.achievements);
-
     return (
       <div className='Achievements'>
         {this.state.achievements.map(achievement =>

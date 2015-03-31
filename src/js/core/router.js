@@ -7,7 +7,7 @@ const { Route, DefaultRoute } = Router;
 
 const router = Router.create({
   routes: (
-    <Route handler={App} path='/'>
+    <Route handler={App} name='root' path='/'>
       <DefaultRoute name='home' path='' handler={Home} />
       <Route name='resume' />
     </Route>
