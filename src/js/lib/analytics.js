@@ -3,8 +3,12 @@ import { Logger } from 'lib/log';
 
 const log = Logger.get('analytics');
 const debugAnalytics = {};
+const methods = window.analytics.methods || [
+  'trackSubmit', 'trackClick', 'trackLink', 'trackForm', 'pageview', 'identify',
+  'group', 'track', 'ready', 'alias', 'page', 'once', 'off', 'on'
+];
 
-window.analytics.methods.forEach(method => {
+methods.forEach(method => {
   debugAnalytics[method] = log.debug.bind(log, method);
 });
 
