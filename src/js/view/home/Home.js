@@ -1,19 +1,31 @@
+import _ from 'lodash';
 import React from 'react';
 import ReactAddons from 'react-addons'
 import titleMixin from 'mixin/title';
 import Achievements from './Achievements';
+import analytics from 'lib/analytics';
+import TRIM from 'lib/TRIM';
 
 const cx = ReactAddons.classSet;
 
 const IconLink = React.createClass({
+  track(name, props) {
+    analytics.track(`home.mylinks.${name}`, _.pick(this.props, 'id', 'href', 'text'));
+  },
+
   onMouseEnter() {
+    this.track('activated');
     this.props.onActivate(this.props);
+  },
+
+  onClick(event) {
+    this.track('clicked');
   },
 
   render() {
     return (
       <li className={cx('IconLink', this.props.isActive ? 'active' : '', this.props.id)}>
-        <a href={this.props.href} target='_blank'>
+        <a href={this.props.href} onClick={this.onClick} target='_blank'>
           <i
             className={this.props.iconClass}
             onMouseEnter={this.onMouseEnter}></i>
@@ -32,7 +44,7 @@ const MyLinks = React.createClass({
           id: 'github',
           iconClass: 'fa fa-github',
           href: 'https://github.com/willurd',
-          text: `
+          text: TRIM`
             Check out my code (including this site).
           `
         },
@@ -40,7 +52,7 @@ const MyLinks = React.createClass({
           id: 'linkedin',
           iconClass: 'fa fa-linkedin',
           href: 'https://www.linkedin.com/in/wbowers',
-          text: `
+          text: TRIM`
             Read up on my professional history.
           `
         },
@@ -48,7 +60,7 @@ const MyLinks = React.createClass({
           id: 'accredible',
           iconClass: '',
           href: 'https://learning.accredible.com/u/willurd',
-          text: `
+          text: TRIM`
             Take a look at my portfolio of completed online courses.
           `
         },
@@ -56,7 +68,7 @@ const MyLinks = React.createClass({
           id: 'gibbon',
           iconClass: '',
           href: 'https://gibbon.co/willurd',
-          text: `
+          text: TRIM`
             Check out what I'm teaching.
           `
         }
@@ -100,15 +112,22 @@ const Home = React.createClass({
     this.title('Software Engineer');
   },
 
+  getInitialState() {
+    return {
+      message: TRIM`
+        I'm a Software Engineer at
+        <a href='https://www.coursera.org/' target='_blank'>Coursera</a>,
+        helping them provide
+        <br />
+        <strong>universal access to the world's best education</strong>.
+      `
+    };
+  },
+
   render() {
     return (
       <div className='Home'>
-        <p className='lead'>
-          I'm a Software Engineer at <a href='https://www.coursera.org/' target='_blank'>Coursera</a>,&nbsp;
-          helping them provide<br />
-          <strong>universal access to the world's best education</strong>.
-        </p>
-
+        <p className='lead' dangerouslySetInnerHTML={{__html: this.state.message}}></p>
         <MyLinks />
         <Achievements />
       </div>
