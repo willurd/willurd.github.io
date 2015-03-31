@@ -9,15 +9,16 @@ const log = Logger.get('core/app');
 bootstrapService.run().then(() => {
   router.run((Handler, state) => {
     let routes = (state.routes || []).map(route => route.name).slice(1);
+    let pageName = routes.join('/').trim();
 
-    analytics.page('Home', {
+    analytics.page(pageName, {
+      exists: !!pageName,
       action: state.action,
       params: state.params,
       path: state.path,
       pathname: state.pathname,
       query: state.query,
-      routes: routes,
-      routePath: routes.join('/')
+      routes: routes
     });
 
     try {

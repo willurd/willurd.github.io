@@ -621,15 +621,16 @@ bootstrapService.run().then(function () {
     var routes = (state.routes || []).map(function (route) {
       return route.name;
     }).slice(1);
+    var pageName = routes.join("/").trim();
 
-    analytics.page("Home", {
+    analytics.page(pageName, {
+      exists: !!pageName,
       action: state.action,
       params: state.params,
       path: state.path,
       pathname: state.pathname,
       query: state.query,
-      routes: routes,
-      routePath: routes.join("/")
+      routes: routes
     });
 
     try {
@@ -643,7 +644,7 @@ bootstrapService.run().then(function () {
 });
 
 
-},{"./../lib/analytics.js":12,"./../lib/log.js":15,"./../service/bootstrap.js":19,"./router.js":9,"react":"react"}],6:[function(require,module,exports){
+},{"./../lib/analytics.js":13,"./../lib/log.js":16,"./../service/bootstrap.js":20,"./router.js":9,"react":"react"}],6:[function(require,module,exports){
 "use strict";
 
 var envs = {
@@ -727,7 +728,7 @@ var debug = {
 module.exports = debug;
 
 
-},{"./../lib/http.js":14,"./../lib/log.js":15,"./alt.js":4,"./config.js":6,"./router.js":9,"./title.js":10,"./types.js":11}],8:[function(require,module,exports){
+},{"./../lib/http.js":15,"./../lib/log.js":16,"./alt.js":4,"./config.js":6,"./router.js":9,"./title.js":10,"./types.js":11}],8:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -764,24 +765,28 @@ var Router = _interopRequire(require("react-router"));
 
 var App = _interopRequire(require('./../view/app/App.js'));
 
+var NotFound = _interopRequire(require('./../view/app/NotFound.js'));
+
 var Home = _interopRequire(require('./../view/home/Home.js'));
 
 var Route = Router.Route;
 var DefaultRoute = Router.DefaultRoute;
+var NotFoundRoute = Router.NotFoundRoute;
 
 var router = Router.create({
   routes: React.createElement(
     Route,
     { handler: App, name: "root", path: "/" },
     React.createElement(DefaultRoute, { name: "home", path: "", handler: Home }),
-    React.createElement(Route, { name: "resume" })
+    React.createElement(Route, { name: "resume" }),
+    React.createElement(NotFoundRoute, { handler: NotFound })
   )
 });
 
 module.exports = router;
 
 
-},{"./../view/app/App.js":20,"./../view/home/Home.js":25,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
+},{"./../view/app/App.js":21,"./../view/app/NotFound.js":24,"./../view/home/Home.js":27,"react":"react","react-router":"react-router"}],10:[function(require,module,exports){
 "use strict";
 
 var _createClass = (function () { function defineProperties(target, props) { for (var key in props) { var prop = props[key]; prop.configurable = true; if (prop.value) prop.writable = true; } Object.defineProperties(target, props); } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
@@ -824,7 +829,7 @@ var Title = (function () {
 module.exports = new Title();
 
 
-},{"./../lib/fp.js":13}],11:[function(require,module,exports){
+},{"./../lib/fp.js":14}],11:[function(require,module,exports){
 "use strict";
 
 var types = {};
@@ -833,6 +838,44 @@ module.exports = types;
 
 
 },{}],12:[function(require,module,exports){
+"use strict";
+
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
+var _ = _interopRequire(require("lodash"));
+
+function TRIM(strings) {
+  for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+    args[_key - 1] = arguments[_key];
+  }
+
+  // Merge the strings and template arguments without modifying anything.
+  var string = _.reduce(strings.slice(0, strings.length), function (acc, string) {
+    return acc + string + (args.length ? args.shift() : "");
+  }, "");
+
+  // Get all but the first and last lines.
+  var lines = _(string.split("\n")).chain().rest().initial().value();
+
+  if (!lines.length) {
+    return "";
+  }
+
+  // Find the base indentation, in case there are lines that have different levels
+  // of indentaiton.
+  var baseIndentationMatch = lines[0].match(/^\s*/);
+  var baseIndentation = baseIndentationMatch ? baseIndentationMatch[0] : "";
+  var baseIndentationRegex = new RegExp("^" + baseIndentation);
+
+  return lines.map(function (line) {
+    return line.replace(baseIndentationRegex, "");
+  }).join("\n");
+}
+
+module.exports = TRIM;
+
+
+},{"lodash":"lodash"}],13:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -858,7 +901,7 @@ var analytics = fns[config.env];
 module.exports = analytics;
 
 
-},{"./../core/config.js":6,"./log.js":15}],13:[function(require,module,exports){
+},{"./../core/config.js":6,"./log.js":16}],14:[function(require,module,exports){
 "use strict";
 
 exports.identity = identity;
@@ -942,7 +985,7 @@ function compact(list) {
 ;
 
 
-},{}],14:[function(require,module,exports){
+},{}],15:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1005,7 +1048,7 @@ dataTypes.forEach(function (dataType) {
 module.exports = http;
 
 
-},{"./log.js":15,"superagent":"superagent"}],15:[function(require,module,exports){
+},{"./log.js":16,"superagent":"superagent"}],16:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1070,7 +1113,7 @@ log.Logger = Logger;
 module.exports = log;
 
 
-},{"./../core/config.js":6}],16:[function(require,module,exports){
+},{"./../core/config.js":6}],17:[function(require,module,exports){
 "use strict";
 
 var _createClass = (function () { function defineProperties(target, props) { for (var key in props) { var prop = props[key]; prop.configurable = true; if (prop.value) prop.writable = true; } Object.defineProperties(target, props); } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
@@ -1121,7 +1164,7 @@ var Screen = (function (_EventEmitter) {
 module.exports = new Screen();
 
 
-},{"events":1}],17:[function(require,module,exports){
+},{"events":1}],18:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1153,7 +1196,7 @@ function titleMixin(index) {
 module.exports = titleMixin;
 
 
-},{"./../core/title.js":10}],18:[function(require,module,exports){
+},{"./../core/title.js":10}],19:[function(require,module,exports){
 "use strict";
 
 var Parse = require("parse").Parse;
@@ -1163,7 +1206,7 @@ var Achievement = Parse.Object.extend("Achievement");
 module.exports = Achievement;
 
 
-},{"parse":"parse"}],19:[function(require,module,exports){
+},{"parse":"parse"}],20:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1201,7 +1244,7 @@ var BootstrapService = (function () {
 module.exports = new BootstrapService();
 
 
-},{"./../core/debug.js":7,"parse":"parse","q":"q"}],20:[function(require,module,exports){
+},{"./../core/debug.js":7,"parse":"parse","q":"q"}],21:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1257,7 +1300,7 @@ module.exports = AppContainer;
 /* to be added once the resume view is complete: <Navigation /> */
 
 
-},{"./../../core/config.js":6,"./../../mixin/title.js":17,"./Header.js":21,"./Navigation.js":22,"./Stripes.js":23,"react":"react","react-router":"react-router"}],21:[function(require,module,exports){
+},{"./../../core/config.js":6,"./../../mixin/title.js":18,"./Header.js":22,"./Navigation.js":23,"./Stripes.js":25,"react":"react","react-router":"react-router"}],22:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1367,7 +1410,7 @@ var Header = React.createClass({
 module.exports = Header;
 
 
-},{"./../../core/resource.js":8,"./../../lib/fp.js":13,"react":"react"}],22:[function(require,module,exports){
+},{"./../../core/resource.js":8,"./../../lib/fp.js":14,"react":"react"}],23:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1435,7 +1478,39 @@ var Navigation = React.createClass({
 module.exports = Navigation;
 
 
-},{"classnames":"classnames","react":"react","react-router":"react-router"}],23:[function(require,module,exports){
+},{"classnames":"classnames","react":"react","react-router":"react-router"}],24:[function(require,module,exports){
+"use strict";
+
+var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
+
+var _taggedTemplateLiteral = function (strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); };
+
+var React = _interopRequire(require("react"));
+
+var TRIM = _interopRequire(require('./../../lib/TRIM.js'));
+
+var NotFound = React.createClass({
+  displayName: "NotFound",
+
+  getInitialState: function getInitialState() {
+    return {
+      message: TRIM(_taggedTemplateLiteral(["\n        Whoops, it looks like this page doesn't exist. Try\n        <a href=\"/\">going home</a>.\n      "], ["\n        Whoops, it looks like this page doesn't exist. Try\n        <a href=\"/\">going home</a>.\n      "]))
+    };
+  },
+
+  render: function render() {
+    return React.createElement(
+      "div",
+      null,
+      React.createElement("p", { className: "lead", dangerouslySetInnerHTML: { __html: this.state.message } })
+    );
+  }
+});
+
+module.exports = NotFound;
+
+
+},{"./../../lib/TRIM.js":12,"react":"react"}],25:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1510,7 +1585,7 @@ var Stripes = React.createClass({
 module.exports = Stripes;
 
 
-},{"./../../lib/fp.js":13,"./../../lib/screen.js":16,"react":"react"}],24:[function(require,module,exports){
+},{"./../../lib/fp.js":14,"./../../lib/screen.js":17,"react":"react"}],26:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1582,7 +1657,7 @@ var Achievements = React.createClass({
 module.exports = Achievements;
 
 
-},{"./../../model/Achievement.js":18,"parse":"parse","react":"react"}],25:[function(require,module,exports){
+},{"./../../model/Achievement.js":19,"parse":"parse","react":"react"}],27:[function(require,module,exports){
 "use strict";
 
 var _interopRequire = function (obj) { return obj && obj.__esModule ? obj["default"] : obj; };
@@ -1720,4 +1795,4 @@ var Home = React.createClass({
 module.exports = Home;
 
 
-},{"./../../mixin/title.js":17,"./Achievements":24,"react":"react","react-addons":"react-addons"}]},{},[5]);
+},{"./../../mixin/title.js":18,"./Achievements":26,"react":"react","react-addons":"react-addons"}]},{},[5]);
