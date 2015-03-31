@@ -4,7 +4,9 @@ import bootstrapService from 'service/bootstrap';
 import { Logger } from 'lib/log';
 import analytics from 'lib/analytics';
 
-const log = Logger.get('core/app');
+// window.onerror = (error, url, line, column) => {
+//   analytics.track('error', { error, url, line, column });
+// };
 
 bootstrapService.run().then(() => {
   router.run((Handler, state) => {
@@ -24,9 +26,9 @@ bootstrapService.run().then(() => {
     try {
       React.render(<Handler />, document.getElementById('app'));
     } catch(e) {
-      log.error('Error performing initial render:', e.stack || e);
+      window.onerror('Error rendering application: ' + e.stack || (e && e.toString() || e));
     }
   });
 }).catch(e => {
-  log.error('Error bootstrapping application:', e.stack || e);
+  window.onerror('Error bootstrapping application: ' + e.stack || (e && e.toString() || e));
 });
