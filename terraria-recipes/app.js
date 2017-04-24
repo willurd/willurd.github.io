@@ -226,7 +226,7 @@ fetch('data/recipes/raw-data-sources.json')
   .then(response => response.json())
   .then(dataSources => {
     const promises = dataSources
-      .map(source => `/data/recipes/${source.target}`)
+      .map(source => `data/recipes/${source.target}`)
       .map(path => fetch(path));
 
     Promise.all(promises)
