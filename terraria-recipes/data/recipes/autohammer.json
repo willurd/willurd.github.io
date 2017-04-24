@@ -1,0 +1,25 @@
+[
+  {
+    "tool": "Autohammer",
+    "category": "Autohammer",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Bar",
+          "href": "https://terraria.gamepedia.com/Shroomite_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          },
+          {
+            "name": "Glowing Mushroom (15)"
+          }
+        ]
+      }
+    ]
+  }
+]

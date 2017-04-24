@@ -1,0 +1,1471 @@
+[
+  {
+    "tool": "Heavy Work Bench",
+    "category": "Heavy Work Bench",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Stone Slab",
+          "href": "https://terraria.gamepedia.com/Stone_Slab",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0e/Stone_Slab.png?version=c53a9f8ac6f9b353d2a275d038768f24"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sandstone Slab",
+          "href": "https://terraria.gamepedia.com/Sandstone_Slab",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bc/Sandstone_Slab.png?version=621ccab7ece3fe8e38b3ff52775d698a"
+        },
+        "ingredients": [
+          {
+            "name": "Sand Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dc/Sand_Block.png?version=320ff91f17cbdea18d21135e3f0a2853"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Copper Plating",
+          "href": "https://terraria.gamepedia.com/Copper_Plating",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e5/Copper_Plating.png?version=97d57f9bb8aa83503b546c58cf39789d"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Copper Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tin Plating",
+          "href": "https://terraria.gamepedia.com/Tin_Plating",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3d/Tin_Plating.png?version=decef563ae539c9f0234c78043b8346f"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Tin Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Tall Gate",
+          "href": "https://terraria.gamepedia.com/Tall_Gate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a2/Tall_Gate.png?version=6c70a08b563fc7d61cfbbeb89e7207d2"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (4)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Text Statue",
+          "href": "https://terraria.gamepedia.com/Text_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Text_Statue.png?version=c94a58210ba0fef4133e02a71c818116"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (50)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Amber Gem Lock",
+          "href": "https://terraria.gamepedia.com/Amber_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Amber_Gem_Lock.png?version=5f6033caba2ddfd78826b1357422599d"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Amber (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Amethyst Gem Lock",
+          "href": "https://terraria.gamepedia.com/Amethyst_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Amethyst_Gem_Lock.png?version=4284daeb62771bba6219956506d23e5f"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Amethyst (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Diamond Gem Lock",
+          "href": "https://terraria.gamepedia.com/Diamond_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/18/Diamond_Gem_Lock.png?version=345c2b772170382e62dc5221eccf353b"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Diamond (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Emerald Gem Lock",
+          "href": "https://terraria.gamepedia.com/Emerald_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fe/Emerald_Gem_Lock.png?version=096304cd02779bfa5622107c00557d39"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Emerald (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Ruby Gem Lock",
+          "href": "https://terraria.gamepedia.com/Ruby_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Ruby_Gem_Lock.png?version=3a6da5d10413c96e92ca6336b6b3927d"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Ruby (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Sapphire Gem Lock",
+          "href": "https://terraria.gamepedia.com/Sapphire_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Sapphire_Gem_Lock.png?version=87e300f3a7ed59a9a6dc863f72c6d40c"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Sapphire (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Topaz Gem Lock",
+          "href": "https://terraria.gamepedia.com/Topaz_Gem_Lock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Topaz_Gem_Lock.png?version=5bea28cd02a2a2135e78d35987abd757"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Topaz (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b3/Chest.png?version=bf217f038eab7c5dbb8496d399750f77"
+        },
+        "ingredients": [
+          {
+            "name": "Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b3/Chest.png?version=bf217f038eab7c5dbb8496d399750f77"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Gold Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Gold_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Gold_Chest.png?version=62b75f751f9c890b5b5353b39cd47dd5"
+        },
+        "ingredients": [
+          {
+            "name": "Gold Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Gold_Chest.png?version=62b75f751f9c890b5b5353b39cd47dd5"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Shadow Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Shadow_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/25/Shadow_Chest.png?version=b7a7fb5e390cd35bd0691a6fbff0ccbe"
+        },
+        "ingredients": [
+          {
+            "name": "Shadow Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/25/Shadow_Chest.png?version=b7a7fb5e390cd35bd0691a6fbff0ccbe"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Ebonwood Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Ebonwood_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Ebonwood_Chest.png?version=af19170313c25444c1c99395c4cab324"
+        },
+        "ingredients": [
+          {
+            "name": "Ebonwood Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Ebonwood_Chest.png?version=af19170313c25444c1c99395c4cab324"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Rich Mahogany Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Rich_Mahogany_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Rich_Mahogany_Chest.png?version=48455a4ce545c24ddd0b25b917b7fcfe"
+        },
+        "ingredients": [
+          {
+            "name": "Rich Mahogany Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Rich_Mahogany_Chest.png?version=48455a4ce545c24ddd0b25b917b7fcfe"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Pearlwood Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Pearlwood_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Pearlwood_Chest.png?version=f78ac2d6a89bc12fc8ea16bfc8b269ea"
+        },
+        "ingredients": [
+          {
+            "name": "Pearlwood Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Pearlwood_Chest.png?version=f78ac2d6a89bc12fc8ea16bfc8b269ea"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Ivy Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Ivy_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/79/Ivy_Chest.png?version=5301126c82c51c24ac30275979ef1597"
+        },
+        "ingredients": [
+          {
+            "name": "Ivy Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/79/Ivy_Chest.png?version=5301126c82c51c24ac30275979ef1597"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Ice Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Ice_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2a/Ice_Chest.png?version=4f65fd74513fbc4bfff55eb2dc42fbff"
+        },
+        "ingredients": [
+          {
+            "name": "Ice Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2a/Ice_Chest.png?version=4f65fd74513fbc4bfff55eb2dc42fbff"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Living Wood Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Living_Wood_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Living_Wood_Chest.png?version=324fb914bffd7ee1403c61a0098af146"
+        },
+        "ingredients": [
+          {
+            "name": "Living Wood Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Living_Wood_Chest.png?version=324fb914bffd7ee1403c61a0098af146"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Skyware Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Skyware_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c4/Skyware_Chest.png?version=d371915fe095b4778704c49c5557c280"
+        },
+        "ingredients": [
+          {
+            "name": "Skyware Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c4/Skyware_Chest.png?version=d371915fe095b4778704c49c5557c280"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Shadewood Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Shadewood_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/ca/Shadewood_Chest.png?version=f50ed80121ea7df777ac95acee987463"
+        },
+        "ingredients": [
+          {
+            "name": "Shadewood Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/ca/Shadewood_Chest.png?version=f50ed80121ea7df777ac95acee987463"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Web Covered Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Web_Covered_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Web_Covered_Chest.png?version=f7abbfb5980dcba3e99f58742e6a3323"
+        },
+        "ingredients": [
+          {
+            "name": "Web Covered Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Web_Covered_Chest.png?version=f7abbfb5980dcba3e99f58742e6a3323"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Lihzahrd Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Lihzahrd_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7f/Lihzahrd_Chest.png?version=15bdba5bd411579bee61b76eb43cceb6"
+        },
+        "ingredients": [
+          {
+            "name": "Lihzahrd Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7f/Lihzahrd_Chest.png?version=15bdba5bd411579bee61b76eb43cceb6"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Water Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Water_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Water_Chest.png?version=886ba235f1415417ce6815740b4d89af"
+        },
+        "ingredients": [
+          {
+            "name": "Water Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Water_Chest.png?version=886ba235f1415417ce6815740b4d89af"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Jungle Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Jungle_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/22/Jungle_Chest.png?version=cb46abd4177f0583694254fc45406ff1"
+        },
+        "ingredients": [
+          {
+            "name": "Jungle Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/22/Jungle_Chest.png?version=cb46abd4177f0583694254fc45406ff1"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Corruption Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Corruption_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Corruption_Chest.png?version=a5eb3003b59ba805df6d3b528b6813c1"
+        },
+        "ingredients": [
+          {
+            "name": "Corruption Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Corruption_Chest.png?version=a5eb3003b59ba805df6d3b528b6813c1"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Crimson Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Crimson_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Crimson_Chest.png?version=b6edcf1f3685363fba59eba670587f75"
+        },
+        "ingredients": [
+          {
+            "name": "Crimson Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Crimson_Chest.png?version=b6edcf1f3685363fba59eba670587f75"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Hallowed Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Hallowed_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/31/Hallowed_Chest.png?version=70b359942692ada97370f9d29e4fee97"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/31/Hallowed_Chest.png?version=70b359942692ada97370f9d29e4fee97"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Frozen Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Frozen_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b4/Frozen_Chest.png?version=4790cd8e2385afd7a6693b454e5f60e8"
+        },
+        "ingredients": [
+          {
+            "name": "Frozen Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b4/Frozen_Chest.png?version=4790cd8e2385afd7a6693b454e5f60e8"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Dynasty Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Dynasty_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cf/Dynasty_Chest.png?version=2e6173c7d0bee1d0a95fbc8a96a6b525"
+        },
+        "ingredients": [
+          {
+            "name": "Dynasty Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cf/Dynasty_Chest.png?version=2e6173c7d0bee1d0a95fbc8a96a6b525"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Honey Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Honey_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Honey_Chest.png?version=6cd5e80050525d9838a67491be6fb368"
+        },
+        "ingredients": [
+          {
+            "name": "Honey Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Honey_Chest.png?version=6cd5e80050525d9838a67491be6fb368"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Steampunk Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Steampunk_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/40/Steampunk_Chest.png?version=169b2bb96d28622522a62e6de4d742d1"
+        },
+        "ingredients": [
+          {
+            "name": "Steampunk Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/40/Steampunk_Chest.png?version=169b2bb96d28622522a62e6de4d742d1"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Palm Wood Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Palm_Wood_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b8/Palm_Wood_Chest.png?version=0eef68b78982c7ba551087665ffbc6f6"
+        },
+        "ingredients": [
+          {
+            "name": "Palm Wood Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b8/Palm_Wood_Chest.png?version=0eef68b78982c7ba551087665ffbc6f6"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Mushroom Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Mushroom_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/55/Mushroom_Chest.png?version=4a1e9c92f13ef210e9a5d410598ba154"
+        },
+        "ingredients": [
+          {
+            "name": "Mushroom Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/55/Mushroom_Chest.png?version=4a1e9c92f13ef210e9a5d410598ba154"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Boreal Wood Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Boreal_Wood_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/61/Boreal_Wood_Chest.png?version=a76a8789924c2b90fe8b0b395e2da472"
+        },
+        "ingredients": [
+          {
+            "name": "Boreal Wood Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/61/Boreal_Wood_Chest.png?version=a76a8789924c2b90fe8b0b395e2da472"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Slime Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Slime_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Slime_Chest.png?version=07fffb41f49b02b85c8ee96824dce121"
+        },
+        "ingredients": [
+          {
+            "name": "Slime Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Slime_Chest.png?version=07fffb41f49b02b85c8ee96824dce121"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Green Dungeon Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Green_Dungeon_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Green_Dungeon_Chest.png?version=761331684a981a88d826dfdc94af0741"
+        },
+        "ingredients": [
+          {
+            "name": "Green Dungeon Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Green_Dungeon_Chest.png?version=761331684a981a88d826dfdc94af0741"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Pink Dungeon Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Pink_Dungeon_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/71/Pink_Dungeon_Chest.png?version=b2c5d0255b26a6ea0328cbb64c5924c6"
+        },
+        "ingredients": [
+          {
+            "name": "Pink Dungeon Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/71/Pink_Dungeon_Chest.png?version=b2c5d0255b26a6ea0328cbb64c5924c6"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Blue Dungeon Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Blue_Dungeon_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Blue_Dungeon_Chest.png?version=cbac17fab4dab4d85a905368fd69885d"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Dungeon Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Blue_Dungeon_Chest.png?version=cbac17fab4dab4d85a905368fd69885d"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Bone Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Bone_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Bone_Chest.png?version=78104936b155bb94459910dd2b80d32b"
+        },
+        "ingredients": [
+          {
+            "name": "Bone Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Bone_Chest.png?version=78104936b155bb94459910dd2b80d32b"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Cactus Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Cactus_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/31/Cactus_Chest.png?version=c0276f4230f803b2b03cf6f1dea2cdae"
+        },
+        "ingredients": [
+          {
+            "name": "Cactus Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/31/Cactus_Chest.png?version=c0276f4230f803b2b03cf6f1dea2cdae"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Flesh Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Flesh_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Flesh_Chest.png?version=999f262f27fb2e6a7174eee42cf3b96b"
+        },
+        "ingredients": [
+          {
+            "name": "Flesh Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Flesh_Chest.png?version=999f262f27fb2e6a7174eee42cf3b96b"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Obsidian Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Obsidian_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Obsidian_Chest.png?version=07555132aa9e08c290c67d208a5480e4"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Obsidian_Chest.png?version=07555132aa9e08c290c67d208a5480e4"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Pumpkin Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Pumpkin_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c2/Pumpkin_Chest.png?version=7b033f522c35ff1807220dbc2e611007"
+        },
+        "ingredients": [
+          {
+            "name": "Pumpkin Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c2/Pumpkin_Chest.png?version=7b033f522c35ff1807220dbc2e611007"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Spooky Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Spooky_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7c/Spooky_Chest.png?version=eac34cfe585cb2dd58718e291d598f48"
+        },
+        "ingredients": [
+          {
+            "name": "Spooky Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7c/Spooky_Chest.png?version=eac34cfe585cb2dd58718e291d598f48"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Glass Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Glass_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Glass_Chest.png?version=d3a11201a1caf4ba17745da31987a524"
+        },
+        "ingredients": [
+          {
+            "name": "Glass Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Glass_Chest.png?version=d3a11201a1caf4ba17745da31987a524"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Martian Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Martian_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/09/Martian_Chest.png?version=31bd6793c87d7232c95ac96317348303"
+        },
+        "ingredients": [
+          {
+            "name": "Martian Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/09/Martian_Chest.png?version=31bd6793c87d7232c95ac96317348303"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Meteorite Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Meteorite_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f3/Meteorite_Chest.png?version=739f0183d41129bda444f1f9155ef616"
+        },
+        "ingredients": [
+          {
+            "name": "Meteorite Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f3/Meteorite_Chest.png?version=739f0183d41129bda444f1f9155ef616"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Granite Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Granite_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fc/Granite_Chest.png?version=e153bd973d3a2d91f03a54fd1d2819fe"
+        },
+        "ingredients": [
+          {
+            "name": "Granite Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fc/Granite_Chest.png?version=e153bd973d3a2d91f03a54fd1d2819fe"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Marble Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Marble_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Marble_Chest.png?version=51a02b4a97717e3b1e628822012245d0"
+        },
+        "ingredients": [
+          {
+            "name": "Marble Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Marble_Chest.png?version=51a02b4a97717e3b1e628822012245d0"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Crystal Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Crystal_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fd/Trapped_Crystal_Chest.png?version=72929e4119201fc0f078a7f73a6929dd"
+        },
+        "ingredients": [
+          {
+            "name": "Crystal Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/de/Crystal_Chest.png?version=0c1881fe937bacfec8a17b3f70822774"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Trapped Golden Chest",
+          "href": "https://terraria.gamepedia.com/Trapped_Golden_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7e/Trapped_Golden_Chest.png?version=be7a424ce404f4c6aa63d46c4e8c88cb"
+        },
+        "ingredients": [
+          {
+            "name": "Golden Chest",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Golden_Chest.png?version=29a687c9e6b1bedb00b419b6a813a5d0"
+          },
+          {
+            "name": "Wire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Bird Statue",
+          "href": "https://terraria.gamepedia.com/Bird_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cc/Bird_Statue.png?version=9dcd9dcdbdded698ab6798652f4df6be"
+        },
+        "ingredients": [
+          {
+            "name": "Bird (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/70/Bird.png?version=e15674626a0cbf64b813bb45e866abae"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Bird Statue",
+          "href": "https://terraria.gamepedia.com/Bird_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cc/Bird_Statue.png?version=9dcd9dcdbdded698ab6798652f4df6be"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Jay (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Blue_Jay.png?version=69c841cbc19de669df230b6a16a55ac6"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Bird Statue",
+          "href": "https://terraria.gamepedia.com/Bird_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cc/Bird_Statue.png?version=9dcd9dcdbdded698ab6798652f4df6be"
+        },
+        "ingredients": [
+          {
+            "name": "Cardinal (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d2/Cardinal.png?version=ad0b6ac777583ddd0184db0ce011d258"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Buggy Statue",
+          "href": "https://terraria.gamepedia.com/Buggy_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Buggy_Statue.png?version=043c70a05a3349cdd3b6844b047c7439"
+        },
+        "ingredients": [
+          {
+            "name": "Buggy (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Buggy.png?version=9387997641a068c6a13cb24284e2063a"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Buggy Statue",
+          "href": "https://terraria.gamepedia.com/Buggy_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Buggy_Statue.png?version=043c70a05a3349cdd3b6844b047c7439"
+        },
+        "ingredients": [
+          {
+            "name": "Sluggy (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/33/Sluggy.png?version=13aa62fc2e3aa022f1ad0b4fd489c445"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Buggy Statue",
+          "href": "https://terraria.gamepedia.com/Buggy_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Buggy_Statue.png?version=043c70a05a3349cdd3b6844b047c7439"
+        },
+        "ingredients": [
+          {
+            "name": "Grubby (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e5/Grubby.png?version=1d409fe5b64eebbf4fe78bf06ae210a5"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Bunny Statue",
+          "href": "https://terraria.gamepedia.com/Bunny_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cc/Bunny_Statue.png?version=71573a0c758adec674c0c4894100a23c"
+        },
+        "ingredients": [
+          {
+            "name": "Bunny (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/82/Bunny.png?version=ce8c28089c9cb0def12c38da12737112"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Butterfly Statue",
+          "href": "https://terraria.gamepedia.com/Butterfly_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5e/Butterfly_Statue.png?version=4808e590377b62640b90cce882637a66"
+        },
+        "ingredients": [
+          {
+            "name": "Butterfly (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/10/Butterfly.png?version=0d79f1b657d815a139ed9ad3eb46d9d1"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Duck Statue",
+          "href": "https://terraria.gamepedia.com/Duck_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a6/Duck_Statue.png?version=30c6e293a0af3f4b0215d30d13c8af24"
+        },
+        "ingredients": [
+          {
+            "name": "Duck (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/38/Duck.png?version=cb3e3f9cc06aacebae65bb085e93c4f1"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Duck Statue",
+          "href": "https://terraria.gamepedia.com/Duck_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a6/Duck_Statue.png?version=30c6e293a0af3f4b0215d30d13c8af24"
+        },
+        "ingredients": [
+          {
+            "name": "Mallard Duck (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/29/Mallard_Duck.png?version=556db0cf066472e1663953af974b03cb"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Firefly Statue",
+          "href": "https://terraria.gamepedia.com/Firefly_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Firefly_Statue.png?version=97e31b1f48381dd908a0ab2957f80d9a"
+        },
+        "ingredients": [
+          {
+            "name": "Firefly (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Firefly.png?version=7f30d9c572a250c202dfc20ed41b0582"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Firefly Statue",
+          "href": "https://terraria.gamepedia.com/Firefly_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Firefly_Statue.png?version=97e31b1f48381dd908a0ab2957f80d9a"
+        },
+        "ingredients": [
+          {
+            "name": "Lightning Bug (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9b/Lightning_Bug.png?version=b5d946d2e7f15273221d934760a37fab"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Fish Statue",
+          "href": "https://terraria.gamepedia.com/Fish_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/22/Fish_Statue.png?version=b201d5492d01bc7e27c9bdb3f2055e07"
+        },
+        "ingredients": [
+          {
+            "name": "Goldfish (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/02/Goldfish.png?version=383fa7f327878d42fc5367e4121a40f6"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frog Statue",
+          "href": "https://terraria.gamepedia.com/Frog_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8e/Frog_Statue.png?version=a4a4a8984d6a6d258e158959d863520d"
+        },
+        "ingredients": [
+          {
+            "name": "Frog (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e6/Frog.png?version=5f38ad536cf8805e7338bfe2b893f749"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Grasshopper Statue",
+          "href": "https://terraria.gamepedia.com/Grasshopper_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/29/Grasshopper_Statue.png?version=c35591743ba1359c536cb482385289ad"
+        },
+        "ingredients": [
+          {
+            "name": "Grasshopper (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fc/Grasshopper.png?version=a19ec259dc36b75f3843bdc65ba64d3f"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Mouse Statue",
+          "href": "https://terraria.gamepedia.com/Mouse_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ee/Mouse_Statue.png?version=8bcf4b0bce555a9ebcc38bf58c0cc901"
+        },
+        "ingredients": [
+          {
+            "name": "Mouse (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5c/Mouse.png?version=81bde2eb6d38a0fe98a2262955d21cdc"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Penguin Statue",
+          "href": "https://terraria.gamepedia.com/Penguin_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Penguin_Statue.png?version=f34679487406188eb9cdc921cc6cb094"
+        },
+        "ingredients": [
+          {
+            "name": "Penguin (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/97/Penguin.png?version=caa1f36fa08f4615f917fe426e293c5c"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Scorpion Statue",
+          "href": "https://terraria.gamepedia.com/Scorpion_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Scorpion_Statue.png?version=5ec5759f233bbd5241e06765029b9645"
+        },
+        "ingredients": [
+          {
+            "name": "Black Scorpion (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Black_Scorpion.png?version=e6222cc7a8a051ca6b4cb10c94e91ca6"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Scorpion Statue",
+          "href": "https://terraria.gamepedia.com/Scorpion_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Scorpion_Statue.png?version=5ec5759f233bbd5241e06765029b9645"
+        },
+        "ingredients": [
+          {
+            "name": "Scorpion (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Scorpion.png?version=679cdbc7b664b727a497a5be7a5ae23f"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Snail Statue",
+          "href": "https://terraria.gamepedia.com/Snail_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Snail_Statue.png?version=b5e399cc42543b65fef75f126e63ab42"
+        },
+        "ingredients": [
+          {
+            "name": "Snail (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d2/Snail.png?version=2493a676cd585b61139e6db29a49dd8d"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Squirrel Statue",
+          "href": "https://terraria.gamepedia.com/Squirrel_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/02/Squirrel_Statue.png?version=c5b1ca93f8cd0d1a807508ff03370b1f"
+        },
+        "ingredients": [
+          {
+            "name": "Squirrel (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/41/Squirrel.png?version=e3030484950bc3906380d2668e0e2167"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Squirrel Statue",
+          "href": "https://terraria.gamepedia.com/Squirrel_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/02/Squirrel_Statue.png?version=c5b1ca93f8cd0d1a807508ff03370b1f"
+        },
+        "ingredients": [
+          {
+            "name": "Red Squirrel (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Red_Squirrel.png?version=26614448b3002ad02d58c77d9449a5af"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Worm Statue",
+          "href": "https://terraria.gamepedia.com/Worm_Statue",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Worm_Statue.png?version=29ad57f01d8dfdd8a32cfc9f455325e5"
+        },
+        "ingredients": [
+          {
+            "name": "Worm (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/52/Worm.png?version=82f0dbe8632cdbec7061593aae885545"
+          },
+          {
+            "name": "Stone Block (50)"
+          }
+        ]
+      }
+    ]
+  }
+]

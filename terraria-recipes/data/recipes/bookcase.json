@@ -1,0 +1,68 @@
+[
+  {
+    "tool": "Bookcase",
+    "category": "Bookcase",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Crystal Storm",
+          "href": "https://terraria.gamepedia.com/Crystal_Storm",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fb/Crystal_Storm.png?version=8a2fc809199775e9000c257b52a9b582"
+        },
+        "ingredients": [
+          {
+            "name": "Crystal Shard (20 ) / (30 )",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/19/Crystal_Shard.png?version=07c6699388df006bb212d9e24d4c9811"
+          },
+          {
+            "name": "Soul of Light (15)"
+          },
+          {
+            "name": "Spell Tome (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cursed Flames",
+          "href": "https://terraria.gamepedia.com/Cursed_Flames",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/84/Cursed_Flames.png?version=8dbf42582fa0bdc8d68134212a590ffa"
+        },
+        "ingredients": [
+          {
+            "name": "Cursed Flame (20 ) / (30 )",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/19/Cursed_Flame.png?version=fcb42ac1ba7c54a310e5e938dd63a225"
+          },
+          {
+            "name": "Soul of Night (15)"
+          },
+          {
+            "name": "Spell Tome (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Golden Shower",
+          "href": "https://terraria.gamepedia.com/Golden_Shower",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Golden_Shower.png?version=80a680114a0018afe5a0f72c5e5f4eec"
+        },
+        "ingredients": [
+          {
+            "name": "Ichor (20 ) / (30 )",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/47/Ichor.png?version=646a823603f3fc3574abedb91822d6dd"
+          },
+          {
+            "name": "Soul of Night (15)"
+          },
+          {
+            "name": "Spell Tome (1)"
+          }
+        ]
+      }
+    ]
+  }
+]

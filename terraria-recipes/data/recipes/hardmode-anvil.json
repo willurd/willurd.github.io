@@ -1,0 +1,3569 @@
+[
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Mythril recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Helmet",
+          "href": "https://terraria.gamepedia.com/Mythril_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4c/Mythril_Helmet.png?version=7f9ffaa317a6475add37ed9a7a4a5235"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Hat",
+          "href": "https://terraria.gamepedia.com/Mythril_Hat",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/27/Mythril_Hat.png?version=831bd57a581a098fa2f7775fdc576d58"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Hood",
+          "href": "https://terraria.gamepedia.com/Mythril_Hood",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Mythril_Hood.png?version=08be901355dcce2b2fed41cf1089eadd"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Chainmail",
+          "href": "https://terraria.gamepedia.com/Mythril_Chainmail",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a8/Mythril_Chainmail.png?version=ca0bdf82d3dad8950252ed2793a402b7"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Greaves",
+          "href": "https://terraria.gamepedia.com/Mythril_Greaves",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/24/Mythril_Greaves.png?version=ac7e0c291303079a2ee40ad8236ab29c"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Drill",
+          "href": "https://terraria.gamepedia.com/Mythril_Drill",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/68/Mythril_Drill.png?version=46f955beee725155a315386932d32dbf"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Pickaxe",
+          "href": "https://terraria.gamepedia.com/Mythril_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ec/Mythril_Pickaxe.png?version=10c6e98c9c0a39ab34bab3a760942b1c"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Chainsaw",
+          "href": "https://terraria.gamepedia.com/Mythril_Chainsaw",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Mythril_Chainsaw.png?version=90be6b5c0ad885c8eaea885eb3975f09"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Waraxe",
+          "href": "https://terraria.gamepedia.com/Mythril_Waraxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Mythril_Waraxe.png?version=d9bafc84a244a42da43e17e22ccddd37"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Repeater",
+          "href": "https://terraria.gamepedia.com/Mythril_Repeater",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Mythril_Repeater.png?version=ee913a412ca7211d7d5c41d1972a23ec"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Sword",
+          "href": "https://terraria.gamepedia.com/Mythril_Sword",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c8/Mythril_Sword.png?version=22590fdd755aab713a95ebe726aca906"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Halberd",
+          "href": "https://terraria.gamepedia.com/Mythril_Halberd",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/12/Mythril_Halberd.png?version=576a1410569265eea9778601bbca2d01"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Orichalcum recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Mask",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5c/Orichalcum_Mask.png?version=25c20060fb816877271308b45f40240a"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Helmet",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a0/Orichalcum_Helmet.png?version=222009790ec6379f908062986f81302e"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Headgear",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Orichalcum_Headgear.png?version=92477b92af59d0c514187385ec19e110"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Breastplate",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b8/Orichalcum_Breastplate.png?version=a447c65f1309084a14c35a12052d1222"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Leggings",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/06/Orichalcum_Leggings.png?version=119f8487e767e78913b8396e37ab409f"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Drill",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Drill",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6e/Orichalcum_Drill.png?version=4a0b9a2bde0a1ef027399a9af8c547fb"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Pickaxe",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e9/Orichalcum_Pickaxe.png?version=df6a826f2f9c5c72fe7f946775b74e9b"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Chainsaw",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Chainsaw",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Orichalcum_Chainsaw.png?version=c76872870bfd58ae399503d49799874e"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Waraxe",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Waraxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ae/Orichalcum_Waraxe.png?version=cf3e6f538f2c98c40f8fbf9ab7da5248"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Repeater",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Repeater",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/Orichalcum_Repeater.png?version=3dc57a8d96690e47033095ead073ace9"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Sword",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Sword",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Orichalcum_Sword.png?version=2089ec6cf6121ccb364d0172dabfdf1e"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Halberd",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Halberd",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/89/Orichalcum_Halberd.png?version=afd69b8a8e4aa98e43d562f1c716f9bd"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Adamantite recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Helmet",
+          "href": "https://terraria.gamepedia.com/Adamantite_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/90/Adamantite_Helmet.png?version=fe63feb6705e688d9ddf052e8baaa3ae"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Mask",
+          "href": "https://terraria.gamepedia.com/Adamantite_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d2/Adamantite_Mask.png?version=faa179d2b385c003a5f606143b61e7c9"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Headgear",
+          "href": "https://terraria.gamepedia.com/Adamantite_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/57/Adamantite_Headgear.png?version=8462d42e5c156f3bf1a06bd2f5fab71e"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Breastplate",
+          "href": "https://terraria.gamepedia.com/Adamantite_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Adamantite_Breastplate.png?version=3fa03d897f1f51e10892a6944919b1bc"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (24)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Leggings",
+          "href": "https://terraria.gamepedia.com/Adamantite_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/22/Adamantite_Leggings.png?version=df97b028591e325c0e6648d62bcbb441"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Drill",
+          "href": "https://terraria.gamepedia.com/Adamantite_Drill",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/26/Adamantite_Drill.png?version=080c2b2de2c299bf1ba26197b05590f8"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Pickaxe",
+          "href": "https://terraria.gamepedia.com/Adamantite_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Adamantite_Pickaxe.png?version=923c598e0768cdfc5a5add677da5564f"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Chainsaw",
+          "href": "https://terraria.gamepedia.com/Adamantite_Chainsaw",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/17/Adamantite_Chainsaw.png?version=9cc5f09a808bb435146542dec19ae934"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Waraxe",
+          "href": "https://terraria.gamepedia.com/Adamantite_Waraxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e2/Adamantite_Waraxe.png?version=af7ced139c59475c6ba1e215fe37b553"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Repeater",
+          "href": "https://terraria.gamepedia.com/Adamantite_Repeater",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Adamantite_Repeater.png?version=93bd40895fbabcff2caa3986ec03b9b2"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Sword",
+          "href": "https://terraria.gamepedia.com/Adamantite_Sword",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/05/Adamantite_Sword.png?version=d8db82ed6bc1d2e3d0e0aa9cc1f94db4"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Glaive",
+          "href": "https://terraria.gamepedia.com/Adamantite_Glaive",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/57/Adamantite_Glaive.png?version=81161c2e1be64f47a8191b9f3ee83d93"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Forge",
+          "href": "https://terraria.gamepedia.com/Adamantite_Forge",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Adamantite_Forge.png?version=dbc7efb1181fa1ea48affda2bc5d702c"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Ore (30)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Adamantite_Ore.png?version=42f4c080ce92cf7565de10ba6a347070"
+          },
+          {
+            "name": "Hellforge"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frost Helmet  (**)",
+          "href": "https://terraria.gamepedia.com/Frost_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/95/Frost_Helmet.png?version=56d913dea5e5597e6bf212cc1bd7967c"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frost Breastplate  (**)",
+          "href": "https://terraria.gamepedia.com/Frost_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Frost_Breastplate.png?version=182b3f105c7f02367d4ebb3ff12439c5"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frost Leggings  (**)",
+          "href": "https://terraria.gamepedia.com/Frost_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Frost_Leggings.png?version=78734527cfe37d6254798494faee06ae"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Forbidden Mask",
+          "href": "https://terraria.gamepedia.com/Forbidden_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Forbidden_Mask.png?version=0efbc199e9cbfcbb592d5566b4fdb499"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          },
+          {
+            "name": "Forbidden Fragment"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Forbidden Robes",
+          "href": "https://terraria.gamepedia.com/Forbidden_Robes",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Forbidden_Robes.png?version=e85641a8f66d76200ff161bab4055e5c"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          },
+          {
+            "name": "Forbidden Fragment"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Forbidden Treads",
+          "href": "https://terraria.gamepedia.com/Forbidden_Treads",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f0/Forbidden_Treads.png?version=ada10ec50f176d4d50337a45f31bd4f1"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Bar (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Adamantite_Bar.png?version=bf9f211bca0ca3587427bec39e909635"
+          },
+          {
+            "name": "Forbidden Fragment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Titanium recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Helmet",
+          "href": "https://terraria.gamepedia.com/Titanium_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ad/Titanium_Helmet.png?version=f7640e82178ebb8284c363c320e840ec"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Mask",
+          "href": "https://terraria.gamepedia.com/Titanium_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Titanium_Mask.png?version=bcb8a00902ca2b78c1eca1e47bb660f4"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Headgear",
+          "href": "https://terraria.gamepedia.com/Titanium_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/35/Titanium_Headgear.png?version=9d5a13afbb1e083072ae56964624a951"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Breastplate",
+          "href": "https://terraria.gamepedia.com/Titanium_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1e/Titanium_Breastplate.png?version=46febaeac920c75426d99599b660c295"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (26)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Leggings",
+          "href": "https://terraria.gamepedia.com/Titanium_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Titanium_Leggings.png?version=c20f9eafe72e8a247de7caed3abe08f6"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Drill",
+          "href": "https://terraria.gamepedia.com/Titanium_Drill",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/35/Titanium_Drill.png?version=8a10cc67e2627cf65369f73175ac96c1"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Pickaxe",
+          "href": "https://terraria.gamepedia.com/Titanium_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Titanium_Pickaxe.png?version=71318016dea6520afe2ac2bbb3098eaa"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Chainsaw",
+          "href": "https://terraria.gamepedia.com/Titanium_Chainsaw",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cc/Titanium_Chainsaw.png?version=3567cdf59c1068dd3c1e1e7a29fbc002"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Waraxe",
+          "href": "https://terraria.gamepedia.com/Titanium_Waraxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c6/Titanium_Waraxe.png?version=a68bb2cf3d37c25e9a49ace5f4b4948d"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Repeater",
+          "href": "https://terraria.gamepedia.com/Titanium_Repeater",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Titanium_Repeater.png?version=5fa7db89c1a81db2bc9acff0f80d0067"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Sword",
+          "href": "https://terraria.gamepedia.com/Titanium_Sword",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d3/Titanium_Sword.png?version=78290655cc7e94dceb7a24b5dbd0bbd4"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Trident",
+          "href": "https://terraria.gamepedia.com/Titanium_Trident",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Titanium_Trident.png?version=576b69584f2f9615bada2efe63fd6218"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (13)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanium Forge",
+          "href": "https://terraria.gamepedia.com/Titanium_Forge",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c6/Titanium_Forge.png?version=d1c1353c30e63da49bffafc3a71c25d6"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Ore (30)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/34/Titanium_Ore.png?version=2f4e415690205b912c4356a6cbe362f6"
+          },
+          {
+            "name": "Hellforge"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frost Helmet  (**)",
+          "href": "https://terraria.gamepedia.com/Frost_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/95/Frost_Helmet.png?version=56d913dea5e5597e6bf212cc1bd7967c"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frost Breastplate  (**)",
+          "href": "https://terraria.gamepedia.com/Frost_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Frost_Breastplate.png?version=182b3f105c7f02367d4ebb3ff12439c5"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Frost Leggings  (**)",
+          "href": "https://terraria.gamepedia.com/Frost_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Frost_Leggings.png?version=78734527cfe37d6254798494faee06ae"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Forbidden Mask",
+          "href": "https://terraria.gamepedia.com/Forbidden_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Forbidden_Mask.png?version=0efbc199e9cbfcbb592d5566b4fdb499"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          },
+          {
+            "name": "Forbidden Fragment"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Forbidden Robes",
+          "href": "https://terraria.gamepedia.com/Forbidden_Robes",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Forbidden_Robes.png?version=e85641a8f66d76200ff161bab4055e5c"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          },
+          {
+            "name": "Forbidden Fragment"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Forbidden Treads",
+          "href": "https://terraria.gamepedia.com/Forbidden_Treads",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f0/Forbidden_Treads.png?version=ada10ec50f176d4d50337a45f31bd4f1"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Titanium_Bar.png?version=96cb8f4e03a195b0c62538a094b7e4fc"
+          },
+          {
+            "name": "Forbidden Fragment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Hallowed recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hallowed Mask",
+          "href": "https://terraria.gamepedia.com/Hallowed_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Hallowed_Mask.png?version=6015e838b36c4b3142430bc514337fd2"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hallowed Helmet",
+          "href": "https://terraria.gamepedia.com/Hallowed_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5f/Hallowed_Helmet.png?version=58ca421d2d56625b0b99672d1572e9d8"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hallowed Headgear",
+          "href": "https://terraria.gamepedia.com/Hallowed_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7c/Hallowed_Headgear.png?version=fdc44f8447014194cb6cad87de9565a8"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hallowed Plate Mail",
+          "href": "https://terraria.gamepedia.com/Hallowed_Plate_Mail",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Hallowed_Plate_Mail.png?version=b88f9247961dbb10f5955729b176f7e7"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (24)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hallowed Greaves",
+          "href": "https://terraria.gamepedia.com/Hallowed_Greaves",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Hallowed_Greaves.png?version=06a8428a9b4bd007ad4a6769cc99016e"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Drax",
+          "href": "https://terraria.gamepedia.com/Drax",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/ca/Drax.png?version=2c2983391453104f6194c464ae976a4a"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          },
+          {
+            "name": "Soul of Might"
+          },
+          {
+            "name": "Soul of Sight"
+          },
+          {
+            "name": "Soul of Fright"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pickaxe Axe",
+          "href": "https://terraria.gamepedia.com/Pickaxe_Axe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Pickaxe_Axe.png?version=d6a509e93f87cd72178ed2f4cb3dc6f3"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          },
+          {
+            "name": "Soul of Might"
+          },
+          {
+            "name": "Soul of Sight"
+          },
+          {
+            "name": "Soul of Fright"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hallowed Repeater",
+          "href": "https://terraria.gamepedia.com/Hallowed_Repeater",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Hallowed_Repeater.png?version=cf95de83bb92ef90e0801eec06da7db0"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Excalibur",
+          "href": "https://terraria.gamepedia.com/Excalibur",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Excalibur.png?version=b7c13ecb51d06266f532cc298e18282a"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gungnir",
+          "href": "https://terraria.gamepedia.com/Gungnir",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Gungnir.png?version=2efa6c5b27d9468cb793cb7aeaabb45b"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Light Disc",
+          "href": "https://terraria.gamepedia.com/Light_Disc",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f4/Light_Disc.png?version=cea686099b13584dc78f3bda369d2eed"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          },
+          {
+            "name": "Soul of Light (3)"
+          },
+          {
+            "name": "Soul of Might (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Optic Staff",
+          "href": "https://terraria.gamepedia.com/Optic_Staff",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/86/Optic_Staff.png?version=ef45ee70017c189fe1451329b20034e3"
+        },
+        "ingredients": [
+          {
+            "name": "Black Lens",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c4/Black_Lens.png?version=bf2594eb714adfe466b9425f7d459304"
+          },
+          {
+            "name": "Lens (2)"
+          },
+          {
+            "name": "Hallowed Bar (12)"
+          },
+          {
+            "name": "Soul of Sight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Frost Helmet  (***)",
+          "href": "https://terraria.gamepedia.com/Frost_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/95/Frost_Helmet.png?version=56d913dea5e5597e6bf212cc1bd7967c"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Frost Breastplate  (***)",
+          "href": "https://terraria.gamepedia.com/Frost_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Frost_Breastplate.png?version=182b3f105c7f02367d4ebb3ff12439c5"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Frost Leggings  (***)",
+          "href": "https://terraria.gamepedia.com/Frost_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Frost_Leggings.png?version=78734527cfe37d6254798494faee06ae"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Bar (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Hallowed_Bar.png?version=a37ebbd7384e91d28581e45f6982641f"
+          },
+          {
+            "name": "Frost Core"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Chlorophyte recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Mask",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7d/Chlorophyte_Mask.png?version=7fd41c747bd80c5f720f46109708efd2"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Helmet",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Chlorophyte_Helmet.png?version=85feef84402df04b1a28553d96d70bc5"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Headgear",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6c/Chlorophyte_Headgear.png?version=9c97594b0b2f900562ceb34c6a0794cb"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Plate Mail",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Plate_Mail",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ac/Chlorophyte_Plate_Mail.png?version=0f9498d81ad4953e9a47eff52acb07da"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (24)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Greaves",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Greaves",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2f/Chlorophyte_Greaves.png?version=f75efb7af614e2d03ee88ca6c37d69e9"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Drill",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Drill",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/70/Chlorophyte_Drill.png?version=0aafe860974bcde3a657aecf27daf679"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Pickaxe",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Pickaxe.png?version=fc18aa6c0fb9004dced428a9e2d449c2"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Chainsaw",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Chainsaw",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Chlorophyte_Chainsaw.png?version=3f6f3cbfdd14484b3928d4c114cd5346"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Greataxe",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Greataxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Chlorophyte_Greataxe.png?version=d2764adca7a839c61cdb99f06a71f9ea"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Jackhammer",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Jackhammer",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6d/Chlorophyte_Jackhammer.png?version=75f5cf17b8fde6883905c527ac8dd6ba"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Warhammer",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Warhammer",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/25/Chlorophyte_Warhammer.png?version=0f8fca9e4397b8789a85303f21c80578"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Shotbow",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Shotbow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/13/Chlorophyte_Shotbow.png?version=edb5c7716ed8387bd2d21732f6cdd522"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Saber",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Saber",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/49/Chlorophyte_Saber.png?version=03f4ab9464dd5aea90d4fd495fe8646e"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Claymore",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Claymore",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b3/Chlorophyte_Claymore.png?version=cb0e6458b94e08aacf743f2b66f88681"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Partisan",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Partisan",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/de/Chlorophyte_Partisan.png?version=8c133a716bd78601851484b9cc234368"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Venom Staff",
+          "href": "https://terraria.gamepedia.com/Venom_Staff",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Venom_Staff.png?version=3bb9b930d178f10e13570082a5fe2458"
+        },
+        "ingredients": [
+          {
+            "name": "Poison Staff",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Poison_Staff.png?version=42cc676956254ca584288cd2e60a5fa0"
+          },
+          {
+            "name": "Chlorophyte Bar (14)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Turtle Helmet",
+          "href": "https://terraria.gamepedia.com/Turtle_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Turtle_Helmet.png?version=c09d4b6df33fefb4d0243cd90f74c728"
+        },
+        "ingredients": [
+          {
+            "name": "Turtle Shell",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5e/Turtle_Shell.png?version=4a22ebe7fa545470717efb8f2eef3e7c"
+          },
+          {
+            "name": "Chlorophyte Bar (12)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Turtle Scale Mail",
+          "href": "https://terraria.gamepedia.com/Turtle_Scale_Mail",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Turtle_Scale_Mail.png?version=4b4d793ceb683d83a8cebac7005e6d05"
+        },
+        "ingredients": [
+          {
+            "name": "Turtle Shell",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5e/Turtle_Shell.png?version=4a22ebe7fa545470717efb8f2eef3e7c"
+          },
+          {
+            "name": "Chlorophyte Bar (24)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Turtle Leggings",
+          "href": "https://terraria.gamepedia.com/Turtle_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Turtle_Leggings.png?version=8c4f5ec645daf028a8cb8c7aff40ff2e"
+        },
+        "ingredients": [
+          {
+            "name": "Turtle Shell",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5e/Turtle_Shell.png?version=4a22ebe7fa545470717efb8f2eef3e7c"
+          },
+          {
+            "name": "Chlorophyte Bar (18)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Ectoplasm Console/Mobile recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Hood",
+          "href": "https://terraria.gamepedia.com/Spectre_Hood",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9e/Spectre_Hood.png?version=813a732af02a5070be957cf7dacfc299"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (12)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Mask",
+          "href": "https://terraria.gamepedia.com/Spectre_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Spectre_Mask.png?version=3c6dab59ddd311e1c052c908b53ff8e3"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (12)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Robe",
+          "href": "https://terraria.gamepedia.com/Spectre_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Spectre_Robe.png?version=bf22ca10c11356309c799040747d7175"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (24)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (24)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Pants",
+          "href": "https://terraria.gamepedia.com/Spectre_Pants",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Spectre_Pants.png?version=5182bb8fa687193c705481dc492446fe"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (18)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Pickaxe",
+          "href": "https://terraria.gamepedia.com/Spectre_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Spectre_Pickaxe.png?version=0ae182acfc6e8e70993534d77b94fee6"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (18)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Hamaxe",
+          "href": "https://terraria.gamepedia.com/Spectre_Hamaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7e/Spectre_Hamaxe.png?version=1c978e5e838080d0496cb832cbec0c96"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (18)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Paintbrush",
+          "href": "https://terraria.gamepedia.com/Spectre_Paintbrush",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Paintbrush.png?version=a422c5d715f73353ae4280dfd545f1d1"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (8)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Paint Roller",
+          "href": "https://terraria.gamepedia.com/Spectre_Paint_Roller",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Spectre_Paint_Roller.png?version=e0528d0e959cacbf2e2f7f7681dadf34"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (8)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Paint Scraper",
+          "href": "https://terraria.gamepedia.com/Spectre_Paint_Scraper",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/79/Spectre_Paint_Scraper.png?version=b161a1d63190dbbc11b1cbd66a2a2006"
+        },
+        "ingredients": [
+          {
+            "name": "Ectoplasm (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Ectoplasm.png?version=68524f54d6b7d7479df09e9a01b6cf63"
+          },
+          {
+            "name": "Chlorophyte Bar (8)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Wings",
+          "href": "https://terraria.gamepedia.com/Spectre_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/88/Spectre_Wings.png?version=201ab4b46871f87e22635d7825bcfacc"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Flight (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a3/Soul_of_Flight.png?version=2cf968564be885f4e0902ef76952eb27"
+          },
+          {
+            "name": "Ectoplasm (10)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Spectre  Desktop recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Mask",
+          "href": "https://terraria.gamepedia.com/Spectre_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Spectre_Mask.png?version=3c6dab59ddd311e1c052c908b53ff8e3"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Hood",
+          "href": "https://terraria.gamepedia.com/Spectre_Hood",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9e/Spectre_Hood.png?version=813a732af02a5070be957cf7dacfc299"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Robe",
+          "href": "https://terraria.gamepedia.com/Spectre_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Spectre_Robe.png?version=bf22ca10c11356309c799040747d7175"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (24)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Pants",
+          "href": "https://terraria.gamepedia.com/Spectre_Pants",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Spectre_Pants.png?version=5182bb8fa687193c705481dc492446fe"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Pickaxe",
+          "href": "https://terraria.gamepedia.com/Spectre_Pickaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Spectre_Pickaxe.png?version=0ae182acfc6e8e70993534d77b94fee6"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Hamaxe",
+          "href": "https://terraria.gamepedia.com/Spectre_Hamaxe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7e/Spectre_Hamaxe.png?version=1c978e5e838080d0496cb832cbec0c96"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Paintbrush",
+          "href": "https://terraria.gamepedia.com/Spectre_Paintbrush",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Paintbrush.png?version=a422c5d715f73353ae4280dfd545f1d1"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Paint Roller",
+          "href": "https://terraria.gamepedia.com/Spectre_Paint_Roller",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Spectre_Paint_Roller.png?version=e0528d0e959cacbf2e2f7f7681dadf34"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Paint Scraper",
+          "href": "https://terraria.gamepedia.com/Spectre_Paint_Scraper",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/79/Spectre_Paint_Scraper.png?version=b161a1d63190dbbc11b1cbd66a2a2006"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Bar (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Spectre_Bar.png?version=1acff39aafd26d37c300c4534796d793"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Wings",
+          "href": "https://terraria.gamepedia.com/Spectre_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/88/Spectre_Wings.png?version=201ab4b46871f87e22635d7825bcfacc"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Flight (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a3/Soul_of_Flight.png?version=2cf968564be885f4e0902ef76952eb27"
+          },
+          {
+            "name": "Spectre Bar (10)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Shroomite recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Mask",
+          "href": "https://terraria.gamepedia.com/Shroomite_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Shroomite_Mask.png?version=e543148759b63c711b03201d48d09b74"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Helmet",
+          "href": "https://terraria.gamepedia.com/Shroomite_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b5/Shroomite_Helmet.png?version=bb1a39fae1640909931bff171897876a"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Headgear",
+          "href": "https://terraria.gamepedia.com/Shroomite_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Shroomite_Headgear.png?version=8ec85948746a6122d9ff103aa089d0c5"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (12)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Breastplate",
+          "href": "https://terraria.gamepedia.com/Shroomite_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Shroomite_Breastplate.png?version=ab4268e3944c3bd57ee58fb5afe2aa3f"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (24)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Leggings",
+          "href": "https://terraria.gamepedia.com/Shroomite_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/45/Shroomite_Leggings.png?version=7e096ab07d5dd815002da246217c9690"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shroomite Digging Claw",
+          "href": "https://terraria.gamepedia.com/Shroomite_Digging_Claw",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fc/Shroomite_Digging_Claw.png?version=ebc29905956ff78de2df564a0d5452de"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (18)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hoverboard",
+          "href": "https://terraria.gamepedia.com/Hoverboard",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Hoverboard.png?version=c7566a9655ddfacfbfcc31262e78ab4b"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Flight (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a3/Soul_of_Flight.png?version=2cf968564be885f4e0902ef76952eb27"
+          },
+          {
+            "name": "Shroomite Bar (18)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Beetle recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Beetle Helmet",
+          "href": "https://terraria.gamepedia.com/Beetle_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Beetle_Helmet.png?version=ca84f19d01d446b0fb36204f14939746"
+        },
+        "ingredients": [
+          {
+            "name": "Beetle Husk (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Beetle_Husk.png?version=f3433e7c6788711f3b0493700a1134a6"
+          },
+          {
+            "name": "Turtle Helmet"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Beetle Scale Mail",
+          "href": "https://terraria.gamepedia.com/Beetle_Scale_Mail",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Beetle_Scale_Mail.png?version=3f7a9cf775f7549d4bb58d861cbfb73f"
+        },
+        "ingredients": [
+          {
+            "name": "Beetle Husk (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Beetle_Husk.png?version=f3433e7c6788711f3b0493700a1134a6"
+          },
+          {
+            "name": "Turtle Scale Mail"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Beetle Shell",
+          "href": "https://terraria.gamepedia.com/Beetle_Shell",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a2/Beetle_Shell.png?version=d0536bb01811ffc242fed81ce0c1f1a4"
+        },
+        "ingredients": [
+          {
+            "name": "Beetle Husk (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Beetle_Husk.png?version=f3433e7c6788711f3b0493700a1134a6"
+          },
+          {
+            "name": "Turtle Scale Mail"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Beetle Leggings",
+          "href": "https://terraria.gamepedia.com/Beetle_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Beetle_Leggings.png?version=196facec05011e6b3c57dc80655f2041"
+        },
+        "ingredients": [
+          {
+            "name": "Beetle Husk (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Beetle_Husk.png?version=f3433e7c6788711f3b0493700a1134a6"
+          },
+          {
+            "name": "Turtle Leggings"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Beetle Wings",
+          "href": "https://terraria.gamepedia.com/Beetle_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4c/Beetle_Wings.png?version=4b8b27208ceb225e6446d960a8873adc"
+        },
+        "ingredients": [
+          {
+            "name": "Beetle Husk (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Beetle_Husk.png?version=f3433e7c6788711f3b0493700a1134a6"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Weapon recipes",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Dao of Pow",
+          "href": "https://terraria.gamepedia.com/Dao_of_Pow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/34/Dao_of_Pow.png?version=e77e574a2d3eddf37f2f5b2f9040c03e"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Light (7)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Soul_of_Light.png?version=e4d6a8b9231d57a86a785dd027b370ba"
+          },
+          {
+            "name": "Soul of Night (7)"
+          },
+          {
+            "name": "Dark Shard"
+          },
+          {
+            "name": "Light Shard"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Sky Fracture",
+          "href": "https://terraria.gamepedia.com/Sky_Fracture",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/54/Sky_Fracture.png?version=f22520f7d9a5f3c9091b16d3a2c5cf5e"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Light (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Soul_of_Light.png?version=e4d6a8b9231d57a86a785dd027b370ba"
+          },
+          {
+            "name": "Light Shard (2)"
+          },
+          {
+            "name": "Magic Missile"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Onyx Blaster",
+          "href": "https://terraria.gamepedia.com/Onyx_Blaster",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Onyx_Blaster.png?version=941c90baf4de783a1cfff72b3ef86d12"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Night (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e9/Soul_of_Night.png?version=f8d10c0771a560c30d6bf004a774befc"
+          },
+          {
+            "name": "Dark Shard (2)"
+          },
+          {
+            "name": "Shotgun"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Meteor Staff",
+          "href": "https://terraria.gamepedia.com/Meteor_Staff",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/07/Meteor_Staff.png?version=0860fb0b80d92b9fe2b59c428acccb83"
+        },
+        "ingredients": [
+          {
+            "name": "Meteorite Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a2/Meteorite_Bar.png?version=1237d0eb7a272ef09cb0ec3fec5e19df"
+          },
+          {
+            "name": "Pixie Dust (10)"
+          },
+          {
+            "name": "Soul of Light (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Chik",
+          "href": "https://terraria.gamepedia.com/Chik",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1f/Chik.png?version=4de57e649b1e29b40c391f74a942aa93"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Yoyo",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Wooden_Yoyo.png?version=ebfcd46ce00f28a5380fbcbee8ca5122"
+          },
+          {
+            "name": "Crystal Shard (15)"
+          },
+          {
+            "name": "Soul of Light (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Spirit Flame",
+          "href": "https://terraria.gamepedia.com/Spirit_Flame",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Spirit_Flame.png?version=37cf6afe68055e3cf4f20dbbe8b70991"
+        },
+        "ingredients": [
+          {
+            "name": "Desert Spirit Lamp",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Desert_Spirit_Lamp.png?version=7188bef6061b70e557daedf55f837ad0"
+          },
+          {
+            "name": "Forbidden Fragment (2)"
+          },
+          {
+            "name": "Soul of Night (12)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Megashark",
+          "href": "https://terraria.gamepedia.com/Megashark",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Megashark.png?version=cdf70b30fa101838898a43eaebefa139"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Might (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Soul_of_Might.png?version=4f55f01993c5aad5f90eae80be2f8f5b"
+          },
+          {
+            "name": "Shark Fin (5)"
+          },
+          {
+            "name": "Illegal Gun Parts"
+          },
+          {
+            "name": "Minishark"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flamethrower",
+          "href": "https://terraria.gamepedia.com/Flamethrower",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ad/Flamethrower.png?version=f6b1b74ae5902ae9f0c70d4519c070e5"
+        },
+        "ingredients": [
+          {
+            "name": "Iron Bar or Lead Bar (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6c/Iron_Bar.png?version=94ff969eec1b954cc2ceed38ff66efc5"
+          },
+          {
+            "name": "Soul of Fright (20)"
+          },
+          {
+            "name": "Illegal Gun Parts"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Magical Harp",
+          "href": "https://terraria.gamepedia.com/Magical_Harp",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Magical_Harp.png?version=55e3871ad927b683d54cf081b7cf5fb9"
+        },
+        "ingredients": [
+          {
+            "name": "Crystal Shard (25)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/19/Crystal_Shard.png?version=07c6699388df006bb212d9e24d4c9811"
+          },
+          {
+            "name": "Soul of Sight (20)"
+          },
+          {
+            "name": "Soul of Night (12)"
+          },
+          {
+            "name": "Harp"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Rainbow Rod",
+          "href": "https://terraria.gamepedia.com/Rainbow_Rod",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/34/Rainbow_Rod.png?version=a4dedec9550f29b1f583b2f27cdb8d1d"
+        },
+        "ingredients": [
+          {
+            "name": "Pixie Dust (60)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/65/Pixie_Dust.png?version=381977c3fd10484cec4e25f575c5f500"
+          },
+          {
+            "name": "Crystal Shard (30)"
+          },
+          {
+            "name": "Soul of Sight (20)"
+          },
+          {
+            "name": "Soul of Light (10)"
+          },
+          {
+            "name": "Unicorn Horn (4)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "True Night's Edge",
+          "href": "https://terraria.gamepedia.com/True_Night%27s_Edge",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/True_Night%27s_Edge.png?version=03b36b1773d369bff6311ec7614e745e"
+        },
+        "ingredients": [
+          {
+            "name": "Night's Edge (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/98/Night%27s_Edge.png?version=a7eedbfca6646a30db17614c31eb1f2d"
+          },
+          {
+            "name": "Broken Hero Sword (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "True Excalibur",
+          "href": "https://terraria.gamepedia.com/True_Excalibur",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/True_Excalibur.png?version=8732f9a07f067e00d99bc10db75c4eb7"
+        },
+        "ingredients": [
+          {
+            "name": "Excalibur (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Excalibur.png?version=b7c13ecb51d06266f532cc298e18282a"
+          },
+          {
+            "name": "Broken Hero Sword (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Terra Blade",
+          "href": "https://terraria.gamepedia.com/Terra_Blade",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4d/Terra_Blade.png?version=4292bd40a267bce90906c6ab411c3d0e"
+        },
+        "ingredients": [
+          {
+            "name": "True Excalibur (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/True_Excalibur.png?version=8732f9a07f067e00d99bc10db75c4eb7"
+          },
+          {
+            "name": "True Night's Edge (1)"
+          },
+          {
+            "name": "Broken Hero Sword (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Terra Blade",
+          "href": "https://terraria.gamepedia.com/Terra_Blade",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4d/Terra_Blade.png?version=4292bd40a267bce90906c6ab411c3d0e"
+        },
+        "ingredients": [
+          {
+            "name": "True Excalibur (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/True_Excalibur.png?version=8732f9a07f067e00d99bc10db75c4eb7"
+          },
+          {
+            "name": "True Night's Edge (1)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Accessory recipes",
+    "recipes": [
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Neptune's Shell  (**)",
+          "href": "https://terraria.gamepedia.com/Neptune%27s_Shell",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0d/Neptune%27s_Shell.png?version=c8b8d5532de857fef6b0905a07249d34"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Fright (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/80/Soul_of_Fright.png?version=3142d18343c9695e3c3e4e7186383273"
+          },
+          {
+            "name": "Coral (15)"
+          },
+          {
+            "name": "Goldfish (15)"
+          },
+          {
+            "name": "Shark Fin (5)"
+          },
+          {
+            "name": "Soul of Light (5)"
+          },
+          {
+            "name": "Soul of Night (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Angel Wings",
+          "href": "https://terraria.gamepedia.com/Angel_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Angel_Wings.png?version=7a017c21cb5b4b39f82a0580723859f4"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Light (25)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Soul_of_Light.png?version=e4d6a8b9231d57a86a785dd027b370ba"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          },
+          {
+            "name": "Feather (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Demon Wings",
+          "href": "https://terraria.gamepedia.com/Demon_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f6/Demon_Wings.png?version=7e704d6de75cb7469f662c2ca958849f"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Night (25)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e9/Soul_of_Night.png?version=f8d10c0771a560c30d6bf004a774befc"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          },
+          {
+            "name": "Feather (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Fairy Wings",
+          "href": "https://terraria.gamepedia.com/Fairy_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Fairy_Wings.png?version=663cb624e51a5eedba53ea820582aebe"
+        },
+        "ingredients": [
+          {
+            "name": "Pixie Dust (100)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/65/Pixie_Dust.png?version=381977c3fd10484cec4e25f575c5f500"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Butterfly Wings",
+          "href": "https://terraria.gamepedia.com/Butterfly_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/19/Butterfly_Wings.png?version=e4282e14a2b79c3e28458471acfc616c"
+        },
+        "ingredients": [
+          {
+            "name": "Butterfly Dust",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5c/Butterfly_Dust.png?version=b15b63277b31b1ec5341a1b06f6d6c93"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Harpy Wings",
+          "href": "https://terraria.gamepedia.com/Harpy_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b3/Harpy_Wings.png?version=a0f2c520197b7ea944e97f8614227d8a"
+        },
+        "ingredients": [
+          {
+            "name": "Giant Harpy Feather",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/43/Giant_Harpy_Feather.png?version=c1ac2b274d98d8f152307b5b8c77b79b"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Wings",
+          "href": "https://terraria.gamepedia.com/Bone_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cd/Bone_Wings.png?version=4759f408a2bcb97bd75dc88cd8cd4fb9"
+        },
+        "ingredients": [
+          {
+            "name": "Bone Feather",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e8/Bone_Feather.png?version=637dbe1233d82c69979955f661a55e86"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flame Wings",
+          "href": "https://terraria.gamepedia.com/Flame_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bf/Flame_Wings.png?version=a9f58974343ebcfac2c4159f2ff04425"
+        },
+        "ingredients": [
+          {
+            "name": "Fire Feather",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f3/Fire_Feather.png?version=840fc1e8cb1a23c4d9ec8a0dabe4b96f"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Frozen Wings",
+          "href": "https://terraria.gamepedia.com/Frozen_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6d/Frozen_Wings.png?version=59962f6139e63990a30932ac2b5833dd"
+        },
+        "ingredients": [
+          {
+            "name": "Ice Feather",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Ice_Feather.png?version=f7afd723121b9ca2eb6af48d23f0cccd"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bat Wings",
+          "href": "https://terraria.gamepedia.com/Bat_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Bat_Wings.png?version=d715b3323fcb4c2f918c11759a14382a"
+        },
+        "ingredients": [
+          {
+            "name": "Broken Bat Wing",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Broken_Bat_Wing.png?version=2cd8429bed6b28b4acde0f3772add156"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bee Wings",
+          "href": "https://terraria.gamepedia.com/Bee_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/45/Bee_Wings.png?version=bec471ba3781549dd137445f17af91b2"
+        },
+        "ingredients": [
+          {
+            "name": "Tattered Bee Wing",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/14/Tattered_Bee_Wing.png?version=bf23d3245f0100878f0883638b8a083d"
+          },
+          {
+            "name": "Soul of Flight (20)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Ammunition recipes",
+    "recipes": [
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Cursed Arrow  (150 )",
+          "href": "https://terraria.gamepedia.com/Cursed_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Cursed_Arrow.png?version=2620eb3151a243417b7d8436bb917220"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Arrow (150)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Wooden_Arrow.png?version=f4efed63cc2fc81ad4df5bcd1314b16a"
+          },
+          {
+            "name": "Cursed Flame"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Cursed Arrow  (35  )",
+          "href": "https://terraria.gamepedia.com/Cursed_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Cursed_Arrow.png?version=2620eb3151a243417b7d8436bb917220"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Arrow (35)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Wooden_Arrow.png?version=f4efed63cc2fc81ad4df5bcd1314b16a"
+          },
+          {
+            "name": "Ichor"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Ichor Arrow  (150 )",
+          "href": "https://terraria.gamepedia.com/Ichor_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/47/Ichor_Arrow.png?version=d6eb0ffcfe692e7642fe218b81231e9c"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Arrow (150)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Wooden_Arrow.png?version=f4efed63cc2fc81ad4df5bcd1314b16a"
+          },
+          {
+            "name": "Ichor"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Ichor Arrow  (35  )",
+          "href": "https://terraria.gamepedia.com/Ichor_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/47/Ichor_Arrow.png?version=d6eb0ffcfe692e7642fe218b81231e9c"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Arrow (35)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Wooden_Arrow.png?version=f4efed63cc2fc81ad4df5bcd1314b16a"
+          },
+          {
+            "name": "Ichor"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Venom Arrow  (35)",
+          "href": "https://terraria.gamepedia.com/Venom_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Venom_Arrow.png?version=2f8c8dd738b018a200d496ffc6c54259"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Arrow (35)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Wooden_Arrow.png?version=f4efed63cc2fc81ad4df5bcd1314b16a"
+          },
+          {
+            "name": "Vial of Venom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Holy Arrow  (200)",
+          "href": "https://terraria.gamepedia.com/Holy_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Holy_Arrow.png?version=39b2f43caad507a6b9f73a97cab9ad99"
+        },
+        "ingredients": [
+          {
+            "name": "Wooden Arrow (200)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Wooden_Arrow.png?version=f4efed63cc2fc81ad4df5bcd1314b16a"
+          },
+          {
+            "name": "Pixie Dust (3)"
+          },
+          {
+            "name": "Unicorn Horn"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Chlorophyte Arrow  (150 )",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/06/Chlorophyte_Arrow.png?version=72b1bde6f92af159e7bde7183434cb4b"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Chlorophyte Arrow  (50 )",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Arrow",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/06/Chlorophyte_Arrow.png?version=72b1bde6f92af159e7bde7183434cb4b"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Bar",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Chlorophyte_Bar.png?version=767ff6355f5379302152a2d76482b67d"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Crystal Bullet  (100 )",
+          "href": "https://terraria.gamepedia.com/Crystal_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bc/Crystal_Bullet.png?version=48b0552c40ef7440645bb451ee317871"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (100)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Crystal Shard"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Crystal Bullet  (50 )",
+          "href": "https://terraria.gamepedia.com/Crystal_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bc/Crystal_Bullet.png?version=48b0552c40ef7440645bb451ee317871"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (50)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Crystal Shard"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Cursed Bullet  (150 )",
+          "href": "https://terraria.gamepedia.com/Cursed_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1f/Cursed_Bullet.png?version=737920bd3e86328e681099570b080d60"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (150)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Cursed Flame"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Cursed Bullet  (50 )",
+          "href": "https://terraria.gamepedia.com/Cursed_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1f/Cursed_Bullet.png?version=737920bd3e86328e681099570b080d60"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (50)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Cursed Flame"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Ichor Bullet  (150 )",
+          "href": "https://terraria.gamepedia.com/Ichor_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Ichor_Bullet.png?version=eb2798c07812fd8ae55972c39534ac31"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (150)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Ichor"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Ichor Bullet  (50 )",
+          "href": "https://terraria.gamepedia.com/Ichor_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Ichor_Bullet.png?version=eb2798c07812fd8ae55972c39534ac31"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (50)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Ichor"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Chlorophyte Bullet  (70)",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Bullet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Chlorophyte_Bullet.png?version=e9d1efdebc534a4111c99eff96eea70d"
+        },
+        "ingredients": [
+          {
+            "name": "Musket Ball (70)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Musket_Ball.png?version=da37527b42c5668ae07eeea3fe8fc950"
+          },
+          {
+            "name": "Chlorophyte Bar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Wire recipes",
+    "recipes": [
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Logic Sensor (Day)",
+          "href": "https://terraria.gamepedia.com/Logic_Sensor_(Day)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Logic_Sensor_%28Day%29.png?version=9b5ea5062e4e6c72613ec698d421bd92"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Light (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ea/Soul_of_Light.png?version=e4d6a8b9231d57a86a785dd027b370ba"
+          },
+          {
+            "name": "Iron Bar or Lead Bar"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Logic Sensor (Night)",
+          "href": "https://terraria.gamepedia.com/Logic_Sensor_(Night)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/44/Logic_Sensor_%28Night%29.png?version=4ffa5e6470de628e120f77749b247544"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Night (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e9/Soul_of_Night.png?version=f8d10c0771a560c30d6bf004a774befc"
+          },
+          {
+            "name": "Iron Bar or Lead Bar"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Logic Sensor (Player Above)",
+          "href": "https://terraria.gamepedia.com/Logic_Sensor_(Player_Above)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Logic_Sensor_%28Player_Above%29.png?version=b0bf0908aa7a5ad94412d41b967f3a3f"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Sight",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0f/Soul_of_Sight.png?version=94382f144af3136c8d0ae0cd6a1dcc61"
+          },
+          {
+            "name": "Iron Bar or Lead Bar"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Liquid Sensor (Water)",
+          "href": "https://terraria.gamepedia.com/Liquid_Sensor_(Water)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bf/Liquid_Sensor_%28Water%29.png?version=7ef69895ef2e9df1d6757c9d1f5283a4"
+        },
+        "ingredients": [
+          {
+            "name": "Cog (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Cog.png?version=9050df0607258db7d5028709ae96a498"
+          },
+          {
+            "name": "Magic Water Dropper"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Liquid Sensor (Lava)",
+          "href": "https://terraria.gamepedia.com/Liquid_Sensor_(Lava)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Liquid_Sensor_%28Lava%29.png?version=45452b822e472b568437b6ee812bece0"
+        },
+        "ingredients": [
+          {
+            "name": "Cog (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Cog.png?version=9050df0607258db7d5028709ae96a498"
+          },
+          {
+            "name": "Magic Lava Dropper"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Liquid Sensor (Honey)",
+          "href": "https://terraria.gamepedia.com/Liquid_Sensor_(Honey)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Liquid_Sensor_%28Honey%29.png?version=b750737373bfa1d49d8f06cd1583403f"
+        },
+        "ingredients": [
+          {
+            "name": "Cog (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Cog.png?version=9050df0607258db7d5028709ae96a498"
+          },
+          {
+            "name": "Magic Honey Dropper"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Liquid Sensor (Any)",
+          "href": "https://terraria.gamepedia.com/Liquid_Sensor_(Any)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/38/Liquid_Sensor_%28Any%29.png?version=c31d80f8129f4fc83c5ca204028d48e5"
+        },
+        "ingredients": [
+          {
+            "name": "Cog (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Cog.png?version=9050df0607258db7d5028709ae96a498"
+          },
+          {
+            "name": "Magic Water Dropper"
+          },
+          {
+            "name": "Magic Lava Dropper"
+          },
+          {
+            "name": "Magic Honey Dropper"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Miscellaneous",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Fairy Bell",
+          "href": "https://terraria.gamepedia.com/Fairy_Bell",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/52/Fairy_Bell.png?version=b62c18a42a1a42ef55eee466c9877af8"
+        },
+        "ingredients": [
+          {
+            "name": "Pixie Dust (80)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/65/Pixie_Dust.png?version=381977c3fd10484cec4e25f575c5f500"
+          },
+          {
+            "name": "Soul of Sight (20)"
+          },
+          {
+            "name": "Soul of Light (12)"
+          },
+          {
+            "name": "Bell"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mechanical Eye",
+          "href": "https://terraria.gamepedia.com/Mechanical_Eye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5e/Mechanical_Eye.png?version=f55eb7b020a0d48c28ef3b12ea035f26"
+        },
+        "ingredients": [
+          {
+            "name": "Lens (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ae/Lens.png?version=9c6a754e5b17b6f8109df0b568dedea2"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (5)"
+          },
+          {
+            "name": "Soul of Light (6)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mechanical Worm",
+          "href": "https://terraria.gamepedia.com/Mechanical_Worm",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6d/Mechanical_Worm.png?version=cbb0ba6b1b99bb15c9ca804254444f7b"
+        },
+        "ingredients": [
+          {
+            "name": "Rotten Chunk (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/04/Rotten_Chunk.png?version=90e99a38dcdb7828cf8288aeec4ccfe3"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (5)"
+          },
+          {
+            "name": "Soul of Night (6)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mechanical Worm",
+          "href": "https://terraria.gamepedia.com/Mechanical_Worm",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6d/Mechanical_Worm.png?version=cbb0ba6b1b99bb15c9ca804254444f7b"
+        },
+        "ingredients": [
+          {
+            "name": "Vertebrae (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Vertebrae.png?version=4eaa9f28c7dc7f8c8fddc0bfe2be92b0"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (5)"
+          },
+          {
+            "name": "Soul of Night (6)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mechanical Skull",
+          "href": "https://terraria.gamepedia.com/Mechanical_Skull",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Mechanical_Skull.png?version=40c97f42f90c689297b088e6979245dd"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (30)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (5)"
+          },
+          {
+            "name": "Soul of Light (5)"
+          },
+          {
+            "name": "Soul of Night (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pumpkin Moon Medallion",
+          "href": "https://terraria.gamepedia.com/Pumpkin_Moon_Medallion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Pumpkin_Moon_Medallion.png?version=4bcc7c7f12450a4b34e08315c6fb67e3"
+        },
+        "ingredients": [
+          {
+            "name": "Pumpkin (30)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Pumpkin.png?version=99efff3c5015a265ad5869a5d9e51e90"
+          },
+          {
+            "name": "Ectoplasm (5)"
+          },
+          {
+            "name": "Hallowed Bar (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Naughty Present",
+          "href": "https://terraria.gamepedia.com/Naughty_Present",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7d/Naughty_Present.png?version=a3ff4b41320923f58de92ca4a1eca6ed"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Ectoplasm (5)"
+          },
+          {
+            "name": "Soul of Fright (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Solar Tablet",
+          "href": "https://terraria.gamepedia.com/Solar_Tablet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c5/Solar_Tablet.png?version=a6621f9329aba232626ae6b098ab3b11"
+        },
+        "ingredients": [
+          {
+            "name": "Solar Tablet Fragment (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Solar_Tablet_Fragment.png?version=43005d3c28e9a51e9995b52b22b2fe5c"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Drill Containment Unit",
+          "href": "https://terraria.gamepedia.com/Drill_Containment_Unit",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/76/Drill_Containment_Unit.png?version=4befe47850a5ceb11ec11fa8ee4606de"
+        },
+        "ingredients": [
+          {
+            "name": "Luminite Bar (40)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/60/Luminite_Bar.png?version=740006933523c08787718555fb9ec21d"
+          },
+          {
+            "name": "Chlorophyte Bar (40)"
+          },
+          {
+            "name": "Shroomite Bar (40)"
+          },
+          {
+            "name": "Spectre Bar (40)"
+          },
+          {
+            "name": "Hellstone Bar (40)"
+          },
+          {
+            "name": "Meteorite Bar (40)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "category": "Console Version recipes",
+    "recipes": [
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Tizona",
+          "href": "https://terraria.gamepedia.com/Tizona",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/25/Tizona.png?version=f23f5225174dda393154c64ab12cc8f2"
+        },
+        "ingredients": [
+          {
+            "name": "Excalibur (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Excalibur.png?version=b7c13ecb51d06266f532cc298e18282a"
+          },
+          {
+            "name": "Soul of Blight (15)"
+          },
+          {
+            "name": "Adamantite Bar or Titanium Bar (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Tonbogiri",
+          "href": "https://terraria.gamepedia.com/Tonbogiri",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Tonbogiri.png?version=5c2097c4beebee8fea2e0c90200113c2"
+        },
+        "ingredients": [
+          {
+            "name": "Gungnir (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Gungnir.png?version=2efa6c5b27d9468cb793cb7aeaabb45b"
+          },
+          {
+            "name": "Soul of Blight (15)"
+          },
+          {
+            "name": "Adamantite Bar or Titanium Bar (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Vulcan Repeater",
+          "href": "https://terraria.gamepedia.com/Vulcan_Repeater",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/41/Vulcan_Repeater.png?version=0800256b474e8c27bcd75072788ee628"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Repeater (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Hallowed_Repeater.png?version=cf95de83bb92ef90e0801eec06da7db0"
+          },
+          {
+            "name": "Soul of Blight (15)"
+          },
+          {
+            "name": "Adamantite Bar or Titanium Bar (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Suspicious Looking Skull",
+          "href": "https://terraria.gamepedia.com/Suspicious_Looking_Skull",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Suspicious_Looking_Skull.png?version=78bd2990b0cb4dfe5223bd920c03d2d6"
+        },
+        "ingredients": [
+          {
+            "name": "Mechanical Skull",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Mechanical_Skull.png?version=40c97f42f90c689297b088e6979245dd"
+          },
+          {
+            "name": "Mechanical Eye (2)"
+          },
+          {
+            "name": "Adamantite Bar or Titanium Bar (10)"
+          },
+          {
+            "name": "Soul of Light (5)"
+          },
+          {
+            "name": "Soul of Night (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Dragon Mask",
+          "href": "https://terraria.gamepedia.com/Dragon_Mask",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e6/Dragon_Mask.png?version=3ad4d78d15c6a45d4d663c76c4f4fdcc"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Mask",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Hallowed_Mask.png?version=6015e838b36c4b3142430bc514337fd2"
+          },
+          {
+            "name": "Cobalt Helmet"
+          },
+          {
+            "name": "Mythril Helmet"
+          },
+          {
+            "name": "Adamantite Helmet"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Dragon Breastplate",
+          "href": "https://terraria.gamepedia.com/Dragon_Breastplate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Dragon_Breastplate.png?version=55f212d1388ed7f62b0eb5a50a32c84f"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Plate Mail",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Hallowed_Plate_Mail.png?version=b88f9247961dbb10f5955729b176f7e7"
+          },
+          {
+            "name": "Cobalt Breastplate"
+          },
+          {
+            "name": "Mythril Chainmail"
+          },
+          {
+            "name": "Adamantite Breastplate"
+          },
+          {
+            "name": "Soul of Might (20)"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Dragon Greaves",
+          "href": "https://terraria.gamepedia.com/Dragon_Greaves",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bd/Dragon_Greaves.png?version=65bb3a7fc95ca3ef81847c5a2eff14d1"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Greaves",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Hallowed_Greaves.png?version=06a8428a9b4bd007ad4a6769cc99016e"
+          },
+          {
+            "name": "Cobalt Leggings"
+          },
+          {
+            "name": "Mythril Greaves"
+          },
+          {
+            "name": "Adamantite Leggings"
+          },
+          {
+            "name": "Soul of Might (20)"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectral Headgear",
+          "href": "https://terraria.gamepedia.com/Spectral_Headgear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5f/Spectral_Headgear.png?version=beb3068451ab69923891c6d23f09ca3d"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Headgear",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7c/Hallowed_Headgear.png?version=fdc44f8447014194cb6cad87de9565a8"
+          },
+          {
+            "name": "Cobalt Hat"
+          },
+          {
+            "name": "Mythril Hood"
+          },
+          {
+            "name": "Adamantite Headgear"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectral Armor",
+          "href": "https://terraria.gamepedia.com/Spectral_Armor",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d1/Spectral_Armor.png?version=7b5609d739846ed8a385a9ab94546f15"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Plate Mail",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Hallowed_Plate_Mail.png?version=b88f9247961dbb10f5955729b176f7e7"
+          },
+          {
+            "name": "Cobalt Breastplate"
+          },
+          {
+            "name": "Mythril Chainmail"
+          },
+          {
+            "name": "Adamantite Breastplate"
+          },
+          {
+            "name": "Soul of Fright (20)"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectral Subligar",
+          "href": "https://terraria.gamepedia.com/Spectral_Subligar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7a/Spectral_Subligar.png?version=cbef888f3efcbed6a7ff3a760b296f1b"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Greaves",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Hallowed_Greaves.png?version=06a8428a9b4bd007ad4a6769cc99016e"
+          },
+          {
+            "name": "Cobalt Leggings"
+          },
+          {
+            "name": "Mythril Greaves"
+          },
+          {
+            "name": "Adamantite Leggings"
+          },
+          {
+            "name": "Soul of Fright (20)"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titan Helmet",
+          "href": "https://terraria.gamepedia.com/Titan_Helmet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6b/Titan_Helmet.png?version=6785a18ca8961b07c73ea04169b35d0d"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Helmet",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5f/Hallowed_Helmet.png?version=58ca421d2d56625b0b99672d1572e9d8"
+          },
+          {
+            "name": "Cobalt Mask"
+          },
+          {
+            "name": "Mythril Hat"
+          },
+          {
+            "name": "Adamantite Mask"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titan Mail",
+          "href": "https://terraria.gamepedia.com/Titan_Mail",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/Titan_Mail.png?version=23a0768ee0452982816755488cb2a76c"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Plate Mail",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Hallowed_Plate_Mail.png?version=b88f9247961dbb10f5955729b176f7e7"
+          },
+          {
+            "name": "Cobalt Breastplate"
+          },
+          {
+            "name": "Mythril Chainmail"
+          },
+          {
+            "name": "Adamantite Breastplate"
+          },
+          {
+            "name": "Soul of Sight (20)"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titan Leggings",
+          "href": "https://terraria.gamepedia.com/Titan_Leggings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8b/Titan_Leggings.png?version=c3a095d8a4c95451c2eb24e09e08f95d"
+        },
+        "ingredients": [
+          {
+            "name": "Hallowed Greaves",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Hallowed_Greaves.png?version=06a8428a9b4bd007ad4a6769cc99016e"
+          },
+          {
+            "name": "Cobalt Leggings"
+          },
+          {
+            "name": "Mythril Greaves"
+          },
+          {
+            "name": "Adamantite Leggings"
+          },
+          {
+            "name": "Soul of Sight (20)"
+          },
+          {
+            "name": "Soul of Blight (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sparkly Wings",
+          "href": "https://terraria.gamepedia.com/Sparkly_Wings",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/60/Sparkly_Wings.png?version=f73d5eb7d2e6967a355ce7787c818db2"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Blight (30)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Soul_of_Blight.png?version=7e2b3b577a25070ccca625007b8aef23"
+          },
+          {
+            "name": "Soul of Flight (25)"
+          },
+          {
+            "name": "Feather (10)"
+          }
+        ]
+      }
+    ]
+  }
+]

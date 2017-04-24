@@ -1,0 +1,58 @@
+[
+  {
+    "tool": "Honey",
+    "category": "Honey",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bottled Honey",
+          "href": "https://terraria.gamepedia.com/Bottled_Honey",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c5/Bottled_Honey.png?version=60eed6e154d559d16db30fe8dc93313a"
+        },
+        "ingredients": [
+          {
+            "name": "Bottle",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5d/Bottle.png?version=95bf0690d6a22762d8483fbd861c09d4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Honey",
+    "category": "Crystal Ball",
+    "recipes": [
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Honeyfall Block",
+          "href": "https://terraria.gamepedia.com/Honeyfall_Block",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fc/Honeyfall_Block.png?version=76f8de8d6db2f66d1d6a7e6dbb0e8705"
+        },
+        "ingredients": [
+          {
+            "name": "Glass",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Magic Honey Dropper",
+          "href": "https://terraria.gamepedia.com/Magic_Honey_Dropper",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cf/Magic_Honey_Dropper.png?version=9315885c35c02aab15b2fed145402da7"
+        },
+        "ingredients": [
+          {
+            "name": "Empty Dropper",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/81/Empty_Dropper.png?version=e81e0aa1ff387d343e620fadc3f0206b"
+          }
+        ]
+      }
+    ]
+  }
+]

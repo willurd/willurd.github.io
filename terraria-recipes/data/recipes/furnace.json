@@ -1,0 +1,973 @@
+[
+  {
+    "tool": "Furnace",
+    "category": "Furnace",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pumpkin Pie",
+          "href": "https://terraria.gamepedia.com/Pumpkin_Pie",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7d/Pumpkin_Pie.png?version=75c24cef4547844475222f39eb815194"
+        },
+        "ingredients": [
+          {
+            "name": "Pumpkin (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Pumpkin.png?version=99efff3c5015a265ad5869a5d9e51e90"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Glass",
+          "href": "https://terraria.gamepedia.com/Glass",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+        },
+        "ingredients": [
+          {
+            "name": "Sand Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dc/Sand_Block.png?version=320ff91f17cbdea18d21135e3f0a2853"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Glass",
+          "href": "https://terraria.gamepedia.com/Glass",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+        },
+        "ingredients": [
+          {
+            "name": "Hardened Sand Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7a/Hardened_Sand_Block.png?version=797dd37841d68376803d9299bef32c19"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Glass",
+          "href": "https://terraria.gamepedia.com/Glass",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+        },
+        "ingredients": [
+          {
+            "name": "Ebonsand Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b6/Ebonsand_Block.png?version=8695e2efc83e163f5cf28119f1cdcc8d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Glass",
+          "href": "https://terraria.gamepedia.com/Glass",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+        },
+        "ingredients": [
+          {
+            "name": "Crimsand Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3f/Crimsand_Block.png?version=77035b8d8c0c05b6bd4b261afcdd619d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Glass",
+          "href": "https://terraria.gamepedia.com/Glass",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+        },
+        "ingredients": [
+          {
+            "name": "Pearlsand Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Pearlsand_Block.png?version=8743784fa9d52c0165cb37c137a91513"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mug",
+          "href": "https://terraria.gamepedia.com/Mug",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Mug.png?version=821dba0d25f1c8725d140d126b8f6c06"
+        },
+        "ingredients": [
+          {
+            "name": "Glass",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bottle  (2)",
+          "href": "https://terraria.gamepedia.com/Bottle",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5d/Bottle.png?version=95bf0690d6a22762d8483fbd861c09d4"
+        },
+        "ingredients": [
+          {
+            "name": "Glass",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Glass Bowl  (2)",
+          "href": "https://terraria.gamepedia.com/Glass_Bowl",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cb/Glass_Bowl.png?version=ffe41016e70d8570638245ff16c8d240"
+        },
+        "ingredients": [
+          {
+            "name": "Glass",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Wine Glass",
+          "href": "https://terraria.gamepedia.com/Wine_Glass",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f5/Wine_Glass.png?version=f2c70f9bbbd00321017281f2e1e39b0f"
+        },
+        "ingredients": [
+          {
+            "name": "Glass",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Terrarium",
+          "href": "https://terraria.gamepedia.com/Terrarium",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5e/Terrarium.png?version=e3f89f0502765a01690a6c44d258cf45"
+        },
+        "ingredients": [
+          {
+            "name": "Glass (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Clay Pot",
+          "href": "https://terraria.gamepedia.com/Clay_Pot",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Clay_Pot.png?version=8ab47b1f3bd88c3b8372c9b11ccd3658"
+        },
+        "ingredients": [
+          {
+            "name": "Clay Block (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Clay_Block.png?version=29b02158e986e41881a7236ce8b83bd8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pink Vase",
+          "href": "https://terraria.gamepedia.com/Pink_Vase",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/56/Pink_Vase.png?version=c159729b6508ad35ad9e2c37e3365c95"
+        },
+        "ingredients": [
+          {
+            "name": "Clay Block (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Clay_Block.png?version=29b02158e986e41881a7236ce8b83bd8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bowl",
+          "href": "https://terraria.gamepedia.com/Bowl",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9c/Bowl.png?version=4f74e515b4a01211e7d71ce071d0d7ca"
+        },
+        "ingredients": [
+          {
+            "name": "Clay Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Clay_Block.png?version=29b02158e986e41881a7236ce8b83bd8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Red Stucco",
+          "href": "https://terraria.gamepedia.com/Red_Stucco",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Red_Stucco.png?version=81a038e8da899fea1f7e5ee028a8aa16"
+        },
+        "ingredients": [
+          {
+            "name": "Silt Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dd/Silt_Block.png?version=03a4ce6eb02fdb2bc85a11c49bf5a2be"
+          },
+          {
+            "name": "Clay Block (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow Stucco",
+          "href": "https://terraria.gamepedia.com/Yellow_Stucco",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c6/Yellow_Stucco.png?version=a67f82786824974a2d41e0bc62335a6d"
+        },
+        "ingredients": [
+          {
+            "name": "Silt Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dd/Silt_Block.png?version=03a4ce6eb02fdb2bc85a11c49bf5a2be"
+          },
+          {
+            "name": "Sand Block (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gray Stucco",
+          "href": "https://terraria.gamepedia.com/Gray_Stucco",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/Gray_Stucco.png?version=f429bf3a560be62aee9aefa40f9feb6f"
+        },
+        "ingredients": [
+          {
+            "name": "Silt Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dd/Silt_Block.png?version=03a4ce6eb02fdb2bc85a11c49bf5a2be"
+          },
+          {
+            "name": "Stone Block (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green Stucco",
+          "href": "https://terraria.gamepedia.com/Green_Stucco",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8b/Green_Stucco.png?version=3788c2af3a221388d94b1ccad44d81d4"
+        },
+        "ingredients": [
+          {
+            "name": "Silt Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dd/Silt_Block.png?version=03a4ce6eb02fdb2bc85a11c49bf5a2be"
+          },
+          {
+            "name": "Green Thread"
+          },
+          {
+            "name": "Clay Block (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Red Brick",
+          "href": "https://terraria.gamepedia.com/Red_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/be/Red_Brick.png?version=2c57b8bf10bcf6c78b718df2f490b319"
+        },
+        "ingredients": [
+          {
+            "name": "Clay Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Clay_Block.png?version=29b02158e986e41881a7236ce8b83bd8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gray Brick",
+          "href": "https://terraria.gamepedia.com/Gray_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Gray_Brick.png?version=b4499e33eb4a20c4633362b389ed6615"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mudstone Brick",
+          "href": "https://terraria.gamepedia.com/Mudstone_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/95/Mudstone_Brick.png?version=c2c1f5381283c1fc75c75685e96fe85a"
+        },
+        "ingredients": [
+          {
+            "name": "Mud Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/44/Mud_Block.png?version=bbf7c2ab21f3881acc7ef889689c4d76"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sandstone Brick",
+          "href": "https://terraria.gamepedia.com/Sandstone_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f6/Sandstone_Brick.png?version=7b3ac92042527bfc270e142080d6674a"
+        },
+        "ingredients": [
+          {
+            "name": "Sand Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dc/Sand_Block.png?version=320ff91f17cbdea18d21135e3f0a2853"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Copper Brick",
+          "href": "https://terraria.gamepedia.com/Copper_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a0/Copper_Brick.png?version=c9c37a40ba6bc0897a151894f2a87ccf"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Copper Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tin Brick",
+          "href": "https://terraria.gamepedia.com/Tin_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Tin_Brick.png?version=a07f093a35189db43653f97ec5fab16e"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Tin Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Silver Brick",
+          "href": "https://terraria.gamepedia.com/Silver_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d3/Silver_Brick.png?version=a92f069658ab72c9b4ebf9093b8fbed7"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Silver Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tungsten Brick",
+          "href": "https://terraria.gamepedia.com/Tungsten_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d1/Tungsten_Brick.png?version=c223bf8ef7956c66f1975ab9f9871fe3"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Tungsten Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gold Brick",
+          "href": "https://terraria.gamepedia.com/Gold_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/38/Gold_Brick.png?version=ba87d396c17e13195bc6cbfde26db444"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Gold Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Platinum Brick",
+          "href": "https://terraria.gamepedia.com/Platinum_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Platinum_Brick.png?version=683d066e453c6dadcf067b9c8a0e9d50"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Platinum Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Demonite Brick  (5)",
+          "href": "https://terraria.gamepedia.com/Demonite_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Demonite_Brick.png?version=fdaaa5a5f38033786ac5aff60189408c"
+        },
+        "ingredients": [
+          {
+            "name": "Ebonstone Block (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Ebonstone_Block.png?version=2f82f93e0b4bc75c5b2f138981634f75"
+          },
+          {
+            "name": "Demonite Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Crimtane Brick",
+          "href": "https://terraria.gamepedia.com/Crimtane_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e7/Crimtane_Brick.png?version=720e4cfec7122e7f40502957588bea71"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Crimtane Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Meteorite Brick  (2)",
+          "href": "https://terraria.gamepedia.com/Meteorite_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/26/Meteorite_Brick.png?version=ec7cfa9c37199af49abe07e5650d749d"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Meteorite"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hellstone Brick",
+          "href": "https://terraria.gamepedia.com/Hellstone_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/19/Hellstone_Brick.png?version=65fbe73a67ce8865387a2f1a87c16a71"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          },
+          {
+            "name": "Hellstone"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Iridescent Brick",
+          "href": "https://terraria.gamepedia.com/Iridescent_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/Iridescent_Brick.png?version=bfb6349622f33fa8a087f30df05c5cb3"
+        },
+        "ingredients": [
+          {
+            "name": "Ash Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/44/Ash_Block.png?version=b101f8fce0878e3bda57082567af0c65"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Brick",
+          "href": "https://terraria.gamepedia.com/Obsidian_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9d/Obsidian_Brick.png?version=6e4e439a3b65ad70c2ae36f3cefe1ca7"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Obsidian.png?version=285573ff6b074083fc6a0a693f856a79"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ebonstone Brick",
+          "href": "https://terraria.gamepedia.com/Ebonstone_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/89/Ebonstone_Brick.png?version=7f58cfd81b126387a31f1723ba12adec"
+        },
+        "ingredients": [
+          {
+            "name": "Ebonstone Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Ebonstone_Block.png?version=2f82f93e0b4bc75c5b2f138981634f75"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pearlstone Brick",
+          "href": "https://terraria.gamepedia.com/Pearlstone_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/91/Pearlstone_Brick.png?version=e4c611e4b8891f7e6cbb0deead6e4ff0"
+        },
+        "ingredients": [
+          {
+            "name": "Pearlsand Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Pearlsand_Block.png?version=8743784fa9d52c0165cb37c137a91513"
+          },
+          {
+            "name": "Pearlstone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cobalt Brick",
+          "href": "https://terraria.gamepedia.com/Cobalt_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5f/Cobalt_Brick.png?version=38a1a51e6bf1cda46b709751815fdfc0"
+        },
+        "ingredients": [
+          {
+            "name": "Cobalt Ore",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Cobalt_Ore.png?version=9e8effdd15181abf08aeac772abda3f5"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Palladium Column",
+          "href": "https://terraria.gamepedia.com/Palladium_Column",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Palladium_Column.png?version=f628aafe6bf70e9e14971f6ba6301541"
+        },
+        "ingredients": [
+          {
+            "name": "Palladium Ore",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Palladium_Ore.png?version=51aa95237da1e9ba7bf6cdba2b75af11"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Brick",
+          "href": "https://terraria.gamepedia.com/Mythril_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/01/Mythril_Brick.png?version=7b823bd6ec09be26942c004918534d1c"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Ore",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/66/Mythril_Ore.png?version=df939ad3a08bd0d8deea6bb212e8f2ee"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bubblegum Block",
+          "href": "https://terraria.gamepedia.com/Bubblegum_Block",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b9/Bubblegum_Block.png?version=047f42da2afa362d87e74ebaf7f0e6b8"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Ore",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/43/Orichalcum_Ore.png?version=468dfc184d96d5e254db27644bdd22fb"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Adamantite Beam",
+          "href": "https://terraria.gamepedia.com/Adamantite_Beam",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8a/Adamantite_Beam.png?version=3e5aaa7dec47032c3c97be0fb1a79e2b"
+        },
+        "ingredients": [
+          {
+            "name": "Adamantite Ore",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4f/Adamantite_Ore.png?version=42f4c080ce92cf7565de10ba6a347070"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titanstone Block",
+          "href": "https://terraria.gamepedia.com/Titanstone_Block",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/93/Titanstone_Block.png?version=81bf2c9de1b29ad30454ad3102c7bba0"
+        },
+        "ingredients": [
+          {
+            "name": "Titanium Ore",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/34/Titanium_Ore.png?version=2f4e415690205b912c4356a6cbe362f6"
+          },
+          {
+            "name": "Stone Block"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Shroomite Plating  (15)",
+          "href": "https://terraria.gamepedia.com/Shroomite_Plating",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fc/Shroomite_Plating.png?version=03f01463025057492b5caa53ee7851ea"
+        },
+        "ingredients": [
+          {
+            "name": "Shroomite Bar (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/63/Shroomite_Bar.png?version=90e718d1574e95c1d2533cf89bb035ea"
+          },
+          {
+            "name": "Stone Block (15)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Chlorophyte Brick  (2)",
+          "href": "https://terraria.gamepedia.com/Chlorophyte_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3d/Chlorophyte_Brick.png?version=94ec0495971448193619a9263a12b209"
+        },
+        "ingredients": [
+          {
+            "name": "Chlorophyte Ore (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Chlorophyte_Ore.png?version=1698bfa36acc34cc7bce52ca4374e164"
+          },
+          {
+            "name": "Stone Block (2)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Luminite Brick  (2)",
+          "href": "https://terraria.gamepedia.com/Luminite_Brick",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/53/Luminite_Brick.png?version=cea33e4d97642ecda4b26a2dc3445887"
+        },
+        "ingredients": [
+          {
+            "name": "Luminite (1)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/81/Luminite.png?version=1ac45d3519d161f43d53173c88741ce0"
+          },
+          {
+            "name": "Stone Block (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Copper Bar",
+          "href": "https://terraria.gamepedia.com/Copper_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f1/Copper_Bar.png?version=f5c5e84ec93541cfb07571fe3d1f9f4c"
+        },
+        "ingredients": [
+          {
+            "name": "Copper Ore (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Copper_Ore.png?version=eafeeb91d7125f18efc0943793d47214"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tin Bar",
+          "href": "https://terraria.gamepedia.com/Tin_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d6/Tin_Bar.png?version=8bde2db95f90d82a9b8e7c87886013cd"
+        },
+        "ingredients": [
+          {
+            "name": "Tin Ore (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c4/Tin_Ore.png?version=40af66281e99a68d2df6b15cacc60d11"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Iron Bar",
+          "href": "https://terraria.gamepedia.com/Iron_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6c/Iron_Bar.png?version=94ff969eec1b954cc2ceed38ff66efc5"
+        },
+        "ingredients": [
+          {
+            "name": "Iron Ore (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Iron_Ore.png?version=014aa0e4ec0f92a5429d39ef6d78ccda"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lead Bar",
+          "href": "https://terraria.gamepedia.com/Lead_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/10/Lead_Bar.png?version=9a53cb3360d845491531feaf7e52a067"
+        },
+        "ingredients": [
+          {
+            "name": "Lead Ore (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Lead_Ore.png?version=d4edc2b55266906c786c7a9cdf8fbc88"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Silver Bar",
+          "href": "https://terraria.gamepedia.com/Silver_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Silver_Bar.png?version=bdbfc40fad2f327cc9c07ccbd03890a3"
+        },
+        "ingredients": [
+          {
+            "name": "Silver Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/97/Silver_Ore.png?version=c52ee349eb7dc6cfdf3cc42aaf985f2e"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tungsten Bar",
+          "href": "https://terraria.gamepedia.com/Tungsten_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f3/Tungsten_Bar.png?version=81968be65e37fdf74e2709f28c34580b"
+        },
+        "ingredients": [
+          {
+            "name": "Tungsten Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Tungsten_Ore.png?version=40272a94f8d29fccc503aafee38df8e1"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gold Bar",
+          "href": "https://terraria.gamepedia.com/Gold_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4e/Gold_Bar.png?version=a1c6ac90a0ab11f1e57fb1cb25214896"
+        },
+        "ingredients": [
+          {
+            "name": "Gold Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f7/Gold_Ore.png?version=15580b7b24ef602bf124b6c60fe231ff"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Platinum Bar",
+          "href": "https://terraria.gamepedia.com/Platinum_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d2/Platinum_Bar.png?version=fe695c51318c5094dfdef1419b6842e3"
+        },
+        "ingredients": [
+          {
+            "name": "Platinum Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b0/Platinum_Ore.png?version=8fbebb70bdb76ab030d474f22a36be57"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Demonite Bar",
+          "href": "https://terraria.gamepedia.com/Demonite_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Demonite_Bar.png?version=8f15a4b18b39db67df4a992eb3e4f645"
+        },
+        "ingredients": [
+          {
+            "name": "Demonite Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a8/Demonite_Ore.png?version=0655b727f4509bf137733778de6091b9"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Crimtane Bar",
+          "href": "https://terraria.gamepedia.com/Crimtane_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/ce/Crimtane_Bar.png?version=b35c68fcc542d504528f2494a8b60652"
+        },
+        "ingredients": [
+          {
+            "name": "Crimtane Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c5/Crimtane_Ore.png?version=3684a1efdbe707e2f2477ec6587ad150"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Meteorite Bar",
+          "href": "https://terraria.gamepedia.com/Meteorite_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a2/Meteorite_Bar.png?version=1237d0eb7a272ef09cb0ec3fec5e19df"
+        },
+        "ingredients": [
+          {
+            "name": "Meteorite (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9e/Meteorite.png?version=4aca2ccdb93644429c4c4d23dd93046d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cobalt Bar",
+          "href": "https://terraria.gamepedia.com/Cobalt_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a4/Cobalt_Bar.png?version=0819aaa8a6338d6bdf3d7aa852879225"
+        },
+        "ingredients": [
+          {
+            "name": "Cobalt Ore (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Cobalt_Ore.png?version=9e8effdd15181abf08aeac772abda3f5"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Palladium Bar",
+          "href": "https://terraria.gamepedia.com/Palladium_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8e/Palladium_Bar.png?version=86927503849edb2e6b4a3f2b7390b81b"
+        },
+        "ingredients": [
+          {
+            "name": "Palladium Ore (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Palladium_Ore.png?version=51aa95237da1e9ba7bf6cdba2b75af11"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mythril Bar",
+          "href": "https://terraria.gamepedia.com/Mythril_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Mythril_Bar.png?version=f94c2065b32ae547756291b242e40bff"
+        },
+        "ingredients": [
+          {
+            "name": "Mythril Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/66/Mythril_Ore.png?version=df939ad3a08bd0d8deea6bb212e8f2ee"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orichalcum Bar",
+          "href": "https://terraria.gamepedia.com/Orichalcum_Bar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Orichalcum_Bar.png?version=a4c0144acac656069f5d397a1b830ba8"
+        },
+        "ingredients": [
+          {
+            "name": "Orichalcum Ore (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/43/Orichalcum_Ore.png?version=468dfc184d96d5e254db27644bdd22fb"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Skull",
+          "href": "https://terraria.gamepedia.com/Obsidian_Skull",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4e/Obsidian_Skull.png?version=b68650a311f1eeb846607a9a38415fc3"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Obsidian.png?version=285573ff6b074083fc6a0a693f856a79"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sandgun",
+          "href": "https://terraria.gamepedia.com/Sandgun",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a6/Sandgun.png?version=e4a31ed172dbb010b30143cfc73678c9"
+        },
+        "ingredients": [
+          {
+            "name": "Antlion Mandible (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/be/Antlion_Mandible.png?version=d71518019803738f6b61bb33f1696ea4"
+          },
+          {
+            "name": "Topaz (5)"
+          },
+          {
+            "name": "Illegal Gun Parts"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "tool": "Living Loom",
+    "category": "Living Loom",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Wall  (4)",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Wall",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Living_Wood_Wall.png?version=a1f7a23e2f335fea6d2a69ccf49e1743"
+        },
+        "ingredients": [
+          {
+            "name": "Wood",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Living Leaf Wall  (4)",
+          "href": "https://terraria.gamepedia.com/Living_Leaf_Wall",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Living_Leaf_Wall.png?version=a7aff157f07a82be4655953251b48aa9"
+        },
+        "ingredients": [
+          {
+            "name": "Wood",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Platform  (2)",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Platform",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Living_Wood_Platform.png?version=5a4526b33bc0938d33000a88c00aff9a"
+        },
+        "ingredients": [
+          {
+            "name": "Wood",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Work Bench",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Work_Bench",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/27/Living_Wood_Work_Bench.png?version=60e45cb747b1bec16687133db021e488"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Door",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Door",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/db/Living_Wood_Door.png?version=7c6df6754002a18cd7fc2f93a37a6edb"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Chair",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Chair",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Living_Wood_Chair.png?version=40e1316b724f06f6ac35a86ce1f14401"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Table",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Table",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/95/Living_Wood_Table.png?version=3784e455868f05984867e5d73e6a6e44"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Bed",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Bed",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Living_Wood_Bed.png?version=39ed2d9fc73d67acfd078902c2a11df0"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Silk (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Bookcase",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Bookcase",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/11/Living_Wood_Bookcase.png?version=9aa32c81562278ecf8034463e32796fd"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Book (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Clock",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Clock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Living_Wood_Clock.png?version=f13191fc3de304f74d0be5497deed1d8"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (3)"
+          },
+          {
+            "name": "Glass (6)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Sofa",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Sofa",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e9/Living_Wood_Sofa.png?version=10f55fc3484a155a18b140f0bb5052ce"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Silk (2)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Piano",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Piano",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Living_Wood_Piano.png?version=401565297c0d4491fa1822c6b4c26482"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Bone (4)"
+          },
+          {
+            "name": "Book (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Living Wood Dresser",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Dresser",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d0/Living_Wood_Dresser.png?version=b65b7f64ae022e28fd8c70e4ab61a3f2"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Living Wood Sink",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Sink",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Living_Wood_Sink.png?version=852ef52c2e3cc51dad857d5da84e1a85"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Water Bucket"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Bathtub",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Bathtub",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d1/Living_Wood_Bathtub.png?version=6781d9e5344f7ed1f06fc6a88ca38095"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (14)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Candle",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Candle",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Living_Wood_Candle.png?version=15411d6df6374d8415076c9e6cb84cde"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Torch"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Candelabra",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Candelabra",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Living_Wood_Candelabra.png?version=ffc2c36cf3b6e50c0c11bacf441ce3a6"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Torch (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Chandelier",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Chandelier",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c6/Living_Wood_Chandelier.png?version=af6e2067b54deb14152cad7dd89da728"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Torch (4)"
+          },
+          {
+            "name": "Chain"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Lamp",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Lamp",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/60/Living_Wood_Lamp.png?version=2fbb7c530766cd18cd99f97f71d01da3"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Torch"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Living Wood Lantern",
+          "href": "https://terraria.gamepedia.com/Living_Wood_Lantern",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/68/Living_Wood_Lantern.png?version=b90bd4384fbbd21f0087ada4db54bee8"
+        },
+        "ingredients": [
+          {
+            "name": "Wood (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Wood.png?version=a88bcf9b23d6625316981e6544106163"
+          },
+          {
+            "name": "Torch"
+          }
+        ]
+      }
+    ]
+  }
+]

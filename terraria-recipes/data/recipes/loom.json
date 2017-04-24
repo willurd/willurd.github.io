@@ -1,0 +1,493 @@
+[
+  {
+    "tool": "Loom",
+    "category": "Loom",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Goblin Battle Standard",
+          "href": "https://terraria.gamepedia.com/Goblin_Battle_Standard",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Goblin_Battle_Standard.png?version=1787ebd12cc098eb22149fb0486813e3"
+        },
+        "ingredients": [
+          {
+            "name": "Tattered Cloth (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/52/Tattered_Cloth.png?version=d66d6c37cb7ed81322375bb3374e548c"
+          },
+          {
+            "name": "Wood (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Silk",
+          "href": "https://terraria.gamepedia.com/Silk",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+        },
+        "ingredients": [
+          {
+            "name": "Cobweb (7)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Cobweb.png?version=1d974e14e70b1e51daf4fe5723bef9de"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Red Banner",
+          "href": "https://terraria.gamepedia.com/Red_Banner",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a6/Red_Banner.png?version=3ea08317ff488d4f36767ecd5a0a75cb"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green Banner",
+          "href": "https://terraria.gamepedia.com/Green_Banner",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/49/Green_Banner.png?version=1c038fc25e70d7e036be9227543e5842"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue Banner",
+          "href": "https://terraria.gamepedia.com/Blue_Banner",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9b/Blue_Banner.png?version=0bd691264545d1de7059372b7fab7fe2"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow Banner",
+          "href": "https://terraria.gamepedia.com/Yellow_Banner",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1f/Yellow_Banner.png?version=b1c6ebaba9038f102d04443400746a4c"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Green Thread",
+          "href": "https://terraria.gamepedia.com/Green_Thread",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Green_Thread.png?version=9a9e21fec013ea7f09aa10369886932e"
+        },
+        "ingredients": [
+          {
+            "name": "Jungle Grass Seeds (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/77/Jungle_Grass_Seeds.png?version=b4cfabdf76b65736790b86a8bbf97f8d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hero's Hat",
+          "href": "https://terraria.gamepedia.com/Hero%27s_Hat",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1f/Hero%27s_Hat.png?version=fc3a875c8a77b4541994f9b5980b9e0e"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Green Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hero's Hat (console)",
+          "href": "https://terraria.gamepedia.com/Hero%27s_Hat_(console)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/76/Hero%27s_Hat_%28console%29.png?version=5a7ad99c74ee6d7f953e9e33417c3a29"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Purple Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hero's Shirt",
+          "href": "https://terraria.gamepedia.com/Hero%27s_Shirt",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5c/Hero%27s_Shirt.png?version=a7698d2e2efd6f53079d5a64f9680ddd"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Green Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hero's Shirt (console)",
+          "href": "https://terraria.gamepedia.com/Hero%27s_Shirt_(console)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5d/Hero%27s_Shirt_%28console%29.png?version=f229ab5bc44f66901a48b1c1733b72ee"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Purple Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hero's Pants",
+          "href": "https://terraria.gamepedia.com/Hero%27s_Pants",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Hero%27s_Pants.png?version=31f86fb79e386605f5d89761cbb23eb8"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Green Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hero's Pants (console)",
+          "href": "https://terraria.gamepedia.com/Hero%27s_Pants_(console)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bb/Hero%27s_Pants_%28console%29.png?version=2e8487912f16f48136d18b18e24baae6"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Purple Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tuxedo Shirt",
+          "href": "https://terraria.gamepedia.com/Tuxedo_Shirt",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a7/Tuxedo_Shirt.png?version=81b07534e85f5f953d2fd3deef5b2093"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Black Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tuxedo Pants",
+          "href": "https://terraria.gamepedia.com/Tuxedo_Pants",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/42/Tuxedo_Pants.png?version=dc83375464db05183ce46893fd355b6a"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Black Thread (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ancient Headdress",
+          "href": "https://terraria.gamepedia.com/Ancient_Headdress",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0e/Ancient_Headdress.png?version=eecaa85233eb0e8dd08a32d189979aa4"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Ancient Cloth (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ancient Garments",
+          "href": "https://terraria.gamepedia.com/Ancient_Garments",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Ancient_Garments.png?version=12dfe93414fe5db429d0204d97cd6d3e"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Ancient Cloth (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ancient Slacks",
+          "href": "https://terraria.gamepedia.com/Ancient_Slacks",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Ancient_Slacks.png?version=43b697ed3eea1e1f93fdf06ee40afe02"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          },
+          {
+            "name": "Ancient Cloth (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Robe",
+          "href": "https://terraria.gamepedia.com/Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+        },
+        "ingredients": [
+          {
+            "name": "Silk (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Amethyst Robe",
+          "href": "https://terraria.gamepedia.com/Amethyst_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e5/Amethyst_Robe.png?version=4e89aba24be61c1761f5becbb1cfba8d"
+        },
+        "ingredients": [
+          {
+            "name": "Robe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+          },
+          {
+            "name": "Amethyst (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Topaz Robe",
+          "href": "https://terraria.gamepedia.com/Topaz_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fd/Topaz_Robe.png?version=263b7a69eebc56a518750555f61c283b"
+        },
+        "ingredients": [
+          {
+            "name": "Robe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+          },
+          {
+            "name": "Topaz (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sapphire Robe",
+          "href": "https://terraria.gamepedia.com/Sapphire_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Sapphire_Robe.png?version=5f9b8333abb3bc59b064ace3e5488e52"
+        },
+        "ingredients": [
+          {
+            "name": "Robe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+          },
+          {
+            "name": "Sapphire (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Emerald Robe",
+          "href": "https://terraria.gamepedia.com/Emerald_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8a/Emerald_Robe.png?version=094f8ad5678365319e7348b637ea4aa2"
+        },
+        "ingredients": [
+          {
+            "name": "Robe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+          },
+          {
+            "name": "Emerald (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ruby Robe",
+          "href": "https://terraria.gamepedia.com/Ruby_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8f/Ruby_Robe.png?version=0ef221d0751ebb7e04e57268b9a28150"
+        },
+        "ingredients": [
+          {
+            "name": "Robe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+          },
+          {
+            "name": "Ruby (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Diamond Robe",
+          "href": "https://terraria.gamepedia.com/Diamond_Robe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Diamond_Robe.png?version=9bbf1fdb484e9efd98d8d8788b64c829"
+        },
+        "ingredients": [
+          {
+            "name": "Robe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Robe.png?version=8599468cfdee20045960fbac6ea7ee8e"
+          },
+          {
+            "name": "Diamond (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "White String",
+          "href": "https://terraria.gamepedia.com/White_String",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+        },
+        "ingredients": [
+          {
+            "name": "Cobweb (30)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Cobweb.png?version=1d974e14e70b1e51daf4fe5723bef9de"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Silk Rope  (30)",
+          "href": "https://terraria.gamepedia.com/Silk_Rope",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e1/Silk_Rope.png?version=f2e73a39c7da2756d843802f3f5f2016"
+        },
+        "ingredients": [
+          {
+            "name": "Silk",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Silk.png?version=aafa95d92c512a7c88195370ff0b7684"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Outlaw Hat",
+          "href": "https://terraria.gamepedia.com/Obsidian_Outlaw_Hat",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a4/Obsidian_Outlaw_Hat.png?version=5525307bfdf03c449b5e71b450e03ac8"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Obsidian.png?version=285573ff6b074083fc6a0a693f856a79"
+          },
+          {
+            "name": "Silk (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Longcoat",
+          "href": "https://terraria.gamepedia.com/Obsidian_Longcoat",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Obsidian_Longcoat.png?version=254d206a545b17a2eb6a093f99713787"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Obsidian.png?version=285573ff6b074083fc6a0a693f856a79"
+          },
+          {
+            "name": "Silk (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Pants",
+          "href": "https://terraria.gamepedia.com/Obsidian_Pants",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c0/Obsidian_Pants.png?version=bfd324984d4ba31833186789d15f4644"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Obsidian.png?version=285573ff6b074083fc6a0a693f856a79"
+          },
+          {
+            "name": "Silk (10)"
+          }
+        ]
+      }
+    ]
+  }
+]

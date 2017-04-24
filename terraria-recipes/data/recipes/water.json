@@ -1,0 +1,90 @@
+[
+  {
+    "tool": "Water",
+    "category": "Water",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bottled Water",
+          "href": "https://terraria.gamepedia.com/Bottled_Water",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+        },
+        "ingredients": [
+          {
+            "name": "Bottle",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5d/Bottle.png?version=95bf0690d6a22762d8483fbd861c09d4"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mud Block",
+          "href": "https://terraria.gamepedia.com/Mud_Block",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/44/Mud_Block.png?version=bbf7c2ab21f3881acc7ef889689c4d76"
+        },
+        "ingredients": [
+          {
+            "name": "Dirt Block",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/55/Dirt_Block.png?version=7b9331c2e3cea3af60823a61e89f9299"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Water",
+    "category": "Water + Crystal Ball",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Waterfall Block",
+          "href": "https://terraria.gamepedia.com/Waterfall_Block",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Waterfall_Block.png?version=887449871736760ff43adf999bbfd345"
+        },
+        "ingredients": [
+          {
+            "name": "Glass",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/15/Glass.png?version=26c1dd805d3875b6079d53277fd374f7"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Magic Water Dropper",
+          "href": "https://terraria.gamepedia.com/Magic_Water_Dropper",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9e/Magic_Water_Dropper.png?version=16615f932b36c69cfed21e84f84935be"
+        },
+        "ingredients": [
+          {
+            "name": "Empty Dropper",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/81/Empty_Dropper.png?version=e81e0aa1ff387d343e620fadc3f0206b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tool": "Water",
+    "category": "Water + Sky Mill",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Rain Cloud",
+          "href": "https://terraria.gamepedia.com/Rain_Cloud",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4e/Rain_Cloud.png?version=9c94eba74fca2417544af490ea16f44a"
+        },
+        "ingredients": [
+          {
+            "name": "Cloud",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d2/Cloud.png?version=a6ef6b1c6e9404370d87ed5c7165b328"
+          }
+        ]
+      }
+    ]
+  }
+]

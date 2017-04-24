@@ -1,0 +1,63 @@
+.App {
+  font-family: "Sofia Pro", Lato, "Helvetica Neue", sans-serif;
+  margin: 0 auto;
+  padding: 60px;
+  width: 700px;
+}
+
+h1 {
+  margin: 0 0 40px;
+  padding: 0;
+  text-align: center;
+}
+
+.tool {
+  color: #bbb;
+  font-size: 12px;
+  margin-left: 26px;
+}
+
+.SearchBar {
+  text-align: center;
+}
+
+.SearchBar input {
+  font-size: 24px;
+  margin-bottom: 40px;
+  width: 400px;
+}
+
+.RecipeList {
+
+}
+
+.Recipe {
+  border: 1px solid #eee;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.Recipe .item {
+  margin-right: 10px;
+}
+
+.Recipe .item .icon {
+  margin-right: 10px;
+}
+
+.Recipe .ingredients {
+  margin-left: 10px;
+  text-align: right;
+}
+
+.Recipe .ingredients .icon {
+  margin-left: 10px;
+}
+
+.flex-spacer {
+  flex: 1;
+}
+
+.hbox {
+  display: flex;
+}

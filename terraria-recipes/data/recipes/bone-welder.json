@@ -1,0 +1,271 @@
+[
+  {
+    "tool": "Bone Welder",
+    "category": "Bone Welder",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Chair",
+          "href": "https://terraria.gamepedia.com/Bone_Chair",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f8/Bone_Chair.png?version=f28ff49aee5821cf9b4cdc74f781e702"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Door",
+          "href": "https://terraria.gamepedia.com/Bone_Door",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/71/Bone_Door.png?version=88ea4e581a50bc9a3407103df1eea0a6"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Dresser",
+          "href": "https://terraria.gamepedia.com/Bone_Dresser",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bb/Bone_Dresser.png?version=340fc23e46ace01104ceecb86ff96882"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (16)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Sofa",
+          "href": "https://terraria.gamepedia.com/Bone_Sofa",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/75/Bone_Sofa.png?version=68b6df657d3d666c8b5ea843f7746778"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Silk (2)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Table",
+          "href": "https://terraria.gamepedia.com/Bone_Table",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Bone_Table.png?version=7ac5ba09559fbe46572a4b66b589be49"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Piano",
+          "href": "https://terraria.gamepedia.com/Bone_Piano",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/84/Bone_Piano.png?version=9c7aabafd5a76c5ae2823856f2533f69"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (19)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Book"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Bed",
+          "href": "https://terraria.gamepedia.com/Bone_Bed",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Bone_Bed.png?version=bf068513ddcb134bad9e7d3c5acd1b5d"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Silk (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Bathtub",
+          "href": "https://terraria.gamepedia.com/Bone_Bathtub",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/18/Bone_Bathtub.png?version=c1b5823aa34abd9102c41a5b4dd125ed"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (14)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Sink",
+          "href": "https://terraria.gamepedia.com/Bone_Sink",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d1/Bone_Sink.png?version=5861767c92195593678e9ec5a8104d96"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Water Bucket"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Chest",
+          "href": "https://terraria.gamepedia.com/Bone_Chest",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Bone_Chest.png?version=78104936b155bb94459910dd2b80d32b"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (8)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (2)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Bookcase",
+          "href": "https://terraria.gamepedia.com/Bone_Bookcase",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7e/Bone_Bookcase.png?version=0c16312bc9c5256b5446c307092c1095"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (20)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Book (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Clock",
+          "href": "https://terraria.gamepedia.com/Bone_Clock",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/36/Bone_Clock.png?version=d65d6fd582da037419aeacd7dacc5472"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (10)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Glass (6)"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Lantern",
+          "href": "https://terraria.gamepedia.com/Bone_Lantern",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/31/Bone_Lantern.png?version=9ae2d327da6d94ccec411801f77a78b8"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Torch (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Candelabra",
+          "href": "https://terraria.gamepedia.com/Bone_Candelabra",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6e/Bone_Candelabra.png?version=f07178468104220811c7b89f86fa08c0"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Torch (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Lamp",
+          "href": "https://terraria.gamepedia.com/Bone_Lamp",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cd/Bone_Lamp.png?version=a71b811d978406156a3d504766a8a50b"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Torch (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bone Chandelier",
+          "href": "https://terraria.gamepedia.com/Bone_Chandelier",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Bone_Chandelier.png?version=92a24dfbb05e1437e4f7edf83c9c71d1"
+        },
+        "ingredients": [
+          {
+            "name": "Bone (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Bone.png?version=0245d6d1ac83fb15a11f569923f9c26c"
+          },
+          {
+            "name": "Torch (4)"
+          },
+          {
+            "name": "Chain (1)"
+          }
+        ]
+      }
+    ]
+  }
+]

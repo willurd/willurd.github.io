@@ -1,0 +1,22 @@
+[
+  {
+    "tool": "Meat Grinder",
+    "category": "Meat Grinder",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flesh Block",
+          "href": "https://terraria.gamepedia.com/Flesh_Block",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Flesh_Block.png?version=bcd490f4c10ea8e9d217ef1dde6dce49"
+        },
+        "ingredients": [
+          {
+            "name": "Crimstone Block (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b0/Crimstone_Block.png?version=feecf5154ec4f47e5e674dca91ddd8a8"
+          }
+        ]
+      }
+    ]
+  }
+]

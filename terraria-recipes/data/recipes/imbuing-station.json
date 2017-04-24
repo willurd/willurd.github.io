@@ -1,0 +1,207 @@
+[
+  {
+    "tool": "Imbuing Station",
+    "category": "Imbuing Station",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flask of Poison",
+          "href": "https://terraria.gamepedia.com/Flask_of_Poison",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cd/Flask_of_Poison.png?version=61878b37202dc602dfa814ad5a7362b1"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Stinger (1)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Flask of Fire",
+          "href": "https://terraria.gamepedia.com/Flask_of_Fire",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/77/Flask_of_Fire.png?version=b8506a450f57bc4bcc57af801ab51de2"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Hellstone (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Flask of Fire",
+          "href": "https://terraria.gamepedia.com/Flask_of_Fire",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/77/Flask_of_Fire.png?version=b8506a450f57bc4bcc57af801ab51de2"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Hellstone (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flask of Venom",
+          "href": "https://terraria.gamepedia.com/Flask_of_Venom",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f0/Flask_of_Venom.png?version=227698cf6c9ebd423b7fdbd753de0310"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Vial of Venom (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flask of Gold",
+          "href": "https://terraria.gamepedia.com/Flask_of_Gold",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Flask_of_Gold.png?version=8f51b672975f4b94e4e17732d0744cfa"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Gold Dust (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Flask of Ichor",
+          "href": "https://terraria.gamepedia.com/Flask_of_Ichor",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/71/Flask_of_Ichor.png?version=82138ab48e120efcefd7b980857f316c"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Ichor (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Flask of Ichor",
+          "href": "https://terraria.gamepedia.com/Flask_of_Ichor",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/71/Flask_of_Ichor.png?version=82138ab48e120efcefd7b980857f316c"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Ichor (2)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Flask of Cursed Flames",
+          "href": "https://terraria.gamepedia.com/Flask_of_Cursed_Flames",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Flask_of_Cursed_Flames.png?version=510ac77b7ba76b7f7742ba65ad63a7c3"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Cursed Flame (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Flask of Cursed Flames",
+          "href": "https://terraria.gamepedia.com/Flask_of_Cursed_Flames",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Flask_of_Cursed_Flames.png?version=510ac77b7ba76b7f7742ba65ad63a7c3"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Cursed Flame (2)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flask of Nanites",
+          "href": "https://terraria.gamepedia.com/Flask_of_Nanites",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Flask_of_Nanites.png?version=82a0394650f164091585ff34bc8f6e1d"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Nanites (5)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flask of Party",
+          "href": "https://terraria.gamepedia.com/Flask_of_Party",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Flask_of_Party.png?version=d4f02ce56c92b0cddb3b0a386d18b1d8"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Confetti (5)"
+          }
+        ]
+      }
+    ]
+  }
+]

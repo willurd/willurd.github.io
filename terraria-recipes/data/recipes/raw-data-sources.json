@@ -1,0 +1,192 @@
+[
+  {
+    "tool": "Ancient Manipulator",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FAncient+Manipulator",
+    "target": "ancient-manipulator.json"
+  },
+  {
+    "tool": "Hardmode Forges (Adamantite Forge / Titanium Forge)",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FHardmode+Forge",
+    "target": "hardmode-forges.json"
+  },
+  {
+    "tool": "Autohammer",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FAutohammer",
+    "target": "autohammer.json"
+  },
+  {
+    "tool": "Bookcase",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FBookcase",
+    "target": "bookcase.json"
+  },
+  {
+    "tool": "Bone Welder",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FBone+Welder",
+    "target": "bone-welder.json"
+  },
+  {
+    "tool": "Blend-O-Matic",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FBlend-O-Matic",
+    "target": "blend-o-matic.json"
+  },
+  {
+    "tool": "By Hand",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FBy+Hand",
+    "target": "hand.json"
+  },
+  {
+    "tool": "Campfire",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FCampfire",
+    "target": "campfire.json"
+  },
+  {
+    "tool": "Cooking Pot / Cauldron",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FCooking+Pot",
+    "target": "cooking-pot.json"
+  },
+  {
+    "tool": "Crystal Ball",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FCrystal+Ball",
+    "target": "crystal-ball.json"
+  },
+  {
+    "tool": "Altar (Demon Altar / Crimson Altar)",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FDemon+Altar",
+    "target": "altar.json"
+  },
+  {
+    "tool": "Dye Vat",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FDye+Vat",
+    "target": "dye-vat.json"
+  },
+  {
+    "tool": "Flesh Cloning Vat",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FFlesh+Cloning+Vat",
+    "target": "flesh-cloning-vat.json"
+  },
+  {
+    "tool": "Furnace",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FFurnace",
+    "target": "furnace.json"
+  },
+  {
+    "tool": "Glass Kiln",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FGlass+Kiln",
+    "target": "glass-kiln.json"
+  },
+  {
+    "tool": "Heavy Work Bench",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FHeavy+Work+Bench",
+    "target": "heavy-work-bench.json"
+  },
+  {
+    "tool": "Hellforge",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FHellforge",
+    "target": "hellforge.json"
+  },
+  {
+    "tool": "Honey",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Template%3A+Honey",
+    "target": "honey.json"
+  },
+  {
+    "tool": "Honey Dispenser",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FHoney+Dispenser",
+    "target": "honey-dispenser.json"
+  },
+  {
+    "tool": "Ice Machine",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FIce+Machine",
+    "target": "ice-machine.json"
+  },
+  {
+    "tool": "Imbuing Station",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FImbuing+Station",
+    "target": "imbuing-station.json"
+  },
+  {
+    "tool": "Anvil (Iron Anvil / Lead Anvil)",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FIron+Anvil",
+    "target": "anvil.json"
+  },
+  {
+    "tool": "Keg",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FKeg",
+    "target": "keg.json"
+  },
+  {
+    "tool": "Lava",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FLava",
+    "target": "lava.json"
+  },
+  {
+    "tool": "Lihzahrd Furnace",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FLihzahrd+Furnace",
+    "target": "lihzahrd-furnace.json"
+  },
+  {
+    "tool": "Living Loom",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FLiving+Loom",
+    "target": "living-loom.json"
+  },
+  {
+    "tool": "Loom",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FLoom",
+    "target": "loom.json"
+  },
+  {
+    "tool": "Meat Grinder",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FMeat+Grinder",
+    "target": "meat-grinder.json"
+  },
+  {
+    "tool": "Hardmode Anvils (Mythril Anvil / Orichalcum Anvil)",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FHardmode+Anvil",
+    "target": "hardmode-anvil.json"
+  },
+  {
+    "tool": "Placed Bottle / Alchemy Station / Alchemy Table",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FPlaced+Bottle",
+    "target": "alchemy.json"
+  },
+  {
+    "tool": "Sawmill",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FSawmill",
+    "target": "sawmill.json"
+  },
+  {
+    "tool": "Sky Mill",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FSky+Mill",
+    "target": "sky-mill.json"
+  },
+  {
+    "tool": "Solidifier",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FSolidifier",
+    "target": "solidifier.json"
+  },
+  {
+    "tool": "Steampunk Boiler",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FSteampunk+Boiler",
+    "target": "steampunk-boiler.json"
+  },
+  {
+    "tool": "Table + Chair",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FTable",
+    "target": "table-and-chair.json"
+  },
+  {
+    "tool": "Tinkerer's Workshop",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FTinkerer%27s+Workshop",
+    "target": "tinkerers-workshop.json"
+  },
+  {
+    "tool": "Water",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FWater",
+    "target": "water.json"
+  },
+  {
+    "tool": "Work Bench",
+    "url": "http://terraria.gamepedia.com/index.php?action=render&title=Recipes%2FWork+Bench",
+    "target": "work-bench.json"
+  }
+]

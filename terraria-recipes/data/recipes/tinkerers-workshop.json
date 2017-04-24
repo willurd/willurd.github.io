@@ -1,0 +1,1664 @@
+[
+  {
+    "tool": "Tinkerer's Workshop",
+    "category": "Tinkerer's Workshop",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Boulder",
+          "href": "https://terraria.gamepedia.com/Boulder",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Boulder.png?version=637afed32b7497401b37e75f7bcf0bf5"
+        },
+        "ingredients": [
+          {
+            "name": "Stone Block (6)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Stone_Block.png?version=1f7a732fce5316a09651d359c9c8a19e"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Diving Gear",
+          "href": "https://terraria.gamepedia.com/Diving_Gear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/70/Diving_Gear.png?version=7405cda3e2b2bed040b96ddcf73ca644"
+        },
+        "ingredients": [
+          {
+            "name": "Flipper",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/17/Flipper.png?version=c164a0bf87fd23bedab01dc61e1dd84f"
+          },
+          {
+            "name": "Diving Helmet"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Jellyfish Diving Gear",
+          "href": "https://terraria.gamepedia.com/Jellyfish_Diving_Gear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c7/Jellyfish_Diving_Gear.png?version=d8fe54e0415537b3aad50769c2203e35"
+        },
+        "ingredients": [
+          {
+            "name": "Diving Gear",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/70/Diving_Gear.png?version=7405cda3e2b2bed040b96ddcf73ca644"
+          },
+          {
+            "name": "Jellyfish Necklace"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Arctic Diving Gear",
+          "href": "https://terraria.gamepedia.com/Arctic_Diving_Gear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Arctic_Diving_Gear.png?version=97383a48ea138e6585c66833008e6ad4"
+        },
+        "ingredients": [
+          {
+            "name": "Jellyfish Diving Gear",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c7/Jellyfish_Diving_Gear.png?version=d8fe54e0415537b3aad50769c2203e35"
+          },
+          {
+            "name": "Ice Skates"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "GPS",
+          "href": "https://terraria.gamepedia.com/GPS",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/GPS.png?version=2ce0b1c45d3621f311db81445ae32e15"
+        },
+        "ingredients": [
+          {
+            "name": "Gold Watch",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a8/Gold_Watch.png?version=b4e37032a7b71493bf5f1b83434dbfd8"
+          },
+          {
+            "name": "Depth Meter"
+          },
+          {
+            "name": "Compass"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "GPS",
+          "href": "https://terraria.gamepedia.com/GPS",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/GPS.png?version=2ce0b1c45d3621f311db81445ae32e15"
+        },
+        "ingredients": [
+          {
+            "name": "Platinum Watch",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5d/Platinum_Watch.png?version=7e269ba306013289b0a6c58947adceb1"
+          },
+          {
+            "name": "Depth Meter"
+          },
+          {
+            "name": "Compass"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Fish Finder",
+          "href": "https://terraria.gamepedia.com/Fish_Finder",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Fish_Finder.png?version=17821641e4bd2ef2006a3abb47e6750f"
+        },
+        "ingredients": [
+          {
+            "name": "Fisherman's Pocket Guide",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Fisherman%27s_Pocket_Guide.png?version=b48ddf875e6dd9e74d30213d77c8f666"
+          },
+          {
+            "name": "Weather Radio"
+          },
+          {
+            "name": "Sextant"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Goblin Tech",
+          "href": "https://terraria.gamepedia.com/Goblin_Tech",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5c/Goblin_Tech.png?version=287ba45fd72fbe7791478dfa2407ddfa"
+        },
+        "ingredients": [
+          {
+            "name": "Metal Detector",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/35/Metal_Detector.png?version=7b2ff2d26eb2b5dfc25a5b83abbd9d21"
+          },
+          {
+            "name": "Stopwatch"
+          },
+          {
+            "name": "DPS Meter"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "R.E.K. 3000",
+          "href": "https://terraria.gamepedia.com/R.E.K._3000",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/56/R.E.K._3000.png?version=f1975b99afd4d9aca467bdb5cda38aaa"
+        },
+        "ingredients": [
+          {
+            "name": "Tally Counter",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/40/Tally_Counter.png?version=8772ad477c73ef9aa2381125a59c80cc"
+          },
+          {
+            "name": "Lifeform Analyzer"
+          },
+          {
+            "name": "Radar"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "PDA",
+          "href": "https://terraria.gamepedia.com/PDA",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ac/PDA.png?version=6037a772bcac289b82164c5ac7e924a1"
+        },
+        "ingredients": [
+          {
+            "name": "GPS",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/GPS.png?version=2ce0b1c45d3621f311db81445ae32e15"
+          },
+          {
+            "name": "Fish Finder"
+          },
+          {
+            "name": "Goblin Tech"
+          },
+          {
+            "name": "R.E.K. 3000"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Cell Phone",
+          "href": "https://terraria.gamepedia.com/Cell_Phone",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Cell_Phone.png?version=e8c0c6700ca19a60bce56a32a17660e8"
+        },
+        "ingredients": [
+          {
+            "name": "PDA",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ac/PDA.png?version=6037a772bcac289b82164c5ac7e924a1"
+          },
+          {
+            "name": "Magic Mirror"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Cell Phone",
+          "href": "https://terraria.gamepedia.com/Cell_Phone",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Cell_Phone.png?version=e8c0c6700ca19a60bce56a32a17660e8"
+        },
+        "ingredients": [
+          {
+            "name": "PDA",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ac/PDA.png?version=6037a772bcac289b82164c5ac7e924a1"
+          },
+          {
+            "name": "Ice Mirror"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Horseshoe",
+          "href": "https://terraria.gamepedia.com/Obsidian_Horseshoe",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a1/Obsidian_Horseshoe.png?version=6a1d525b8fc89c754496300cfc1b4df6"
+        },
+        "ingredients": [
+          {
+            "name": "Lucky Horseshoe",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Lucky_Horseshoe.png?version=a52d38184d5ba666b2b486851c7fcbfc"
+          },
+          {
+            "name": "Obsidian Skull"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Shield",
+          "href": "https://terraria.gamepedia.com/Obsidian_Shield",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7a/Obsidian_Shield.png?version=4c2896399a00cdaa11415732787fbca5"
+        },
+        "ingredients": [
+          {
+            "name": "Cobalt Shield",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3d/Cobalt_Shield.png?version=bbd4ab67ff01eb6d21ef2c5224782c5d"
+          },
+          {
+            "name": "Obsidian Skull"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ankh Shield",
+          "href": "https://terraria.gamepedia.com/Ankh_Shield",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Ankh_Shield.png?version=b3e7f8975599e2d92ff3ac854fb9f024"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian Shield",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7a/Obsidian_Shield.png?version=4c2896399a00cdaa11415732787fbca5"
+          },
+          {
+            "name": "Ankh Charm"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Fart in a Jar",
+          "href": "https://terraria.gamepedia.com/Fart_in_a_Jar",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/de/Fart_in_a_Jar.png?version=216b7ecb2d3fba4f912a815ae70124f4"
+        },
+        "ingredients": [
+          {
+            "name": "Cloud in a Bottle",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/43/Cloud_in_a_Bottle.png?version=b43ff8578eb6de450856f44da28c1938"
+          },
+          {
+            "name": "Whoopie Cushion"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cloud in a Balloon",
+          "href": "https://terraria.gamepedia.com/Cloud_in_a_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/db/Cloud_in_a_Balloon.png?version=26802d5a2c886f88b0e4226e025eaa32"
+        },
+        "ingredients": [
+          {
+            "name": "Cloud in a Bottle",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/43/Cloud_in_a_Bottle.png?version=b43ff8578eb6de450856f44da28c1938"
+          },
+          {
+            "name": "Shiny Red Balloon"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blizzard in a Balloon",
+          "href": "https://terraria.gamepedia.com/Blizzard_in_a_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Blizzard_in_a_Balloon.png?version=90152df01ab9e474288d8db4faa0ba74"
+        },
+        "ingredients": [
+          {
+            "name": "Blizzard in a Bottle",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Blizzard_in_a_Bottle.png?version=d3cac22d630b2158f0981fa908b724fa"
+          },
+          {
+            "name": "Shiny Red Balloon"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sandstorm in a Balloon",
+          "href": "https://terraria.gamepedia.com/Sandstorm_in_a_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/13/Sandstorm_in_a_Balloon.png?version=69dbcca24515f05238799af1d34fd2c1"
+        },
+        "ingredients": [
+          {
+            "name": "Sandstorm in a Bottle",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6d/Sandstorm_in_a_Bottle.png?version=efe13608edbd4026692964cadd9d2f6e"
+          },
+          {
+            "name": "Shiny Red Balloon"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Fart in a Balloon",
+          "href": "https://terraria.gamepedia.com/Fart_in_a_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Fart_in_a_Balloon.png?version=f455dc554f287b41787ce7c16a65df64"
+        },
+        "ingredients": [
+          {
+            "name": "Fart in a Jar",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/de/Fart_in_a_Jar.png?version=216b7ecb2d3fba4f912a815ae70124f4"
+          },
+          {
+            "name": "Shiny Red Balloon"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Honey Balloon",
+          "href": "https://terraria.gamepedia.com/Honey_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b8/Honey_Balloon.png?version=0dc55c80bc368112f847f7f648e1cac3"
+        },
+        "ingredients": [
+          {
+            "name": "Honey Comb",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Honey_Comb.png?version=73498f3ce1fedbddc10e6a5e95d7151f"
+          },
+          {
+            "name": "Shiny Red Balloon"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Sharkron Balloon",
+          "href": "https://terraria.gamepedia.com/Sharkron_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Sharkron_Balloon.png?version=2b6809a3bf655a9ba9f0b45096239e9f"
+        },
+        "ingredients": [
+          {
+            "name": "Balloon Pufferfish",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Balloon_Pufferfish.png?version=b63a5a8df97dc4e663f00323dd94306f"
+          },
+          {
+            "name": "Tsunami in a Bottle"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue Horseshoe Balloon",
+          "href": "https://terraria.gamepedia.com/Blue_Horseshoe_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/53/Blue_Horseshoe_Balloon.png?version=389a16be585aaa605fc2ebb9fc166851"
+        },
+        "ingredients": [
+          {
+            "name": "Cloud in a Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/db/Cloud_in_a_Balloon.png?version=26802d5a2c886f88b0e4226e025eaa32"
+          },
+          {
+            "name": "Lucky Horseshoe"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "White Horseshoe Balloon",
+          "href": "https://terraria.gamepedia.com/White_Horseshoe_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/White_Horseshoe_Balloon.png?version=d886fd87ef34b57560d22cc46d2ebd23"
+        },
+        "ingredients": [
+          {
+            "name": "Blizzard in a Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Blizzard_in_a_Balloon.png?version=90152df01ab9e474288d8db4faa0ba74"
+          },
+          {
+            "name": "Lucky Horseshoe"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow Horseshoe Balloon",
+          "href": "https://terraria.gamepedia.com/Yellow_Horseshoe_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9d/Yellow_Horseshoe_Balloon.png?version=2120b0ab693be47bed0b710cebddec5e"
+        },
+        "ingredients": [
+          {
+            "name": "Sandstorm in a Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/13/Sandstorm_in_a_Balloon.png?version=69dbcca24515f05238799af1d34fd2c1"
+          },
+          {
+            "name": "Lucky Horseshoe"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Green Horseshoe Balloon",
+          "href": "https://terraria.gamepedia.com/Green_Horseshoe_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4c/Green_Horseshoe_Balloon.png?version=f97fa88d84d45797a6670b6b8246a831"
+        },
+        "ingredients": [
+          {
+            "name": "Fart in a Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6f/Fart_in_a_Balloon.png?version=f455dc554f287b41787ce7c16a65df64"
+          },
+          {
+            "name": "Lucky Horseshoe"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Amber Horseshoe Balloon",
+          "href": "https://terraria.gamepedia.com/Amber_Horseshoe_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8e/Amber_Horseshoe_Balloon.png?version=3d851f7e876458082a7a13fc0b16f68d"
+        },
+        "ingredients": [
+          {
+            "name": "Honey Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b8/Honey_Balloon.png?version=0dc55c80bc368112f847f7f648e1cac3"
+          },
+          {
+            "name": "Lucky Horseshoe"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Pink Horseshoe Balloon",
+          "href": "https://terraria.gamepedia.com/Pink_Horseshoe_Balloon",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1f/Pink_Horseshoe_Balloon.png?version=73cbd62673424e6c1b75f6c395daf046"
+        },
+        "ingredients": [
+          {
+            "name": "Sharkron Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Sharkron_Balloon.png?version=2b6809a3bf655a9ba9f0b45096239e9f"
+          },
+          {
+            "name": "Lucky Horseshoe"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bundle of Balloons",
+          "href": "https://terraria.gamepedia.com/Bundle_of_Balloons",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Bundle_of_Balloons.png?version=6f98c7983c3ecfacf6f0255e37f37413"
+        },
+        "ingredients": [
+          {
+            "name": "Cloud in a Balloon",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/db/Cloud_in_a_Balloon.png?version=26802d5a2c886f88b0e4226e025eaa32"
+          },
+          {
+            "name": "Blizzard in a Balloon"
+          },
+          {
+            "name": "Sandstorm in a Balloon"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Boots",
+          "href": "https://terraria.gamepedia.com/Spectre_Boots",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Spectre_Boots.png?version=1e89a42bd801aae0c38e63c06bff0754"
+        },
+        "ingredients": [
+          {
+            "name": "Hermes Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/29/Hermes_Boots.png?version=5b5136fe70c47bdace9dad1da9e0c0fa"
+          },
+          {
+            "name": "Rocket Boots"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Boots",
+          "href": "https://terraria.gamepedia.com/Spectre_Boots",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Spectre_Boots.png?version=1e89a42bd801aae0c38e63c06bff0754"
+        },
+        "ingredients": [
+          {
+            "name": "Flurry Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Flurry_Boots.png?version=9743c585cf83eada05d2ac5424d8cbaf"
+          },
+          {
+            "name": "Rocket Boots"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Spectre Boots",
+          "href": "https://terraria.gamepedia.com/Spectre_Boots",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Spectre_Boots.png?version=1e89a42bd801aae0c38e63c06bff0754"
+        },
+        "ingredients": [
+          {
+            "name": "Sailfish Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Sailfish_Boots.png?version=993ba80577e3276954d170420fa4ec57"
+          },
+          {
+            "name": "Rocket Boots"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lightning Boots",
+          "href": "https://terraria.gamepedia.com/Lightning_Boots",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Lightning_Boots.png?version=c841b07f84b021a9f920ffbf45f06048"
+        },
+        "ingredients": [
+          {
+            "name": "Spectre Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Spectre_Boots.png?version=1e89a42bd801aae0c38e63c06bff0754"
+          },
+          {
+            "name": "Anklet of the Wind"
+          },
+          {
+            "name": "Aglet"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Frostspark Boots",
+          "href": "https://terraria.gamepedia.com/Frostspark_Boots",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/19/Frostspark_Boots.png?version=cbf2469a38532f22a5c9df28d36f5e84"
+        },
+        "ingredients": [
+          {
+            "name": "Lightning Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Lightning_Boots.png?version=c841b07f84b021a9f920ffbf45f06048"
+          },
+          {
+            "name": "Ice Skates"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Water Walking Boots",
+          "href": "https://terraria.gamepedia.com/Obsidian_Water_Walking_Boots",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/Obsidian_Water_Walking_Boots.png?version=8d59b9ae71d87258b1e0f031d2bf653e"
+        },
+        "ingredients": [
+          {
+            "name": "Water Walking Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cf/Water_Walking_Boots.png?version=83f958f6e74e8b674e193d44fcf1aa0d"
+          },
+          {
+            "name": "Obsidian Skull"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lava Waders",
+          "href": "https://terraria.gamepedia.com/Lava_Waders",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1a/Lava_Waders.png?version=d0fae2e327178173dcbb565036058d12"
+        },
+        "ingredients": [
+          {
+            "name": "Obsidian Water Walking Boots",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/51/Obsidian_Water_Walking_Boots.png?version=8d59b9ae71d87258b1e0f031d2bf653e"
+          },
+          {
+            "name": "Lava Charm"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mana Flower",
+          "href": "https://terraria.gamepedia.com/Mana_Flower",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/49/Mana_Flower.png?version=d1a9c30085973a876f1a687606cf8377"
+        },
+        "ingredients": [
+          {
+            "name": "Nature's Gift",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a5/Nature%27s_Gift.png?version=412ecc991009fd54fb75fa29e4ee5f30"
+          },
+          {
+            "name": "Mana Potion"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Power Glove",
+          "href": "https://terraria.gamepedia.com/Power_Glove",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Power_Glove.png?version=6c5920ac9697557add8bdbde60aa4d38"
+        },
+        "ingredients": [
+          {
+            "name": "Titan Glove",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Titan_Glove.png?version=b81a6a902e944e748d8e212ad4c124e1"
+          },
+          {
+            "name": "Feral Claws"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mechanical Glove",
+          "href": "https://terraria.gamepedia.com/Mechanical_Glove",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Mechanical_Glove.png?version=e262ff9388ef743b0f03e84e2ef9183c"
+        },
+        "ingredients": [
+          {
+            "name": "Power Glove",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/28/Power_Glove.png?version=6c5920ac9697557add8bdbde60aa4d38"
+          },
+          {
+            "name": "Avenger Emblem"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Fire Gauntlet",
+          "href": "https://terraria.gamepedia.com/Fire_Gauntlet",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8a/Fire_Gauntlet.png?version=4ec1c60a8b15f06836d94b1d7360b1b8"
+        },
+        "ingredients": [
+          {
+            "name": "Magma Stone",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/33/Magma_Stone.png?version=3dbdf3898c8f9648712278349ae4a070"
+          },
+          {
+            "name": "Mechanical Glove"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mana Regeneration Band",
+          "href": "https://terraria.gamepedia.com/Mana_Regeneration_Band",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e6/Mana_Regeneration_Band.png?version=979428e289469f2db021efe2963069aa"
+        },
+        "ingredients": [
+          {
+            "name": "Band of Starpower",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/dc/Band_of_Starpower.png?version=0f0d952668d3d093cc0852534a656f2c"
+          },
+          {
+            "name": "Band of Regeneration"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Magic Cuffs",
+          "href": "https://terraria.gamepedia.com/Magic_Cuffs",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Magic_Cuffs.png?version=e924199f0a23bcfafa390ecfda77e161"
+        },
+        "ingredients": [
+          {
+            "name": "Mana Regeneration Band",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e6/Mana_Regeneration_Band.png?version=979428e289469f2db021efe2963069aa"
+          },
+          {
+            "name": "Shackle"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Celestial Cuffs",
+          "href": "https://terraria.gamepedia.com/Celestial_Cuffs",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b8/Celestial_Cuffs.png?version=1bd37d28d847212b967da5ebc443041e"
+        },
+        "ingredients": [
+          {
+            "name": "Celestial Magnet",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Celestial_Magnet.png?version=00be99c8ee09f66396fee4f08cf7f501"
+          },
+          {
+            "name": "Magic Cuffs"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Charm of Myths",
+          "href": "https://terraria.gamepedia.com/Charm_of_Myths",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f0/Charm_of_Myths.png?version=53606efcc40e5f67baa44a6aa9e9753e"
+        },
+        "ingredients": [
+          {
+            "name": "Band of Regeneration",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0f/Band_of_Regeneration.png?version=cfd4aa0ed7a6235c9818953215202fba"
+          },
+          {
+            "name": "Philosopher's Stone"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Moon Shell",
+          "href": "https://terraria.gamepedia.com/Moon_Shell",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Moon_Shell.png?version=3debc80cc6fa49e5cbc43430582f3f59"
+        },
+        "ingredients": [
+          {
+            "name": "Moon Charm",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b6/Moon_Charm.png?version=9cd29554402072e1a0afb638f45cabec"
+          },
+          {
+            "name": "Neptune's Shell"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Star Veil",
+          "href": "https://terraria.gamepedia.com/Star_Veil",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/60/Star_Veil.png?version=100455faa7caa6d0df23e686026dfc1b"
+        },
+        "ingredients": [
+          {
+            "name": "Star Cloak",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d4/Star_Cloak.png?version=375293a3f26d0ea3f71b8626a188aea9"
+          },
+          {
+            "name": "Cross Necklace"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bee Cloak",
+          "href": "https://terraria.gamepedia.com/Bee_Cloak",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2a/Bee_Cloak.png?version=bc1f15c0a9b6768c4444413a6335fe32"
+        },
+        "ingredients": [
+          {
+            "name": "Honey Comb",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Honey_Comb.png?version=73498f3ce1fedbddc10e6a5e95d7151f"
+          },
+          {
+            "name": "Star Cloak"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sweetheart Necklace",
+          "href": "https://terraria.gamepedia.com/Sweetheart_Necklace",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Sweetheart_Necklace.png?version=49bec84066618db430f7e77e9ca85741"
+        },
+        "ingredients": [
+          {
+            "name": "Honey Comb",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Honey_Comb.png?version=73498f3ce1fedbddc10e6a5e95d7151f"
+          },
+          {
+            "name": "Panic Necklace"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Tiger Climbing Gear",
+          "href": "https://terraria.gamepedia.com/Tiger_Climbing_Gear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a0/Tiger_Climbing_Gear.png?version=01d7338ce93e03802ccfecd582ce984a"
+        },
+        "ingredients": [
+          {
+            "name": "Climbing Claws",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/71/Climbing_Claws.png?version=4586d198f51c15e593fdb46ccc083797"
+          },
+          {
+            "name": "Shoe Spikes"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Master Ninja Gear",
+          "href": "https://terraria.gamepedia.com/Master_Ninja_Gear",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/ff/Master_Ninja_Gear.png?version=6e824e795b3572fe6a46acaa1054fdad"
+        },
+        "ingredients": [
+          {
+            "name": "Tiger Climbing Gear",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a0/Tiger_Climbing_Gear.png?version=01d7338ce93e03802ccfecd582ce984a"
+          },
+          {
+            "name": "Tabi"
+          },
+          {
+            "name": "Black Belt"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Armor Bracing",
+          "href": "https://terraria.gamepedia.com/Armor_Bracing",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Armor_Bracing.png?version=69d1e92c4d09a85698ef4982b0a3d24f"
+        },
+        "ingredients": [
+          {
+            "name": "Armor Polish",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bd/Armor_Polish.png?version=1e210a4e83bc9a51cc2d25d06bfcbf5b"
+          },
+          {
+            "name": "Vitamins"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Medicated Bandage",
+          "href": "https://terraria.gamepedia.com/Medicated_Bandage",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Medicated_Bandage.png?version=d8106b2971d5f3d4b41d8a6998f06384"
+        },
+        "ingredients": [
+          {
+            "name": "Bezoar",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Bezoar.png?version=edaff5765e9c742bce878cb5b7042ba6"
+          },
+          {
+            "name": "Adhesive Bandage"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "The Plan",
+          "href": "https://terraria.gamepedia.com/The_Plan",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2f/The_Plan.png?version=b71f27b9f130cbbc4aba8c60612e7f7f"
+        },
+        "ingredients": [
+          {
+            "name": "Fast Clock",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f7/Fast_Clock.png?version=5eb02ee694269b298bb4dbca101498d1"
+          },
+          {
+            "name": "Trifold Map"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Countercurse Mantra",
+          "href": "https://terraria.gamepedia.com/Countercurse_Mantra",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4e/Countercurse_Mantra.png?version=55b81b864c3bc8b1c01ac0373144eb71"
+        },
+        "ingredients": [
+          {
+            "name": "Megaphone",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/62/Megaphone.png?version=70e03fe62ae5bca911a928c1b32b46c8"
+          },
+          {
+            "name": "Nazar"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ankh Charm",
+          "href": "https://terraria.gamepedia.com/Ankh_Charm",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d5/Ankh_Charm.png?version=e79d2c94847bb1cc21e7c12d617bf6c2"
+        },
+        "ingredients": [
+          {
+            "name": "Armor Bracing",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Armor_Bracing.png?version=69d1e92c4d09a85698ef4982b0a3d24f"
+          },
+          {
+            "name": "Medicated Bandage"
+          },
+          {
+            "name": "The Plan"
+          },
+          {
+            "name": "Countercurse Mantra"
+          },
+          {
+            "name": "Blindfold"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Avenger Emblem",
+          "href": "https://terraria.gamepedia.com/Avenger_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+        },
+        "ingredients": [
+          {
+            "name": "Warrior Emblem",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Warrior_Emblem.png?version=92cf1e671f6f8957d2d0c8c039854cc1"
+          },
+          {
+            "name": "Ranger Emblem"
+          },
+          {
+            "name": "Sorcerer Emblem"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Avenger Emblem",
+          "href": "https://terraria.gamepedia.com/Avenger_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Might (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Soul_of_Might.png?version=4f55f01993c5aad5f90eae80be2f8f5b"
+          },
+          {
+            "name": "Soul of Sight (5)"
+          },
+          {
+            "name": "Soul of Fright (5)"
+          },
+          {
+            "name": "Warrior Emblem"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Avenger Emblem",
+          "href": "https://terraria.gamepedia.com/Avenger_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Might (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Soul_of_Might.png?version=4f55f01993c5aad5f90eae80be2f8f5b"
+          },
+          {
+            "name": "Soul of Sight (5)"
+          },
+          {
+            "name": "Soul of Fright (5)"
+          },
+          {
+            "name": "Ranger Emblem"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Avenger Emblem",
+          "href": "https://terraria.gamepedia.com/Avenger_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Might (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Soul_of_Might.png?version=4f55f01993c5aad5f90eae80be2f8f5b"
+          },
+          {
+            "name": "Soul of Sight (5)"
+          },
+          {
+            "name": "Soul of Fright (5)"
+          },
+          {
+            "name": "Sorcerer Emblem"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Avenger Emblem",
+          "href": "https://terraria.gamepedia.com/Avenger_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+        },
+        "ingredients": [
+          {
+            "name": "Soul of Might (5)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Soul_of_Might.png?version=4f55f01993c5aad5f90eae80be2f8f5b"
+          },
+          {
+            "name": "Soul of Sight (5)"
+          },
+          {
+            "name": "Soul of Fright (5)"
+          },
+          {
+            "name": "Summoner Emblem"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Celestial Emblem",
+          "href": "https://terraria.gamepedia.com/Celestial_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/04/Celestial_Emblem.png?version=30369df47127e6881cf926dd65f757b8"
+        },
+        "ingredients": [
+          {
+            "name": "Avenger Emblem",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+          },
+          {
+            "name": "Celestial Magnet"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Destroyer Emblem",
+          "href": "https://terraria.gamepedia.com/Destroyer_Emblem",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Destroyer_Emblem.png?version=9e9b93da0b4b5fd4a0a76ff9c11d3c79"
+        },
+        "ingredients": [
+          {
+            "name": "Avenger Emblem",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c3/Avenger_Emblem.png?version=807d4c2e580c8a83c8a7476a54a8010d"
+          },
+          {
+            "name": "Eye of the Golem"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sniper Scope",
+          "href": "https://terraria.gamepedia.com/Sniper_Scope",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Sniper_Scope.png?version=794acabed1de2ab4be14e1153087e7dc"
+        },
+        "ingredients": [
+          {
+            "name": "Destroyer Emblem",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5a/Destroyer_Emblem.png?version=9e9b93da0b4b5fd4a0a76ff9c11d3c79"
+          },
+          {
+            "name": "Rifle Scope"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Papyrus Scarab",
+          "href": "https://terraria.gamepedia.com/Papyrus_Scarab",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a8/Papyrus_Scarab.png?version=4fec79bd34d9c1bfe9c3389fe0467f01"
+        },
+        "ingredients": [
+          {
+            "name": "Necromantic Scroll",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Necromantic_Scroll.png?version=5a254483ffbfd3a189b3eeefad203b07"
+          },
+          {
+            "name": "Hercules Beetle"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Celestial Stone",
+          "href": "https://terraria.gamepedia.com/Celestial_Stone",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c5/Celestial_Stone.png?version=4d24e45bb641986156be2bd00f4aaf06"
+        },
+        "ingredients": [
+          {
+            "name": "Sun Stone",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Sun_Stone.png?version=8bcd9703b5d4a4142c9548f022a05d6a"
+          },
+          {
+            "name": "Moon Stone"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Celestial Shell",
+          "href": "https://terraria.gamepedia.com/Celestial_Shell",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ee/Celestial_Shell.png?version=a85a634a010b8881d9d4125e68bdc86b"
+        },
+        "ingredients": [
+          {
+            "name": "Celestial Stone",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c5/Celestial_Stone.png?version=4d24e45bb641986156be2bd00f4aaf06"
+          },
+          {
+            "name": "Moon Shell"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Music Box (Title)  ( )",
+          "href": "https://terraria.gamepedia.com/Music_Box_(Title)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9c/Music_Box_%28Title%29.png?version=cb43979ba0a56daa294d7844d880986a"
+        },
+        "ingredients": [
+          {
+            "name": "Music Box (Overworld Day)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/97/Music_Box_%28Overworld_Day%29.png?version=48edc0ba558bf975b8327ea6813a20d1"
+          },
+          {
+            "name": "Music Box (Eerie)"
+          },
+          {
+            "name": "Music Box (Night)"
+          },
+          {
+            "name": "Music Box (Underground)"
+          },
+          {
+            "name": "Music Box (Boss 1)"
+          },
+          {
+            "name": "Music Box (Jungle)"
+          },
+          {
+            "name": "Music Box (Corruption)"
+          },
+          {
+            "name": "Music Box (Underground Corruption)"
+          },
+          {
+            "name": "Music Box (The Hallow)"
+          },
+          {
+            "name": "Music Box (Boss 2)"
+          },
+          {
+            "name": "Music Box (Underground Hallow)"
+          },
+          {
+            "name": "Music Box (Boss 3)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Music Box (Tutorial)",
+          "href": "https://terraria.gamepedia.com/Music_Box_(Tutorial)",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f7/Music_Box_%28Tutorial%29.png?version=41781b72dc3438a120c366e4423015bf"
+        },
+        "ingredients": [
+          {
+            "name": "Music Box (Boss 4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a9/Music_Box_%28Boss_4%29.png?version=d2e69eb0da87a11ed2d8614e9db54078"
+          },
+          {
+            "name": "Music Box (Desert)"
+          },
+          {
+            "name": "Music Box (Ocean)"
+          },
+          {
+            "name": "Music Box (Snow)"
+          },
+          {
+            "name": "Music Box (Space)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Yoyo Bag",
+          "href": "https://terraria.gamepedia.com/Yoyo_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Yoyo_Bag.png?version=34d67b47f6eaccd2dc34c6694839f628"
+        },
+        "ingredients": [
+          {
+            "name": "White String",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+          },
+          {
+            "name": "Yoyo Glove"
+          },
+          {
+            "name": "Red Counterweight"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Yoyo Bag",
+          "href": "https://terraria.gamepedia.com/Yoyo_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Yoyo_Bag.png?version=34d67b47f6eaccd2dc34c6694839f628"
+        },
+        "ingredients": [
+          {
+            "name": "White String",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+          },
+          {
+            "name": "Yoyo Glove"
+          },
+          {
+            "name": "Blue Counterweight"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Yoyo Bag",
+          "href": "https://terraria.gamepedia.com/Yoyo_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Yoyo_Bag.png?version=34d67b47f6eaccd2dc34c6694839f628"
+        },
+        "ingredients": [
+          {
+            "name": "White String",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+          },
+          {
+            "name": "Yoyo Glove"
+          },
+          {
+            "name": "Purple Counterweight"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Yoyo Bag",
+          "href": "https://terraria.gamepedia.com/Yoyo_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Yoyo_Bag.png?version=34d67b47f6eaccd2dc34c6694839f628"
+        },
+        "ingredients": [
+          {
+            "name": "White String",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+          },
+          {
+            "name": "Yoyo Glove"
+          },
+          {
+            "name": "Green Counterweight"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Yoyo Bag",
+          "href": "https://terraria.gamepedia.com/Yoyo_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Yoyo_Bag.png?version=34d67b47f6eaccd2dc34c6694839f628"
+        },
+        "ingredients": [
+          {
+            "name": "White String",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+          },
+          {
+            "name": "Yoyo Glove"
+          },
+          {
+            "name": "Yellow Counterweight"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Yoyo Bag",
+          "href": "https://terraria.gamepedia.com/Yoyo_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Yoyo_Bag.png?version=34d67b47f6eaccd2dc34c6694839f628"
+        },
+        "ingredients": [
+          {
+            "name": "White String",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3e/White_String.png?version=055c8297d4fc2d43b34f8dd362fca8d3"
+          },
+          {
+            "name": "Yoyo Glove"
+          },
+          {
+            "name": "Black Counterweight"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Coin Ring",
+          "href": "https://terraria.gamepedia.com/Coin_Ring",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/11/Coin_Ring.png?version=56f168699a076f01ce5a7680444555a2"
+        },
+        "ingredients": [
+          {
+            "name": "Gold Ring",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/bc/Gold_Ring.png?version=7cc55ce14ba66e05437f77e52f033f9e"
+          },
+          {
+            "name": "Lucky Coin"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Greedy Ring",
+          "href": "https://terraria.gamepedia.com/Greedy_Ring",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Greedy_Ring.png?version=37b75bec8736e6b577bbe8b2f18ba856"
+        },
+        "ingredients": [
+          {
+            "name": "Coin Ring",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/11/Coin_Ring.png?version=56f168699a076f01ce5a7680444555a2"
+          },
+          {
+            "name": "Discount Card"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Angler Tackle Bag",
+          "href": "https://terraria.gamepedia.com/Angler_Tackle_Bag",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5b/Angler_Tackle_Bag.png?version=cedd266acb0cdda315801d3047883081"
+        },
+        "ingredients": [
+          {
+            "name": "High Test Fishing Line",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/High_Test_Fishing_Line.png?version=639fde2a681c65cb47725eb2bdcb5758"
+          },
+          {
+            "name": "Tackle Box"
+          },
+          {
+            "name": "Angler Earring"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Architect Gizmo Pack",
+          "href": "https://terraria.gamepedia.com/Architect_Gizmo_Pack",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/23/Architect_Gizmo_Pack.png?version=21adddd0ddbe276e5a02a4e84faf99b2"
+        },
+        "ingredients": [
+          {
+            "name": "Brick Layer",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Brick_Layer.png?version=36cc1305121ad74a246867acc9a047b7"
+          },
+          {
+            "name": "Extendo Grip"
+          },
+          {
+            "name": "Paint Sprayer"
+          },
+          {
+            "name": "Portable Cement Mixer"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Multicolor Wrench",
+          "href": "https://terraria.gamepedia.com/Multicolor_Wrench",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Multicolor_Wrench.png?version=ae160d648d5f6f61f5bd0c97d6e9ec2f"
+        },
+        "ingredients": [
+          {
+            "name": "Red Wrench",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/45/Red_Wrench.png?version=1edbf1c4ccdee08487fb477f1fd7beab"
+          },
+          {
+            "name": "Blue Wrench"
+          },
+          {
+            "name": "Green Wrench"
+          },
+          {
+            "name": "Yellow Wrench"
+          },
+          {
+            "name": "Wire Cutter"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "The Grand Design",
+          "href": "https://terraria.gamepedia.com/The_Grand_Design",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0e/The_Grand_Design.png?version=133d14d46d6eab23fbce16723ed75194"
+        },
+        "ingredients": [
+          {
+            "name": "Multicolor Wrench",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Multicolor_Wrench.png?version=ae160d648d5f6f61f5bd0c97d6e9ec2f"
+          },
+          {
+            "name": "Mechanical Lens"
+          },
+          {
+            "name": "Ruler"
+          },
+          {
+            "name": "Wire (60)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Pink Weighted Pressure Plate",
+          "href": "https://terraria.gamepedia.com/Pink_Weighted_Pressure_Plate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b1/Pink_Weighted_Pressure_Plate.png?version=dde9e548f74cd93b566ddaf88c85e3ed"
+        },
+        "ingredients": [
+          {
+            "name": "Gray Pressure Plate",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b7/Gray_Pressure_Plate.png?version=96393bc0fb20634340c699dde11b2e90"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (2)"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Orange Weighted Pressure Plate",
+          "href": "https://terraria.gamepedia.com/Orange_Weighted_Pressure_Plate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/12/Orange_Weighted_Pressure_Plate.png?version=629479835334ecfdf73aa01994a213b7"
+        },
+        "ingredients": [
+          {
+            "name": "Gray Pressure Plate",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b7/Gray_Pressure_Plate.png?version=96393bc0fb20634340c699dde11b2e90"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (2)"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Purple Weighted Pressure Plate",
+          "href": "https://terraria.gamepedia.com/Purple_Weighted_Pressure_Plate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6c/Purple_Weighted_Pressure_Plate.png?version=18866271755071bcab23c626e88873c6"
+        },
+        "ingredients": [
+          {
+            "name": "Gray Pressure Plate",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b7/Gray_Pressure_Plate.png?version=96393bc0fb20634340c699dde11b2e90"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (2)"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Cyan Weighted Pressure Plate",
+          "href": "https://terraria.gamepedia.com/Cyan_Weighted_Pressure_Plate",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/04/Cyan_Weighted_Pressure_Plate.png?version=21823c91f3440ad2da410bcf39266ee2"
+        },
+        "ingredients": [
+          {
+            "name": "Gray Pressure Plate",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b7/Gray_Pressure_Plate.png?version=96393bc0fb20634340c699dde11b2e90"
+          },
+          {
+            "name": "Iron Bar or Lead Bar (2)"
+          },
+          {
+            "name": "Wire"
+          }
+        ]
+      }
+    ]
+  }
+]

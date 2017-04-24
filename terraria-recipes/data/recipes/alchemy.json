@@ -1,0 +1,1191 @@
+[
+  {
+    "tool": "Placed Bottle / Alchemy Station / Alchemy Table",
+    "category": "vdPlaced BottleAlchemy Station",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lesser Healing Potion  (2)",
+          "href": "https://terraria.gamepedia.com/Lesser_Healing_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e1/Lesser_Healing_Potion.png?version=ab559acfe329c440186bd12241f78765"
+        },
+        "ingredients": [
+          {
+            "name": "Bottle (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5d/Bottle.png?version=95bf0690d6a22762d8483fbd861c09d4"
+          },
+          {
+            "name": "Gel (2)"
+          },
+          {
+            "name": "Mushroom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Healing Potion",
+          "href": "https://terraria.gamepedia.com/Healing_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/47/Healing_Potion.png?version=3d9d4a1f1baf6176987f25a78ec72c20"
+        },
+        "ingredients": [
+          {
+            "name": "Lesser Healing Potion (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e1/Lesser_Healing_Potion.png?version=ab559acfe329c440186bd12241f78765"
+          },
+          {
+            "name": "Glowing Mushroom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Greater Healing Potion  (3)",
+          "href": "https://terraria.gamepedia.com/Greater_Healing_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a5/Greater_Healing_Potion.png?version=ab3936d8eee381d7a11f902aad4cd40d"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Pixie Dust (3)"
+          },
+          {
+            "name": "Crystal Shard"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Super Healing Potion  (4 )",
+          "href": "https://terraria.gamepedia.com/Super_Healing_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/00/Super_Healing_Potion.png?version=837f0c0d6f66c39fe1910fd0a105c229"
+        },
+        "ingredients": [
+          {
+            "name": "Greater Healing Potion (4)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a5/Greater_Healing_Potion.png?version=ab3936d8eee381d7a11f902aad4cd40d"
+          },
+          {
+            "name": "Nebula Fragment"
+          },
+          {
+            "name": "Solar Fragment"
+          },
+          {
+            "name": "Stardust Fragment"
+          },
+          {
+            "name": "Vortex Fragment"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mana Potion",
+          "href": "https://terraria.gamepedia.com/Mana_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/80/Mana_Potion.png?version=b97eaedfe17f7451c0b233a2f86211be"
+        },
+        "ingredients": [
+          {
+            "name": "Lesser Mana Potion (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2e/Lesser_Mana_Potion.png?version=abbc7188227b4ffd51a17549e0beb572"
+          },
+          {
+            "name": "Glowing Mushroom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Super Mana Potion  (15)",
+          "href": "https://terraria.gamepedia.com/Super_Mana_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/43/Super_Mana_Potion.png?version=bdd3a8848b7cd48f202ec93c617876c2"
+        },
+        "ingredients": [
+          {
+            "name": "Greater Mana Potion (15)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c6/Greater_Mana_Potion.png?version=d641495591f4ca8bf12e1de314435bfd"
+          },
+          {
+            "name": "Fallen Star"
+          },
+          {
+            "name": "Unicorn Horn"
+          },
+          {
+            "name": "Crystal Shard (3)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lesser Restoration Potion",
+          "href": "https://terraria.gamepedia.com/Lesser_Restoration_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/07/Lesser_Restoration_Potion.png?version=e74afd0c2f79b96c357c7d68952b9635"
+        },
+        "ingredients": [
+          {
+            "name": "Lesser Healing Potion",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e1/Lesser_Healing_Potion.png?version=ab559acfe329c440186bd12241f78765"
+          },
+          {
+            "name": "Lesser Mana Potion"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Restoration Potion",
+          "href": "https://terraria.gamepedia.com/Restoration_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Restoration_Potion.png?version=693cda6d3cfd01bbb18c0e3a91d4ae9c"
+        },
+        "ingredients": [
+          {
+            "name": "Mushroom",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8c/Mushroom.png?version=2f90e1041ec0531d29905800626e584c"
+          },
+          {
+            "name": "Pink Gel"
+          },
+          {
+            "name": "Bottle"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ammo Reservation Potion",
+          "href": "https://terraria.gamepedia.com/Ammo_Reservation_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/96/Ammo_Reservation_Potion.png?version=bfeceb7c1a0917f4f6d8f2bf1729b817"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Double Cod"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Archery Potion",
+          "href": "https://terraria.gamepedia.com/Archery_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Archery_Potion.png?version=0e072e1cee90c869617cd85385c5b52b"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Lens"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Battle Potion",
+          "href": "https://terraria.gamepedia.com/Battle_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7c/Battle_Potion.png?version=3535744c43488375bcb7a2a2c84626c7"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Rotten Chunk"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Battle Potion",
+          "href": "https://terraria.gamepedia.com/Battle_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7c/Battle_Potion.png?version=3535744c43488375bcb7a2a2c84626c7"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Vertebrae"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Builder Potion",
+          "href": "https://terraria.gamepedia.com/Builder_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Builder_Potion.png?version=45d1f822c1421f58284e1835b285ae49"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Moonglow"
+          },
+          {
+            "name": "Shiverthorn"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Calming Potion",
+          "href": "https://terraria.gamepedia.com/Calming_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d8/Calming_Potion.png?version=ae062da96ab9e7ba5c42eaa7b9875f28"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Damselfish"
+          },
+          {
+            "name": "Daybloom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Crate Potion",
+          "href": "https://terraria.gamepedia.com/Crate_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Crate_Potion.png?version=7ba80fa0181ef3041e4466b145995978"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Amber"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Dangersense Potion",
+          "href": "https://terraria.gamepedia.com/Dangersense_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f3/Dangersense_Potion.png?version=7d5321a5718c9a304a5928f1902c144f"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Shiverthorn"
+          },
+          {
+            "name": "Cobweb (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Endurance Potion",
+          "href": "https://terraria.gamepedia.com/Endurance_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/93/Endurance_Potion.png?version=80b512b799462d616b4447a999d4b016"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Armored Cavefish"
+          },
+          {
+            "name": "Blinkroot"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Featherfall Potion",
+          "href": "https://terraria.gamepedia.com/Featherfall_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7b/Featherfall_Potion.png?version=9ce42ee4889e6211b7bc00ee475503b5"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Feather"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Fishing Potion",
+          "href": "https://terraria.gamepedia.com/Fishing_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/fa/Fishing_Potion.png?version=3ed89718b99248d24b4050079315d93a"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Crispy Honey Block"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flipper Potion",
+          "href": "https://terraria.gamepedia.com/Flipper_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Flipper_Potion.png?version=e05045a75d6df87b537c84ed33c1e21c"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Shiverthorn"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Gender Change Potion",
+          "href": "https://terraria.gamepedia.com/Gender_Change_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b7/Gender_Change_Potion.png?version=8b23e38427d9e8190b71304cfeafd390"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Fireblossom"
+          },
+          {
+            "name": "Moonglow"
+          },
+          {
+            "name": "Shiverthorn"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gills Potion",
+          "href": "https://terraria.gamepedia.com/Gills_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3d/Gills_Potion.png?version=7d32b908de15ec9d39e333a339d82172"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Coral"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Gravitation Potion",
+          "href": "https://terraria.gamepedia.com/Gravitation_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/09/Gravitation_Potion.png?version=aa0a6d7925c55fd5a7fe2de67271e7ce"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Feather"
+          },
+          {
+            "name": "Fireblossom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Heartreach Potion",
+          "href": "https://terraria.gamepedia.com/Heartreach_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3c/Heartreach_Potion.png?version=35afeeb84930e2ddaaf8da4205c28888"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Crimson Tigerfish"
+          },
+          {
+            "name": "Daybloom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Hunter Potion",
+          "href": "https://terraria.gamepedia.com/Hunter_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/Hunter_Potion.png?version=6ec8e6ae7eb11dc5f614d7188d885233"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Shark Fin"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Inferno Potion",
+          "href": "https://terraria.gamepedia.com/Inferno_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e5/Inferno_Potion.png?version=04465cebcf33ae984c5c682276f19287"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Flarefin Koi"
+          },
+          {
+            "name": "Obsidifish (2)"
+          },
+          {
+            "name": "Fireblossom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Invisibility Potion",
+          "href": "https://terraria.gamepedia.com/Invisibility_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Invisibility_Potion.png?version=6b6ccca4714379ea902518c2128b97ad"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ironskin Potion",
+          "href": "https://terraria.gamepedia.com/Ironskin_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Ironskin_Potion.png?version=01196a77784c78b8b162d27941ca82be"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Iron Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Ironskin Potion",
+          "href": "https://terraria.gamepedia.com/Ironskin_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Ironskin_Potion.png?version=01196a77784c78b8b162d27941ca82be"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Lead Ore"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lifeforce Potion",
+          "href": "https://terraria.gamepedia.com/Lifeforce_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/25/Lifeforce_Potion.png?version=c70f9b18225365a63fc9e0866d61eca4"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Prismite"
+          },
+          {
+            "name": "Moonglow"
+          },
+          {
+            "name": "Shiverthorn"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Love Potion",
+          "href": "https://terraria.gamepedia.com/Love_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Love_Potion.png?version=d79f146b3dc0ac556d7656e956ea4c48"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Princess Fish"
+          },
+          {
+            "name": "Shiverthorn"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Magic Power Potion",
+          "href": "https://terraria.gamepedia.com/Magic_Power_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Magic_Power_Potion.png?version=fdc79a2bbcc9b32ad6b906c699dca725"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Fallen Star"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mana Regeneration Potion",
+          "href": "https://terraria.gamepedia.com/Mana_Regeneration_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cc/Mana_Regeneration_Potion.png?version=badfd2e541a9b4472dd5243ed9bc3650"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Fallen Star"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Mining Potion",
+          "href": "https://terraria.gamepedia.com/Mining_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d5/Mining_Potion.png?version=558c8ba3204906a8044c3abc1b9842e9"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Antlion Mandible"
+          },
+          {
+            "name": "Blinkroot"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Night Owl Potion",
+          "href": "https://terraria.gamepedia.com/Night_Owl_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/20/Night_Owl_Potion.png?version=c2fa20fb0b716b1ca87db1079e16d358"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Daybloom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Obsidian Skin Potion",
+          "href": "https://terraria.gamepedia.com/Obsidian_Skin_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c8/Obsidian_Skin_Potion.png?version=69a094a9f2972dd87ed7ebeb518863d3"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Fireblossom"
+          },
+          {
+            "name": "Obsidian"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Rage Potion",
+          "href": "https://terraria.gamepedia.com/Rage_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ec/Rage_Potion.png?version=efcc6ea0cca8b7f0170a6d6c514129c5"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Hemopiranha"
+          },
+          {
+            "name": "Deathweed"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Recall Potion",
+          "href": "https://terraria.gamepedia.com/Recall_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Recall_Potion.png?version=bb1c4db9f0e6c5c3c7282c49a7b14cc1"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Specular Fish"
+          },
+          {
+            "name": "Daybloom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Regeneration Potion",
+          "href": "https://terraria.gamepedia.com/Regeneration_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2d/Regeneration_Potion.png?version=a89f1c67dedb2f9563b55c28ce2c9b80"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Mushroom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Shine Potion",
+          "href": "https://terraria.gamepedia.com/Shine_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/83/Shine_Potion.png?version=cff87e9ae8c180eb1a6b8c498dace49e"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Daybloom"
+          },
+          {
+            "name": "Glowing Mushroom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sonar Potion",
+          "href": "https://terraria.gamepedia.com/Sonar_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c8/Sonar_Potion.png?version=d1e6c4acee13bec0a8a2dd4a37f5efbf"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Waterleaf"
+          },
+          {
+            "name": "Coral"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Spelunker Potion",
+          "href": "https://terraria.gamepedia.com/Spelunker_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Spelunker_Potion.png?version=21db0e7d9d82730c59759a55358f83d4"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Gold Ore"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Spelunker Potion",
+          "href": "https://terraria.gamepedia.com/Spelunker_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/03/Spelunker_Potion.png?version=21db0e7d9d82730c59759a55358f83d4"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Platinum Ore"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Stink Potion",
+          "href": "https://terraria.gamepedia.com/Stink_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Stink_Potion.png?version=5c24602f28d95fe7aa6b0a801256f24a"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Stinkfish"
+          },
+          {
+            "name": "Deathweed"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Summoning Potion",
+          "href": "https://terraria.gamepedia.com/Summoning_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/91/Summoning_Potion.png?version=dec373da2bb4ed0b4019aca599ba9595"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Variegated Lardfish"
+          },
+          {
+            "name": "Moonglow"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Swiftness Potion",
+          "href": "https://terraria.gamepedia.com/Swiftness_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3f/Swiftness_Potion.png?version=6e26880bb9cad62a8dd81b280b58d08b"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Blinkroot"
+          },
+          {
+            "name": "Cactus"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Teleportation Potion",
+          "href": "https://terraria.gamepedia.com/Teleportation_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/38/Teleportation_Potion.png?version=892ab9cafdf2bebf4f7fe16a2a82e39e"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Chaos Fish"
+          },
+          {
+            "name": "Fireblossom"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Thorns Potion",
+          "href": "https://terraria.gamepedia.com/Thorns_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Thorns_Potion.png?version=718b4131947a637a5e1860015681238e"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Cactus"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Stinger"
+          },
+          {
+            "name": "Worm Tooth"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Titan Potion",
+          "href": "https://terraria.gamepedia.com/Titan_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Titan_Potion.png?version=1c06086d5604171ce6b5259b68019e22"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Bone"
+          },
+          {
+            "name": "Deathweed"
+          },
+          {
+            "name": "Shiverthorn"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Warmth Potion",
+          "href": "https://terraria.gamepedia.com/Warmth_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/31/Warmth_Potion.png?version=882b36bc0b68234cf5033ea8380deabc"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Frost Minnow"
+          },
+          {
+            "name": "Shiverthorn"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Water Walking Potion",
+          "href": "https://terraria.gamepedia.com/Water_Walking_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/21/Water_Walking_Potion.png?version=e675568a9f191af3d0116a9d7f7ef47b"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Shark Fin"
+          },
+          {
+            "name": "Waterleaf"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Wormhole Potion",
+          "href": "https://terraria.gamepedia.com/Wormhole_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Wormhole_Potion.png?version=393e2998780d91acab674d5eb32c8fbf"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Specular Fish"
+          },
+          {
+            "name": "Blinkroot"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Wrath Potion",
+          "href": "https://terraria.gamepedia.com/Wrath_Potion",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d7/Wrath_Potion.png?version=744b9ff0f229cf0edbddf868ca840641"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Ebonkoi"
+          },
+          {
+            "name": "Deathweed"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Vile Powder  (5)",
+          "href": "https://terraria.gamepedia.com/Vile_Powder",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/88/Vile_Powder.png?version=fe2f270e8a1cb40db32af84543effbf2"
+        },
+        "ingredients": [
+          {
+            "name": "Vile Mushroom",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c6/Vile_Mushroom.png?version=353cf7a2c80320a6062594de0407e1f8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Vicious Powder  (5)",
+          "href": "https://terraria.gamepedia.com/Vicious_Powder",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d2/Vicious_Powder.png?version=7f6ef0742da87a957ccb70d30006d062"
+        },
+        "ingredients": [
+          {
+            "name": "Vicious Mushroom",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/30/Vicious_Mushroom.png?version=92bdda1b83d1622e0d8447e97bf357d3"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "console"
+        ],
+        "item": {
+          "name": "Purple Thread",
+          "href": "https://terraria.gamepedia.com/Purple_Thread",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Purple_Thread.png?version=74bfd5dc2e524fd8af07aed8aa2bc6d2"
+        },
+        "ingredients": [
+          {
+            "name": "Mushroom Grass Seeds (3)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/59/Mushroom_Grass_Seeds.png?version=a2ac6c6a33b3f7cb6aaee55d2065d93d"
+          },
+          {
+            "name": "Bottle"
+          }
+        ]
+      }
+    ]
+  }
+]

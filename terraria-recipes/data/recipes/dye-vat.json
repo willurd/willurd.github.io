@@ -1,0 +1,1350 @@
+[
+  {
+    "tool": "Dye Vat",
+    "category": "Dye Vat",
+    "recipes": [
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Red Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Red_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/da/Deep_Red_Paint.png?version=f0d9af4698e6507db1d624d25b246c7b"
+        },
+        "ingredients": [
+          {
+            "name": "Red Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/ba/Red_Paint.png?version=f6529d80d058860758d24dd8ab8533ad"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Orange Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Orange_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4c/Deep_Orange_Paint.png?version=b836c8d75b7b2ef8e470836f30aaa598"
+        },
+        "ingredients": [
+          {
+            "name": "Orange Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e0/Orange_Paint.png?version=240df8f4399d41a8b7b94910c6e2bdb2"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Yellow Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Yellow_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f0/Deep_Yellow_Paint.png?version=23f53f0416fda238df530793ece7d671"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/68/Yellow_Paint.png?version=03dce0fd3570195f8c197df069d17a67"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Lime Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Lime_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/53/Deep_Lime_Paint.png?version=2d3a493ee922e6b5d19c1f3624d3db04"
+        },
+        "ingredients": [
+          {
+            "name": "Lime Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Lime_Paint.png?version=6af91d2f8e49002a5f2019fd4e2219fb"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Green Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Green_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/eb/Deep_Green_Paint.png?version=920daab3c7fa55e55fa2b909081c11d4"
+        },
+        "ingredients": [
+          {
+            "name": "Green Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4a/Green_Paint.png?version=eb5dd3d78c38e796f8c57a08a5092ceb"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Teal Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Teal_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/2c/Deep_Teal_Paint.png?version=1b3e4c9fef738bd58b7a0e7cde75e60b"
+        },
+        "ingredients": [
+          {
+            "name": "Teal Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a8/Teal_Paint.png?version=3ffb09be7b29172e6dbe721a1b88033d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Cyan Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Cyan_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3b/Deep_Cyan_Paint.png?version=16be345f91d4e03b1540e95a85d1962f"
+        },
+        "ingredients": [
+          {
+            "name": "Cyan Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/24/Cyan_Paint.png?version=843eeb58321fcfd8222caac2cd33ed9b"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Sky Blue Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Sky_Blue_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/Deep_Sky_Blue_Paint.png?version=f43c0c8f630e2f7c9ac1c248c5ce1124"
+        },
+        "ingredients": [
+          {
+            "name": "Sky Blue Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f4/Sky_Blue_Paint.png?version=3fdfae2ce45b5ed63f839c0f010685dc"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Blue Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Blue_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/65/Deep_Blue_Paint.png?version=f73931e0e92948b3aa6485f2aafefffa"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Blue_Paint.png?version=c299f9eafe4a411a74f6a63e73ac3f4b"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Purple Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Purple_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7e/Deep_Purple_Paint.png?version=5306f5fdb7a9474c9307b32445d27767"
+        },
+        "ingredients": [
+          {
+            "name": "Purple Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/35/Purple_Paint.png?version=da5fa323d0931795708503ea54421ad8"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Violet Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Violet_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4c/Deep_Violet_Paint.png?version=d63e4b5a950db55fa4b2bc8f7842dc22"
+        },
+        "ingredients": [
+          {
+            "name": "Violet Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b9/Violet_Paint.png?version=90bb49a11431f27231d0cbd5b1344789"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Deep Pink Paint",
+          "href": "https://terraria.gamepedia.com/Deep_Pink_Paint",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6d/Deep_Pink_Paint.png?version=9349df192e66ec6ae4d1218ace8df870"
+        },
+        "ingredients": [
+          {
+            "name": "Pink Paint (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Pink_Paint.png?version=384ff026fed216230567b31f112774f3"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Red Dye",
+          "href": "https://terraria.gamepedia.com/Red_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Red_Dye.png?version=89c695f63b8e1836fee8e3ad720801ce"
+        },
+        "ingredients": [
+          {
+            "name": "Red Husk",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ad/Red_Husk.png?version=48791c8ed364f0717a99e0884d7d5241"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orange Dye",
+          "href": "https://terraria.gamepedia.com/Orange_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Orange_Dye.png?version=6d0e632a5772b1f4e7c18277e29e35e4"
+        },
+        "ingredients": [
+          {
+            "name": "Orange Bloodroot",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/94/Orange_Bloodroot.png?version=833895c513825475d41570e5a79f9363"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow Dye",
+          "href": "https://terraria.gamepedia.com/Yellow_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Yellow_Dye.png?version=07ab53c8b8f7d8d59c91069e30707374"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Marigold",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Yellow_Marigold.png?version=b03b502fdf083d095f8e086f209c3cb4"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lime Dye",
+          "href": "https://terraria.gamepedia.com/Lime_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f1/Lime_Dye.png?version=3cf932eba5296aa10a9a6dd3a798a819"
+        },
+        "ingredients": [
+          {
+            "name": "Lime Kelp",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/02/Lime_Kelp.png?version=a3c91223403820309d975b2c9098cf44"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green Dye",
+          "href": "https://terraria.gamepedia.com/Green_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/be/Green_Dye.png?version=c94c1cbc40806d48a695f73b8be93a0e"
+        },
+        "ingredients": [
+          {
+            "name": "Green Mushroom",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d0/Green_Mushroom.png?version=e2f062a0f15dbb7151bcbf060f8d4548"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Teal Dye",
+          "href": "https://terraria.gamepedia.com/Teal_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Teal_Dye.png?version=0a0cd14be6d53777418d1700c655d7e9"
+        },
+        "ingredients": [
+          {
+            "name": "Teal Mushroom",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/52/Teal_Mushroom.png?version=1f344a41893e555a74db41313952674d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cyan Dye",
+          "href": "https://terraria.gamepedia.com/Cyan_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Cyan_Dye.png?version=98aa73cf4b96853758b5e31df89ad353"
+        },
+        "ingredients": [
+          {
+            "name": "Cyan Husk",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Cyan_Husk.png?version=ef66795ad02b7199a6064a9bbfd211fe"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sky Blue Dye",
+          "href": "https://terraria.gamepedia.com/Sky_Blue_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/aa/Sky_Blue_Dye.png?version=0156fffb3ff74f01ef43424fa4225c17"
+        },
+        "ingredients": [
+          {
+            "name": "Sky Blue Flower",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7e/Sky_Blue_Flower.png?version=3ac4c78df9162d3571bf2181cf551c23"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue Dye",
+          "href": "https://terraria.gamepedia.com/Blue_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Blue_Dye.png?version=a02e283c8dcf74c1c919622d4739db53"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Berries",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/cf/Blue_Berries.png?version=7bfce21d8e7136a1cce8d0286a86abb3"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Purple Dye",
+          "href": "https://terraria.gamepedia.com/Purple_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Purple_Dye.png?version=fc54d79d56014356f4b916f48c24df85"
+        },
+        "ingredients": [
+          {
+            "name": "Purple Mucos",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/87/Purple_Mucos.png?version=9df80054e2185922f268a796e7eb8593"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Violet Dye",
+          "href": "https://terraria.gamepedia.com/Violet_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/57/Violet_Dye.png?version=28bad923e34734247fd0d91d62b79652"
+        },
+        "ingredients": [
+          {
+            "name": "Violet Husk",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Violet_Husk.png?version=cdf28b068dff9132c12c51f39fef2f83"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pink Dye",
+          "href": "https://terraria.gamepedia.com/Pink_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Pink_Dye.png?version=1d428ea27dd0c1bcf172c6aa1af0a3d6"
+        },
+        "ingredients": [
+          {
+            "name": "Pink Prickly Pear",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d4/Pink_Prickly_Pear.png?version=ea8a28f6405eb27cb84888fcdfc40a43"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Black Dye",
+          "href": "https://terraria.gamepedia.com/Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/4c/Black_Dye.png?version=7201f40086166dcc9493c0882ab7d8fa"
+        },
+        "ingredients": [
+          {
+            "name": "Black Ink",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/41/Black_Ink.png?version=dc8be659ecf41af6cc9659123de35fcf"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Pink Gel Dye",
+          "href": "https://terraria.gamepedia.com/Pink_Gel_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f8/Pink_Gel_Dye.png?version=45b5ef113084278d6a19d2adcaf70526"
+        },
+        "ingredients": [
+          {
+            "name": "Gel Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d9/Gel_Dye.png?version=641a0a493d89c113e9fca868248f03d7"
+          },
+          {
+            "name": "Pink Gel (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Shifting Pearlsands Dye",
+          "href": "https://terraria.gamepedia.com/Shifting_Pearlsands_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1e/Shifting_Pearlsands_Dye.png?version=85471d60a045505776b026ce42ab4bb2"
+        },
+        "ingredients": [
+          {
+            "name": "Shifting Sands Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/ab/Shifting_Sands_Dye.png?version=d610585eac437cd184b3802d9c958a6c"
+          },
+          {
+            "name": "Crystal Shard (20)"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flame Dye",
+          "href": "https://terraria.gamepedia.com/Flame_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/26/Flame_Dye.png?version=45538530df6a1c8011ab8e56a1f4a7e1"
+        },
+        "ingredients": [
+          {
+            "name": "Red Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Red_Dye.png?version=89c695f63b8e1836fee8e3ad720801ce"
+          },
+          {
+            "name": "Orange Dye"
+          },
+          {
+            "name": "Yellow Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green Flame Dye",
+          "href": "https://terraria.gamepedia.com/Green_Flame_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Green_Flame_Dye.png?version=3186422a28bd032457cbe3126e7eb8be"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Yellow_Dye.png?version=07ab53c8b8f7d8d59c91069e30707374"
+          },
+          {
+            "name": "Lime Dye"
+          },
+          {
+            "name": "Green Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue Flame Dye",
+          "href": "https://terraria.gamepedia.com/Blue_Flame_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Blue_Flame_Dye.png?version=aebaeb70f55bae17037f3bc00d4eee1f"
+        },
+        "ingredients": [
+          {
+            "name": "Cyan Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Cyan_Dye.png?version=98aa73cf4b96853758b5e31df89ad353"
+          },
+          {
+            "name": "Sky Blue Dye"
+          },
+          {
+            "name": "Blue Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Intense Flame Dye",
+          "href": "https://terraria.gamepedia.com/Intense_Flame_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Intense_Flame_Dye.png?version=18b9b63f7e47538a90b3bb1fcf40227a"
+        },
+        "ingredients": [
+          {
+            "name": "Flame Dye (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/26/Flame_Dye.png?version=45538530df6a1c8011ab8e56a1f4a7e1"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Intense Green Flame Dye",
+          "href": "https://terraria.gamepedia.com/Intense_Green_Flame_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0a/Intense_Green_Flame_Dye.png?version=05d03430844ea354680512269bc47fca"
+        },
+        "ingredients": [
+          {
+            "name": "Green Flame Dye (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Green_Flame_Dye.png?version=3186422a28bd032457cbe3126e7eb8be"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Intense Blue Flame Dye",
+          "href": "https://terraria.gamepedia.com/Intense_Blue_Flame_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/49/Intense_Blue_Flame_Dye.png?version=5e30e9aa9db6a3349bf8918e8c70d8ae"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Flame Dye (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Blue_Flame_Dye.png?version=aebaeb70f55bae17037f3bc00d4eee1f"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Flame and Black Dye",
+          "href": "https://terraria.gamepedia.com/Flame_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e4/Flame_and_Black_Dye.png?version=1d3f6431b796b0f70b1b1845b2631266"
+        },
+        "ingredients": [
+          {
+            "name": "Flame Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/2/26/Flame_Dye.png?version=45538530df6a1c8011ab8e56a1f4a7e1"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green Flame and Black Dye",
+          "href": "https://terraria.gamepedia.com/Green_Flame_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Green_Flame_and_Black_Dye.png?version=85970288233b5f3e44f325778d6675c2"
+        },
+        "ingredients": [
+          {
+            "name": "Green Flame Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Green_Flame_Dye.png?version=3186422a28bd032457cbe3126e7eb8be"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue Flame and Black Dye",
+          "href": "https://terraria.gamepedia.com/Blue_Flame_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b0/Blue_Flame_and_Black_Dye.png?version=842f87b19b1fd17e2101ac87929e131f"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Flame Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Blue_Flame_Dye.png?version=aebaeb70f55bae17037f3bc00d4eee1f"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow Gradient Dye",
+          "href": "https://terraria.gamepedia.com/Yellow_Gradient_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Yellow_Gradient_Dye.png?version=36efdd6cac536004b5a10a25d59f4ffb"
+        },
+        "ingredients": [
+          {
+            "name": "Orange Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Orange_Dye.png?version=6d0e632a5772b1f4e7c18277e29e35e4"
+          },
+          {
+            "name": "Yellow Dye"
+          },
+          {
+            "name": "Lime Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cyan Gradient Dye",
+          "href": "https://terraria.gamepedia.com/Cyan_Gradient_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b5/Cyan_Gradient_Dye.png?version=1b9486cc2bbde31ccd6638be0f37cc76"
+        },
+        "ingredients": [
+          {
+            "name": "Teal Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Teal_Dye.png?version=0a0cd14be6d53777418d1700c655d7e9"
+          },
+          {
+            "name": "Cyan Dye"
+          },
+          {
+            "name": "Sky Blue Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Violet Gradient Dye",
+          "href": "https://terraria.gamepedia.com/Violet_Gradient_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/74/Violet_Gradient_Dye.png?version=41888150ad7d0f2050abee57be7726c5"
+        },
+        "ingredients": [
+          {
+            "name": "Purple Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Purple_Dye.png?version=fc54d79d56014356f4b916f48c24df85"
+          },
+          {
+            "name": "Violet Dye"
+          },
+          {
+            "name": "Pink Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Rainbow Dye",
+          "href": "https://terraria.gamepedia.com/Rainbow_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/45/Rainbow_Dye.png?version=e71205f7e3eba87d7475d44c71a4d58d"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Gradient Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Yellow_Gradient_Dye.png?version=36efdd6cac536004b5a10a25d59f4ffb"
+          },
+          {
+            "name": "Cyan Gradient Dye"
+          },
+          {
+            "name": "Violet Gradient Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Intense Rainbow Dye",
+          "href": "https://terraria.gamepedia.com/Intense_Rainbow_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f0/Intense_Rainbow_Dye.png?version=3ea9c01a916cae0562ad58f55dac80e2"
+        },
+        "ingredients": [
+          {
+            "name": "Rainbow Dye (2)",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/45/Rainbow_Dye.png?version=e71205f7e3eba87d7475d44c71a4d58d"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Red and Black Dye",
+          "href": "https://terraria.gamepedia.com/Red_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f9/Red_and_Black_Dye.png?version=0c32ace8db9af3c2e650b7a3aeef6b8a"
+        },
+        "ingredients": [
+          {
+            "name": "Red Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Red_Dye.png?version=89c695f63b8e1836fee8e3ad720801ce"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orange and Black Dye",
+          "href": "https://terraria.gamepedia.com/Orange_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Orange_and_Black_Dye.png?version=0a6adadad13abe283341b40bb042330f"
+        },
+        "ingredients": [
+          {
+            "name": "Orange Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Orange_Dye.png?version=6d0e632a5772b1f4e7c18277e29e35e4"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow and Black Dye",
+          "href": "https://terraria.gamepedia.com/Yellow_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/d/df/Yellow_and_Black_Dye.png?version=b577da54afa81443776b8f100f0b7574"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Yellow_Dye.png?version=07ab53c8b8f7d8d59c91069e30707374"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lime and Black Dye",
+          "href": "https://terraria.gamepedia.com/Lime_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/67/Lime_and_Black_Dye.png?version=55a9b2c69d681bf8d9dc8b3fe7a6075a"
+        },
+        "ingredients": [
+          {
+            "name": "Lime Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f1/Lime_Dye.png?version=3cf932eba5296aa10a9a6dd3a798a819"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green and Black Dye",
+          "href": "https://terraria.gamepedia.com/Green_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Green_and_Black_Dye.png?version=09c54942103a6a9e8303e5348737e4d9"
+        },
+        "ingredients": [
+          {
+            "name": "Green Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/be/Green_Dye.png?version=c94c1cbc40806d48a695f73b8be93a0e"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Teal and Black Dye",
+          "href": "https://terraria.gamepedia.com/Teal_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e3/Teal_and_Black_Dye.png?version=83a96c1b75427705a303ef5421f585a6"
+        },
+        "ingredients": [
+          {
+            "name": "Teal Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Teal_Dye.png?version=0a0cd14be6d53777418d1700c655d7e9"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cyan and Black Dye",
+          "href": "https://terraria.gamepedia.com/Cyan_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/44/Cyan_and_Black_Dye.png?version=55ca5f86e2a94587c5c455bd2c0ecb6e"
+        },
+        "ingredients": [
+          {
+            "name": "Cyan Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Cyan_Dye.png?version=98aa73cf4b96853758b5e31df89ad353"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sky Blue and Black Dye",
+          "href": "https://terraria.gamepedia.com/Sky_Blue_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/92/Sky_Blue_and_Black_Dye.png?version=ae1daa9ed8c4f2511249d271ceb5cf36"
+        },
+        "ingredients": [
+          {
+            "name": "Sky Blue Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/aa/Sky_Blue_Dye.png?version=0156fffb3ff74f01ef43424fa4225c17"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue and Black Dye",
+          "href": "https://terraria.gamepedia.com/Blue_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ed/Blue_and_Black_Dye.png?version=03065dfaff47719f9e32c6d6e6bbb5a4"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Blue_Dye.png?version=a02e283c8dcf74c1c919622d4739db53"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Purple and Black Dye",
+          "href": "https://terraria.gamepedia.com/Purple_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/41/Purple_and_Black_Dye.png?version=903e5502ce81848f91d220789f643013"
+        },
+        "ingredients": [
+          {
+            "name": "Purple Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Purple_Dye.png?version=fc54d79d56014356f4b916f48c24df85"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Violet and Black Dye",
+          "href": "https://terraria.gamepedia.com/Violet_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/41/Violet_and_Black_Dye.png?version=e398e6382e3bba1566af8962abe2d944"
+        },
+        "ingredients": [
+          {
+            "name": "Violet Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/57/Violet_Dye.png?version=28bad923e34734247fd0d91d62b79652"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pink and Black Dye",
+          "href": "https://terraria.gamepedia.com/Pink_and_Black_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/37/Pink_and_Black_Dye.png?version=e976b899fef50840b3c09b09a1a5bc91"
+        },
+        "ingredients": [
+          {
+            "name": "Pink Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Pink_Dye.png?version=1d428ea27dd0c1bcf172c6aa1af0a3d6"
+          },
+          {
+            "name": "Black Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Red Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Red_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ec/Bright_Red_Dye.png?version=eada2cf20ab41a6c1e2075b5b177ac9b"
+        },
+        "ingredients": [
+          {
+            "name": "Red Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Red_Dye.png?version=89c695f63b8e1836fee8e3ad720801ce"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Orange Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Orange_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/9f/Bright_Orange_Dye.png?version=ec44cad17359d72805a630aaeee9725b"
+        },
+        "ingredients": [
+          {
+            "name": "Orange Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Orange_Dye.png?version=6d0e632a5772b1f4e7c18277e29e35e4"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Yellow Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Yellow_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/e8/Bright_Yellow_Dye.png?version=652d808b21deb465907118171c811a8c"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Yellow_Dye.png?version=07ab53c8b8f7d8d59c91069e30707374"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Lime Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Lime_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f1/Bright_Lime_Dye.png?version=7d344b179cd5f7c512ced7d94d8ed384"
+        },
+        "ingredients": [
+          {
+            "name": "Lime Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f1/Lime_Dye.png?version=3cf932eba5296aa10a9a6dd3a798a819"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Green Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Green_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/55/Bright_Green_Dye.png?version=ab021ab6334cb072e0de611df102df57"
+        },
+        "ingredients": [
+          {
+            "name": "Green Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/be/Green_Dye.png?version=c94c1cbc40806d48a695f73b8be93a0e"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Teal Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Teal_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/b2/Bright_Teal_Dye.png?version=8ab2d6f51f6753de0fc93151ede7caa6"
+        },
+        "ingredients": [
+          {
+            "name": "Teal Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Teal_Dye.png?version=0a0cd14be6d53777418d1700c655d7e9"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Cyan Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Cyan_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Bright_Cyan_Dye.png?version=4dc7edd7e54552ac2a3886367cdc1e3f"
+        },
+        "ingredients": [
+          {
+            "name": "Cyan Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Cyan_Dye.png?version=98aa73cf4b96853758b5e31df89ad353"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Sky Blue Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Sky_Blue_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8a/Bright_Sky_Blue_Dye.png?version=a556b5027877d5201f86d6147e0f0712"
+        },
+        "ingredients": [
+          {
+            "name": "Sky Blue Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/aa/Sky_Blue_Dye.png?version=0156fffb3ff74f01ef43424fa4225c17"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Blue Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Blue_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3d/Bright_Blue_Dye.png?version=e49ef3fa99c9f77c6e07cca8893b9000"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Blue_Dye.png?version=a02e283c8dcf74c1c919622d4739db53"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Purple Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Purple_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8d/Bright_Purple_Dye.png?version=a3b2f2e316b7f849b97463d1e63d3593"
+        },
+        "ingredients": [
+          {
+            "name": "Purple Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Purple_Dye.png?version=fc54d79d56014356f4b916f48c24df85"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Violet Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Violet_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/41/Bright_Violet_Dye.png?version=a7eb5868d233136af28de3705c9970a3"
+        },
+        "ingredients": [
+          {
+            "name": "Violet Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/57/Violet_Dye.png?version=28bad923e34734247fd0d91d62b79652"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Bright Pink Dye",
+          "href": "https://terraria.gamepedia.com/Bright_Pink_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f6/Bright_Pink_Dye.png?version=448ffadd6e1ba69631af11198d04334b"
+        },
+        "ingredients": [
+          {
+            "name": "Pink Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Pink_Dye.png?version=1d428ea27dd0c1bcf172c6aa1af0a3d6"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Red and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Red_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/1c/Red_and_Silver_Dye.png?version=c61ee82893251f4ccc7625b4c0be8c24"
+        },
+        "ingredients": [
+          {
+            "name": "Red Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c1/Red_Dye.png?version=89c695f63b8e1836fee8e3ad720801ce"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Orange and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Orange_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7b/Orange_and_Silver_Dye.png?version=b0aa4b3118cc0f3902554682ad72c31c"
+        },
+        "ingredients": [
+          {
+            "name": "Orange Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3a/Orange_Dye.png?version=6d0e632a5772b1f4e7c18277e29e35e4"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Yellow and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Yellow_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/0b/Yellow_and_Silver_Dye.png?version=5d67b4f72d3de6f032ccf817878ff261"
+        },
+        "ingredients": [
+          {
+            "name": "Yellow Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/46/Yellow_Dye.png?version=07ab53c8b8f7d8d59c91069e30707374"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Lime and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Lime_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/14/Lime_and_Silver_Dye.png?version=cd15b34cbb1bc45faa60aebf2ae18f9f"
+        },
+        "ingredients": [
+          {
+            "name": "Lime Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f1/Lime_Dye.png?version=3cf932eba5296aa10a9a6dd3a798a819"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Green and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Green_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Green_and_Silver_Dye.png?version=078e7a41effec55179c5c5d720d1881b"
+        },
+        "ingredients": [
+          {
+            "name": "Green Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/b/be/Green_Dye.png?version=c94c1cbc40806d48a695f73b8be93a0e"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Teal and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Teal_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Teal_and_Silver_Dye.png?version=7691bd88978fa818b3bb8986305e3064"
+        },
+        "ingredients": [
+          {
+            "name": "Teal Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/64/Teal_Dye.png?version=0a0cd14be6d53777418d1700c655d7e9"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Cyan and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Cyan_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/66/Cyan_and_Silver_Dye.png?version=a56de1a7aa9037df044037ba003e253c"
+        },
+        "ingredients": [
+          {
+            "name": "Cyan Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/78/Cyan_Dye.png?version=98aa73cf4b96853758b5e31df89ad353"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Sky Blue and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Sky_Blue_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/01/Sky_Blue_and_Silver_Dye.png?version=cf14086817724286d804b91512616e4c"
+        },
+        "ingredients": [
+          {
+            "name": "Sky Blue Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/a/aa/Sky_Blue_Dye.png?version=0156fffb3ff74f01ef43424fa4225c17"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Blue and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Blue_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/72/Blue_and_Silver_Dye.png?version=45706c245f5df7de930f731c8ef38d5e"
+        },
+        "ingredients": [
+          {
+            "name": "Blue Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/c/c9/Blue_Dye.png?version=a02e283c8dcf74c1c919622d4739db53"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Purple and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Purple_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/3/39/Purple_and_Silver_Dye.png?version=b4ddd92ba1d794806ad641709ea56818"
+        },
+        "ingredients": [
+          {
+            "name": "Purple Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/9/99/Purple_Dye.png?version=fc54d79d56014356f4b916f48c24df85"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Violet and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Violet_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/8/8a/Violet_and_Silver_Dye.png?version=46e9e9b8dab90271df0f691374e58a94"
+        },
+        "ingredients": [
+          {
+            "name": "Violet Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/57/Violet_Dye.png?version=28bad923e34734247fd0d91d62b79652"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [],
+        "item": {
+          "name": "Pink and Silver Dye",
+          "href": "https://terraria.gamepedia.com/Pink_and_Silver_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/0/08/Pink_and_Silver_Dye.png?version=c201bc460da091de39ef356a820277fb"
+        },
+        "ingredients": [
+          {
+            "name": "Pink Dye",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/6/6a/Pink_Dye.png?version=1d428ea27dd0c1bcf172c6aa1af0a3d6"
+          },
+          {
+            "name": "Silver Dye"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Nebula Dye",
+          "href": "https://terraria.gamepedia.com/Nebula_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/5/5f/Nebula_Dye.png?version=b6226b48230d92d08b10e87275344a55"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Nebula Fragment (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Vortex Dye",
+          "href": "https://terraria.gamepedia.com/Vortex_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/e/ef/Vortex_Dye.png?version=4d6573305be817f0f602a251baadb9e8"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Vortex Fragment (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Stardust Dye",
+          "href": "https://terraria.gamepedia.com/Stardust_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/4/48/Stardust_Dye.png?version=f6c86ff348d04d5f1875f9ff0df8e97d"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Stardust Fragment (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Solar Dye",
+          "href": "https://terraria.gamepedia.com/Solar_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f8/Solar_Dye.png?version=6ddf7cb45d6759bfaa6aaebfc8b0b6ba"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Solar Fragment (10)"
+          }
+        ]
+      },
+      {
+        "platforms": [
+          "desktop"
+        ],
+        "item": {
+          "name": "Void Dye",
+          "href": "https://terraria.gamepedia.com/Void_Dye",
+          "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/7/7b/Void_Dye.png?version=534bb7885d176ab9f1ffee4848814389"
+        },
+        "ingredients": [
+          {
+            "name": "Bottled Water",
+            "icon": "https://hydra-media.cursecdn.com/terraria.gamepedia.com/1/16/Bottled_Water.png?version=5f5b447c5cf914a4b86cbaebfb7a3d37"
+          },
+          {
+            "name": "Luminite Bar (5)"
+          }
+        ]
+      }
+    ]
+  }
+]
