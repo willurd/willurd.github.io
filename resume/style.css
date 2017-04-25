@@ -1,7 +1,8 @@
 body {
   font-family: Lato, Sofia Pro, Helvetica Neue, sans-serif;
   line-height: 1.4em;
-	padding: 40px 120px 100px;
+  margin: 0;
+	padding: 0 120px 100px;
 }
 
 .container {
@@ -132,8 +133,17 @@ table.unstyled td {
 
 #whoami.section,
 #whoami.section .heading-column {
-  background-color: #e5e5e5;
+  background-color: #f5f5f5;
 	border-top: none;
+  margin: 0;
+}
+
+#whoami.section {
+  padding: 10px 20px 40px;
+}
+
+#objective {
+  margin-top: 0;
 }
 
 /* ITEMS */
@@ -155,11 +165,44 @@ table.unstyled td {
 	font-size: 1.2em;
 }
 
+.item:first-child .description p {
+	font-size: 0.8em;
+}
+
+.item:first-child .description p:first-child {
+	font-size: 1em;
+}
+
 .item:last-child {
 	border-bottom: none;
 }
 
+.item.coursera {
+  position: relative;
+  z-index: 1000;
+}
+
+.item.coursera::before {
+  background-color: rgba(255, 255, 255, 0.10);
+  background-image: url(img/coursera.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  content: "";
+  height: 100%;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+
 @media print {
+  body {
+    font-size: 0.8em;
+  }
+
 	html,
 	body,
 	#whoami,
@@ -180,15 +223,7 @@ table.unstyled td {
 
 	.col-md-9,
 	.col-md-3 {
-	    float: left;
-	}
-
-	.col-md-9 {
-	    width: 82% !important;
-	}
-
-	.col-md-3 {
-	    width: 18% !important;
+	    display: block;
 	}
 
 	.section h3 {
@@ -236,4 +271,11 @@ table.unstyled td {
 	.taglist li .badge:after {
 		content: ")";
 	}
+
+  a:after {
+    color: #777;
+    content: " [" attr(href) "] ";
+    font-size: 0.8em;
+    font-weight: normal;
+  }
 }
