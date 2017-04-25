@@ -2,30 +2,19 @@ import _ from 'lodash';
 import React from 'react';
 import ReactAddons from 'react-addons'
 import titleMixin from 'mixin/title';
-import Achievements from './Achievements';
-import analytics from 'lib/analytics';
 import TRIM from 'lib/TRIM';
 
 const cx = ReactAddons.classSet;
 
 const IconLink = React.createClass({
-  track(name, props) {
-    analytics.track(`home.mylinks.${name}`, _.pick(this.props, 'id', 'href', 'text'));
-  },
-
   onMouseEnter() {
-    this.track('activated');
     this.props.onActivate(this.props);
-  },
-
-  onClick(event) {
-    this.track('clicked');
   },
 
   render() {
     return (
       <li className={cx('IconLink', this.props.isActive ? 'active' : '', this.props.id)}>
-        <a href={this.props.href} onClick={this.onClick} target='_blank'>
+        <a href={this.props.href} target='_blank'>
           <i
             className={this.props.iconClass}
             onMouseEnter={this.onMouseEnter}></i>
@@ -54,22 +43,6 @@ const MyLinks = React.createClass({
           href: 'https://www.linkedin.com/in/wbowers',
           text: TRIM`
             Read up on my professional history.
-          `
-        },
-        {
-          id: 'accredible',
-          iconClass: '',
-          href: 'https://learning.accredible.com/u/willurd',
-          text: TRIM`
-            Take a look at my portfolio of completed online courses.
-          `
-        },
-        {
-          id: 'gibbon',
-          iconClass: '',
-          href: 'https://gibbon.co/willurd',
-          text: TRIM`
-            Check out what I'm teaching.
           `
         }
       ]
@@ -129,7 +102,6 @@ const Home = React.createClass({
       <div className='Home'>
         <p className='lead' dangerouslySetInnerHTML={{__html: this.state.message}}></p>
         <MyLinks />
-        <Achievements />
       </div>
     );
   }
