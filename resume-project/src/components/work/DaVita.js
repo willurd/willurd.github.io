@@ -18,7 +18,7 @@ const DaVita = () => (
       their public-facing websites. Developing websites for medical companies has
       its own set of challenges, especially when your target demographic is over 50.
       I learned a lot about professional design working at DaVita, including how not
-      to be afraid of <span className="bigger">large font sizes</span>!
+      to be afraid of <span className="bigger">large font sizes</span>.
     </p>
   </Job >
 );

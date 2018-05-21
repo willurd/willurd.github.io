@@ -34,10 +34,6 @@ class Skills extends Component {
             <li>
               <span className="text">Unit Testing</span>
             </li>
-            <li>
-              <span className="text">Source Control</span>
-              <span className="badge">git / svn / cvs</span>
-            </li>
           </ul>
         </div>
       </div>

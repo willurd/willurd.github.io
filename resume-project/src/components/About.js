@@ -10,7 +10,7 @@ class About extends Component {
 
           <p>
             I love <em>programming</em>, <em>learning</em>, <em>solving problems</em>, and
-            <em>building products</em> and <em>tools</em>. My <em>goal in life</em> is to do
+            &nbsp;<em>building products</em> and <em>tools</em>. My <em>goal in life</em> is to do
             these things as much as possible for as long as I can.
           </p>
 
@@ -34,8 +34,8 @@ class About extends Component {
 
           <p>
             I've written production code in a dozen languages. My focus has always been on the
-            <em>frontend</em>, but I love to code at any level of the stack, from desktop UIs
-            to C libraries. <em>Software engineering is my greatest passion</em>.
+            &nbsp;<em>frontend</em>, but I love to code at any level of the stack, from desktop UIs
+            to C libraries. <em>Programming is my greatest passion</em>.
           </p>
         </div>
       </div>

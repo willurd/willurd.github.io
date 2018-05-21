@@ -20,28 +20,10 @@ class Frameworks extends Component {
               <span className="text">Underscore.js</span>
             </li>
             <li>
-              <span className="text">Bootstrap</span>
-            </li>
-            <li>
-              <span className="text">Flex</span>
-            </li>
-            <li>
               <span className="text">Node.js</span>
             </li>
             <li>
-              <span className="text">Photoshop</span>
-            </li>
-            <li>
-              <span className="text">Django</span>
-            </li>
-            <li>
-              <span className="text">NoSQL Databases</span>
-            </li>
-            <li>
-              <span className="text">Relational Databases</span>
-            </li>
-            <li>
-              <span className="text">jQuery</span>
+              <span className="text">git</span>
             </li>
           </ul>
         </div>
