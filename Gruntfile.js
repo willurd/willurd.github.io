@@ -21,7 +21,7 @@ function getNPMPackageIds() {
   return _.keys(pkg.dependencies) || [];
 }
 
-module.exports = function(grunt) {
+module.exports = function (grunt) {
   loadGruntTasks(grunt);
 
   grunt.config.init({
@@ -44,7 +44,7 @@ module.exports = function(grunt) {
         src: './src/js/vendor.js',
         dest: './static/js/vendor.js',
         options: {
-          preBundleCB: function(b) {
+          preBundleCB: function (b) {
             getNPMPackageIds()
               .concat(extraVendorIds)
               .forEach(function (id) {
@@ -59,11 +59,11 @@ module.exports = function(grunt) {
         dest: './static/js/app.js',
         options: {
           transform: [
-            [ 'babelify', { experimental: true } ],
-            [ 'reactify', { es6: true } ]
+            ['babelify', { experimental: true }],
+            ['reactify', { es6: true }]
           ],
 
-          preBundleCB: function(b) {
+          preBundleCB: function (b) {
             getNPMPackageIds()
               .concat(extraVendorIds)
               .forEach(function (id) {
@@ -72,7 +72,9 @@ module.exports = function(grunt) {
 
             b.plugin(remapify, [{
               src: './src/js/**/*.js',
-              filter: function(alias, dirname, basename) {
+              filter: function (alias, dirname, basename) {
+                console.log(path.join(dirname, basename));
+                console.log(path.join(dirname, basename).replace(/src\/js\/(.*)\.js$/, '$1'));
                 return path.join(dirname, basename).replace(/src\/js\/(.*)\.js$/, '$1');
               }
             }]);

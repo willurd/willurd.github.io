@@ -1,17 +1,21 @@
 body {
-  font-family: Lato, Sofia Pro, Helvetica Neue, sans-serif;
+	/* font-family: Lato, Sofia Pro, Helvetica Neue, sans-serif; */
+	background-color: #ddd;
+	background-image: url('img/bg2.png');
+	font-family: 'Tajawal', sans-serif;
   line-height: 1.4em;
-  margin: 0;
-	padding: 0 120px 100px;
+	margin: 0;
+	padding: 60px 20px;
 }
 
-.container {
-  max-width: 900px;
-  margin: 0 auto;
+.chrome-container {
+	background-color: #fff;
+	max-width: 800px;
+	margin: 0 auto;
 }
 
 h1 {
-	font-size: 36pt;
+	font-size: 48pt;
 	font-weight: 900;
 	margin: 30px 0 0 -5px;
 }
@@ -30,23 +34,18 @@ h5 {
 	margin: 0 0 8px;
 }
 
+p {
+	padding-top: 0;
+}
+
+a {
+	color: darkslateblue;
+}
+
 em {
 	background: #f9f9f9;
 	font-weight: 300;
 	font-style: normal;
-}
-
-.me {
-	float: left;
-  margin-right: 30px;
-}
-
-.me img {
-  border: 5px solid #fff;
-  border-radius: 100px;
-  box-shadow: 2px 2px 15px -5px rgba(0, 0, 0, 0.75);
-  height: 180px;
-  width: 180px;
 }
 
 .bigger {
@@ -56,6 +55,18 @@ em {
 
 .smaller {
 	font-size: 0.9em;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
 }
 
 ul.unstyled, ol.unstyled {
@@ -106,41 +117,80 @@ table.unstyled td {
 /* SECTIONS */
 
 .section {
-	border-top: 1px solid #aaa;
+	/* border-top: 1px solid #aaa; */
 	margin-top: 40px;
-  padding: 20px 10px;
+  padding: 20px 80px;
 }
 
 .section h3 {
-	margin-top: 0;
+	margin: 0 0 15px;
 	font-size: 22pt;
 	font-weight: 500;
 }
 
-.section .column {
-	padding-top: 10px;
+/* TITLE BAR */
+
+.title-bar {
+	padding: 12px 20px;
 }
 
-.section .heading-column {
-	padding-left: 0;
-}
+/* HEADER */
 
-.section .content-column {
-	padding-right: 0;
-}
-
-/* WHOAMI */
-
-#whoami.section,
-#whoami.section .heading-column {
-  background-color: #f5f5f5;
-	border-top: none;
-  margin: 0;
-}
-
-#whoami.section {
+#header {
+	background-color: #111;
+	border: none;
+	color: #fff;
+	margin: 0 0 100px;
   padding: 10px 20px 40px;
+	position: relative;
+	text-align: center;
 }
+
+.header-image-container {
+	height: 100%;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.header-image-container img {
+	margin-top: -19%;
+	opacity: 0.5;
+	min-width: 100%;
+}
+
+.header-content {
+	position: relative;
+}
+
+.me {
+	margin-bottom: -100px;
+	z-index: 2;
+}
+
+.me img {
+  border: 7px solid #fff;
+  border-radius: 110px;
+  /* box-shadow: 2px 2px 15px -5px rgba(0, 0, 0, 0.75); */
+  height: 220px;
+  width: 220px;
+}
+
+/* #header.section::after {
+	background-color: transparent;
+	background-position: 50% 25%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.7;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+} */
 
 #objective {
   margin-top: 0;
@@ -177,27 +227,6 @@ table.unstyled td {
 	border-bottom: none;
 }
 
-.item.coursera {
-  position: relative;
-  z-index: 1000;
-}
-
-.item.coursera::before {
-  background-color: rgba(255, 255, 255, 0.10);
-  background-image: url(img/coursera.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  content: "";
-  height: 100%;
-  left: 0;
-  opacity: 0.1;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  z-index: -1;
-}
-
 @media print {
   body {
     font-size: 0.8em;
@@ -205,7 +234,7 @@ table.unstyled td {
 
 	html,
 	body,
-	#whoami,
+	#header,
 	h1,
 	.container {
 		margin-top: 0;
