@@ -1,8 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
-import Titlebar from './views/Titlebar';
-import Header from './views/Header';
-import About from './views/About';
+import Titlebar from './components/Titlebar';
+import Header from './components/Header';
+import About from './components/About';
+import WorkHistory from './components/WorkHistory';
+import Skills from './components/Skills';
+import Languages from './components/Languages';
+import Frameworks from './components/Frameworks';
+import OpenSource from './components/OpenSource';
 
 class App extends Component {
   render() {
@@ -11,6 +16,11 @@ class App extends Component {
         <Titlebar />
         <Header />
         <About />
+        <WorkHistory />
+        <Skills />
+        <Languages />
+        <Frameworks />
+        <OpenSource />
       </div>
     );
   }

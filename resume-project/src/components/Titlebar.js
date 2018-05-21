@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ExternalLink from './lib/ExternalLink';
 
 class Titlebar extends Component {
   render() {
@@ -11,9 +12,9 @@ class Titlebar extends Component {
         </div>
 
         <div>
-          <a target="_blank" rel="noopener noreferrer" href="http://www.linkedin.com/in/wbowers">LinkedIn</a>
-          &bullet;
-          <a target="_blank" rel="noopener noreferrer" href="https://github.com/willurd">GitHub</a>
+          <ExternalLink href="http://www.linkedin.com/in/wbowers" label="LinkedIn" />
+          &nbsp;&nbsp;·&nbsp;&nbsp;
+          <ExternalLink href="https://github.com/willurd" label="GitHub" />
         </div>
       </div>
     );

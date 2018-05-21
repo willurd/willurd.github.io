@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ExternalLink from './lib/ExternalLink';
 
 class About extends Component {
   render() {
@@ -14,19 +15,19 @@ class About extends Component {
           </p>
 
           <p>
-            I've worked in <a href="https://www.coursera.org">EdTech</a>, building a world-class
+            I've worked in <ExternalLink href="https://www.coursera.org" label="EdTech" />, building a world-class
             platform for online learning, and helping to bring the best course content on the
             planet to millions of people for free.
           </p>
 
           <p>
-            I've worked in <a href="https://www.davita.com">Healthcare</a>, building a platform
-            where patients at all stages of renal failure could get the care and information
+            I've worked in <ExternalLink href="https://www.davita.com" label="Healthcare" />, building a platform
+            where patients at all stages of renal failure can get the care and information
             they need to live a better life.
           </p>
 
           <p>
-            I've worked in <a href="https://www.countertack.com">Cyber Security</a>, building a
+            I've worked in <ExternalLink href="https://www.countertack.com" label="Cyber Security" />, building a
             next-generation product that helps businesses detect and neutralize historically
             hard-to-mitigate attacks called Advanced Persistent Threats.
           </p>
