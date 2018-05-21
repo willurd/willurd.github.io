@@ -17,9 +17,11 @@ body {
 }
 
 h1 {
+	font-family: 'Quattrocento Sans', 'Tajawal', sans-serif;
 	font-size: 48pt;
-	font-weight: 900;
+	font-weight: 500;
 	margin: 30px 0 0 -5px;
+	text-shadow: 1px 2px 2px #333;
 }
 
 h4 {
@@ -131,9 +133,10 @@ table.unstyled td {
 }
 
 .section h3 {
-	font-family: 'Indie Flower', serif;
-	margin: 0 0 15px;
-	font-size: 22pt;
+	/* Indie Flower, Baloo Chettan, Quicksand */
+	font-family: 'Baloo Chettan', serif;
+	margin: 0 0 15px -2px;
+	font-size: 24pt;
 	font-weight: 500;
 }
 
@@ -212,7 +215,7 @@ header {
 }
 
 .item {
-	/* border: 1px dotted #ddd; */
+	border: 1px dotted #ddd;
 	border-top-width: 0;
 	border-right-width: 0;
 	border-left-width: 0;
@@ -238,7 +241,8 @@ header {
 }
 
 .item:first-child .description p:first-child {
-	font-size: 1em;
+	font-size: 1.4em;
+	line-height: 1.1em;
 }
 
 .item:last-child {
@@ -250,7 +254,7 @@ header {
 #work-history {
 	background-color: #f9f9f9;
 	margin-top: 10px;
-	padding-top: 50px;
+	padding-top: 40px;
 }
 
 #work-history h3 {

@@ -64,7 +64,7 @@ const JsLisp = () => (
 
     <p>
       I wrote quite a large suite of unit tests for this project. The tests are actually
-      <ExternalLink href="https://github.com/willurd/js-lisp/blob/master/tests/tests.lisp" label="written in lisp" />,
+      &nbsp;<ExternalLink href="https://github.com/willurd/js-lisp/blob/master/tests/tests.lisp" label="written in lisp" />,
       and interpreted and run by the project itself, to test itself.
     </p>
   </div>

@@ -10,10 +10,6 @@ class WorkHistory extends Component {
   render() {
     return (
       <div id="work-history" className="row section">
-        <div className="column heading-column">
-          <h3>Work History</h3>
-        </div>
-
         <div className="column content-column">
           <Coursera />
           <CounterTack />
