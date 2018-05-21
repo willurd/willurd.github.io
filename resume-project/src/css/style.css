@@ -8,7 +8,7 @@ body {
 	padding: 60px 20px;
 }
 
-.chrome-container {
+.container {
 	background-color: #fff;
 	max-width: 800px;
 	margin: 0 auto;
@@ -263,7 +263,12 @@ header {
 
 /* RESPONSIVE */
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
 	h1 {
 		font-size: 36pt;
 	}
@@ -272,86 +277,30 @@ header {
 		font-size: 11pt;
 		margin-top: 15px;
 	}
-}
 
-@media print {
-  body {
-    font-size: 0.8em;
-  }
-
-	html,
-	body,
-	header,
-	h1,
-	.container {
-		margin-top: 0;
-		padding-top: 0;
+	.me {
+		margin-bottom: -90px;
 	}
 
-	body {
-		font-size: 14pt;
-		padding: 0 40px;
+	.me img {
+		border-radius: 86px;
+		height: 160px;
+		width: 160px;
 	}
 
-	h5 {
-		font-size: 1.1em;
+	.section {
+		padding: 0 20px;
 	}
 
-	.col-md-9,
-	.col-md-3 {
-	    display: block;
+	.Job {
+		display: block !important;
 	}
 
-	.section h3 {
-		font-size: 18pt;
+	.Job .logo {
+		width: auto !important;
 	}
 
-	.bigger {
-		font-size: 1.5em;
-		line-height: 1em;
+	.Job .details {
+		margin: 0 0 20px !important;
 	}
-
-	.smaller {
-		font-size: 1em;
-	}
-
-	.taglist li {
-		font-size: 1.1em;
-		margin-right: 5px;
-	}
-
-	.taglist li:after {
-		content: "|";
-		color: #777;
-		padding-left: 9px;
-	}
-
-	.taglist li:last-child:after {
-		content: "";
-		padding-left: 0;
-	}
-
-	.taglist li .text {
-		padding-right: 0;
-	}
-
-	.taglist li .badge {
-		font-size: 1em;
-		padding-left: 2px;
-	}
-
-	.taglist li .badge:before {
-		content: "(";
-	}
-
-	.taglist li .badge:after {
-		content: ")";
-	}
-
-  a:after {
-    color: #777;
-    content: " [" attr(href) "] ";
-    font-size: 0.8em;
-    font-weight: normal;
-  }
 }

@@ -12,7 +12,7 @@ import OpenSource from './components/OpenSource';
 class App extends Component {
   render() {
     return (
-      <div className="chrome-container container-fluid">
+      <div className="container">
         <Titlebar />
         <Header />
         <About />

@@ -4,11 +4,11 @@ class Frameworks extends Component {
   render() {
     return (
       <div id="frameworks" className="row section">
-        <div className="col-md-3 column heading-column">
+        <div className="column heading-column">
           <h3>Frameworks, libraries, etc</h3>
         </div>
 
-        <div className="col-md-9 column content-column">
+        <div className="column content-column">
           <ul className="taglist">
             <li>
               <span className="text">React</span>

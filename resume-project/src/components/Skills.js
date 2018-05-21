@@ -4,11 +4,11 @@ class Skills extends Component {
   render() {
     return (
       <div id="skills" className="row section">
-        <div className="col-md-3 column heading-column">
+        <div className="column heading-column">
           <h3>Skills</h3>
         </div>
 
-        <div className="col-md-9 column content-column">
+        <div className="column content-column">
           <ul className="taglist">
             <li>
               <span className="text">UI / Web Design</span>

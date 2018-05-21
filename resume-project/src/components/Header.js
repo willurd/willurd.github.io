@@ -14,7 +14,7 @@ class Header extends Component {
           <h1>Will Bowers</h1>
           <h4>Software Engineer | Frontend</h4>
 
-          <div className="col-md-12 column heading-column content-column">
+          <div className="column heading-column content-column">
             <div className="me">
               <img alt="Will Bowers" src={meImage} width="150" />
             </div>
