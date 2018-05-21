@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <header>
         <div className="header-image-container">
-          <img src={trailImage} />
+          <img alt="a hiking trail" src={trailImage} />
         </div>
 
         <div className="header-content">
@@ -16,7 +16,7 @@ class Header extends Component {
 
           <div className="col-md-12 column heading-column content-column">
             <div className="me">
-              <img src={meImage} width="150" />
+              <img alt="Will Bowers" src={meImage} width="150" />
             </div>
           </div>
         </div>
