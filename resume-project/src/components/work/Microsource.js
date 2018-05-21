@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Job from './Job';
 
 const Microsource = () => (
@@ -7,7 +7,6 @@ const Microsource = () => (
     start="February 2005"
     end="June 2006"
     company="Microsource Web Development"
-    companyHref="https://www.Microsource.com"
     title="Founder"
     layout="left"
   >

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Skills extends Component {
   render() {
     return (
-      <div id="skills" className="row section scrollspy">
+      <div id="skills" className="row section">
         <div className="col-md-3 column heading-column">
           <h3>Skills</h3>
         </div>

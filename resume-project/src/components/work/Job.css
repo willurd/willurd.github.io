@@ -1,0 +1,55 @@
+.Job {
+  display: flex;
+  padding: 30px 0;
+}
+
+.Job .details {
+  font-family: 'Dosis', sans-serif;
+  min-width: 190px;
+}
+
+.Job .company {
+  font-size: 1.6em;
+  font-weight: normal;
+  line-height: 1.1em;
+  margin: 0 0 15px;
+  padding: 0;
+}
+
+.Job .company a {
+  text-decoration: none;
+}
+
+.Job .title {
+  font-size: 1.1em;
+  margin: 0 !important;
+  padding: 0;
+}
+
+.Job .logo {
+  width: 100%;
+}
+
+.Job.right {
+  flex-direction: row-reverse;
+}
+
+.Job.left .details {
+  margin-right: 30px;
+}
+
+.Job.right .details {
+  margin-left: 30px;
+}
+
+.Job p {
+  margin-top: 0;
+}
+
+.Job.coursera .title {
+  margin-bottom: 5px !important;
+}
+
+.Job.coursera .timeframe {
+  font-size: 0.8em;
+}

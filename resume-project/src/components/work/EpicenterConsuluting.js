@@ -1,5 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Job from './Job';
+import logo from '../../img/epicenter.png';
 
 const EpicenterConsulting = () => (
   <Job
@@ -8,6 +9,7 @@ const EpicenterConsulting = () => (
     end="2008"
     company="Epicenter Consulting"
     companyHref="https://www.epicenterconsulting.com"
+    logo={logo}
     title="Web Application Designer"
     layout="left"
   >

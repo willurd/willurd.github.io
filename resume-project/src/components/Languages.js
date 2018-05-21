@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Languages extends Component {
   render() {
     return (
-      <div id="languages" className="row section scrollspy">
+      <div id="languages" className="row section">
         <div className="col-md-3 column heading-column">
           <h3>Programming Languages</h3>
         </div>

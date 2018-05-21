@@ -1,5 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Job from './Job';
+import logo from '../../img/davita.png';
 
 const DaVita = () => (
   <Job
@@ -8,6 +9,7 @@ const DaVita = () => (
     end="October 2007"
     company="DaVita, Inc"
     companyHref="https://www.davita.com"
+    logo={logo}
     title="Web Designer / Developer"
     layout="right"
   >

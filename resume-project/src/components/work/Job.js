@@ -3,6 +3,7 @@
 import React, { Component } from 'react';
 import cx from 'classnames';
 import ExternalLink from '../lib/ExternalLink';
+import './Job.css';
 
 type Props = {
   className?: string,
@@ -11,6 +12,7 @@ type Props = {
   end: string,
   company?: string,
   companyHref?: string,
+  logo?: string,
   title: string,
   layout: 'left' | 'right',
 };
@@ -21,12 +23,18 @@ class Job extends Component<Props> {
   };
 
   render() {
-    const { className, children, start, end, company, companyHref, title, layout } = this.props;
+    const { className, children, start, end, company, companyHref, logo, title, layout } = this.props;
+    const classes = cx('Job item', className, {
+      left: layout === 'left',
+      right: layout === 'right',
+    });
 
     return (
-      <div className={cx('item', className)}>
-        <div className={cx('details', { layout })}>
-          <h4 className="title">{title}<Company name={company} href={companyHref} /></h4>
+      <div className={classes}>
+        <div className={cx('details')}>
+          {company && <h4 className="company"><Company name={company} href={companyHref} logo={logo} /></h4>}
+          <h5 className="title">{title}</h5>
+          <div className="timeframe">{start} — {end}</div>
         </div>
 
         {children && (
@@ -39,12 +47,16 @@ class Job extends Component<Props> {
   }
 }
 
-const Company = ({ name, href }) => {
-  if (name) {
-    return <span> at {href ? <ExternalLink href={href} label={name} /> : name}</span>;
+const Company = ({ name, href, logo }) => {
+  if (!href) {
+    return name;
   }
 
-  return null;
+  return (
+    <ExternalLink href={href}>
+      {logo ? <img className="logo" alt={name} src={logo} /> : name}
+    </ExternalLink>
+  );
 };
 
 export default Job;

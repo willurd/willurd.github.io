@@ -1,5 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Job from './Job';
+import logo from '../../img/countertack.png';
 
 const CounterTack = () => (
   <Job
@@ -8,6 +9,7 @@ const CounterTack = () => (
     end="March 2014"
     company="CounterTack, Inc"
     companyHref="https://www.countertack.com"
+    logo={logo}
     title="UI Technical Lead"
     layout="right"
   >

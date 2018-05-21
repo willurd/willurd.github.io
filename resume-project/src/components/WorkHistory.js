@@ -6,12 +6,10 @@ import DaVita from './work/DaVita';
 import Microsource from './work/Microsource';
 import Freelance from './work/Freelance';
 
-
-
 class WorkHistory extends Component {
   render() {
     return (
-      <div id="work-history" className="row section scrollspy">
+      <div id="work-history" className="row section">
         <div className="column heading-column">
           <h3>Work History</h3>
         </div>

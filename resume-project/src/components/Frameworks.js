@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Frameworks extends Component {
   render() {
     return (
-      <div id="frameworks" className="row section scrollspy">
+      <div id="frameworks" className="row section">
         <div className="col-md-3 column heading-column">
           <h3>Frameworks, libraries, etc</h3>
         </div>

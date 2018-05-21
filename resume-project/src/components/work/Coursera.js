@@ -1,5 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Job from './Job';
+import logo from '../../img/coursera.svg';
 
 const Coursera = () => (
   <Job
@@ -8,6 +9,7 @@ const Coursera = () => (
     end="Present"
     company="Coursera"
     companyHref="https://www.coursera.org"
+    logo={logo}
     title="Software Engineer"
     layout="left"
   >
