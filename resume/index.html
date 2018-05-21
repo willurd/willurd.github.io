@@ -6,6 +6,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
+	<script src="js/jquery.js"></script>
+	<script src="js/scrollspy.js"></script>
+	<script src="js/main.js"></script>
 </head>
 
 <body>
@@ -22,7 +25,27 @@
 			</div>
 		</div>
 
-		<div id="header">
+		<nav class="smaller">
+			<ul>
+				<li>
+					<a href="#work-history">Work</a>
+				</li>
+				<li>
+					<a href="#skills">Skills</a>
+				</li>
+				<li>
+					<a href="#languages">Languages</a>
+				</li>
+				<li>
+					<a href="#frameworks">Frameworks</a>
+				</li>
+				<li>
+					<a href="#open-source">Open Source</a>
+				</li>
+			</ul>
+		</nav>
+
+		<header>
 			<div class="header-image-container">
 				<img src="img/trail.jpg" />
 			</div>
@@ -37,7 +60,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</header>
 
 		<div id="objective" class="row section">
 			<div class="col-md-9 column content-column">
@@ -78,7 +101,7 @@
 			</div>
 		</div>
 
-		<div id="work-history" class="row section">
+		<div id="work-history" class="row section scrollspy">
 			<div class="col-md-3 column heading-column">
 				<h3>Work History</h3>
 			</div>
@@ -124,7 +147,7 @@
 							3rd party applications, developing use cases, raw socket development, and designing and implementing REST APIs in
 							both Python and Ruby. Throughout my time at CounterTack, I wrote several internal usability assessments and libraries
 							for internal customers that abstract away 3rd party APIs. I contributed to open source projects, and as a team we
-							done some really cutting edge work. It was exciting work to say the least.
+							did some really cutting edge work. It was exciting work to say the least.
 						</p>
 					</div>
 				</div>
@@ -138,7 +161,7 @@
 							</td>
 						</tr>
 					</table>
-					<div class="title">Web / Application Designer</div>
+					<div class="title">Web Application Designer</div>
 					<div class="description">
 						<p>My job at Epicenter Consulting was to prototype web applications (such as an exit survey application and builder for
 							an employee retention company). We had weekly meetings where I was able to interface directly with the clients and
@@ -196,7 +219,7 @@
 			</div>
 		</div>
 
-		<div id="skill" class="row section">
+		<div id="skills" class="row section scrollspy">
 			<div class="col-md-3 column heading-column">
 				<h3>Skills</h3>
 			</div>
@@ -235,7 +258,7 @@
 			</div>
 		</div>
 
-		<div id="skill" class="row section">
+		<div id="languages" class="row section scrollspy">
 			<div class="col-md-3 column heading-column">
 				<h3>Programming Languages</h3>
 			</div>
@@ -306,10 +329,9 @@
 			</div>
 		</div>
 
-		<div id="skill" class="row section">
+		<div id="frameworks" class="row section scrollspy">
 			<div class="col-md-3 column heading-column">
-				<h3>Other Skills</h3>
-				<em>Frameworks, libraries, applications, etc.</em>
+				<h3>Frameworks, libraries, etc</h3>
 			</div>
 
 			<div class="col-md-9 column content-column">
@@ -319,12 +341,6 @@
 					</li>
 					<li>
 						<span class="text">Flux</span>
-					</li>
-					<li>
-						<span class="text">jQuery</span>
-					</li>
-					<li>
-						<span class="text">Backbone.js</span>
 					</li>
 					<li>
 						<span class="text">Underscore.js</span>
@@ -350,42 +366,23 @@
 					<li>
 						<span class="text">Relational Databases</span>
 					</li>
+					<li>
+						<span class="text">jQuery</span>
+					</li>
 				</ul>
 			</div>
 		</div>
 
-		<div id="education" class="row section">
-			<div class="col-md-3 column heading-column">
-				<h3>Education</h3>
-			</div>
-
-			<div class="col-md-9 column content-column">
-				<div class="item">
-					<table width="100%" class="unstyled">
-						<tr>
-							<td class="col-md-4 text-left" width="33.33%">September 2004 - June 2005</td>
-							<td class="col-md-4 text-center" width="33.33%">Fullerton College</td>
-							<td class="col-md-4 text-right" width="33.33%">Fullerton, CA</td>
-						</tr>
-					</table>
-					<div class="title">Music</div>
-					<div class="description">And a little bit of computer science.</div>
-				</div>
-			</div>
-		</div>
-
-		<div id="open-source" class="row section">
+		<div id="open-source" class="row section scrollspy">
 			<div class="col-md-3 column heading-column">
 				<h3>Open Source</h3>
 			</div>
 
 			<div class="col-md-9 column content-column">
-				<p>I've created a number of open source projects, and contributed to several others as well.</p>
-
-				<h4>Started</h4>
+				<h4>Projects I've Created</h4>
 
 				<p>
-					<i>(I have a few, more recent, projects that are not online just yet that I would be willing to share upon request.)</i>
+					<i>(I have a few more recent projects that are not online just yet that I would be willing to share.)</i>
 				</p>
 
 				<!-- variadic.js -->
@@ -394,14 +391,6 @@
 					<span>(JavaScript)</span>
 				</h5>
 				<p>A JavaScript library that cleans up your functions that accept different types and arrangements of arguments.</p>
-
-				<!-- backbone.unclassified.js -->
-				<h5>
-					<a target="_blank" href="https://github.com/willurd/backbone.unclassified.js">backbone.unclassified.js</a>
-					<span class="smaller text-muted">(JavaScript)</span>
-				</h5>
-
-				<p>A Backbone.js plugin that lets you specify your view elements declaratively (like you do with events).</p>
 
 				<!-- ScopeStatus -->
 				<h5>
@@ -438,9 +427,6 @@
 					<li>
 						<a target="_blank" href="https://groups.google.com/forum/embed/#!topic/vim_dev/3fq0WJmlHeg">Submission thread</a>
 					</li>
-					<li>
-						<a target="_blank" href="https://groups.google.com/group/vim_dev/attach/786d78213580956e/tabcloseleft-7.3.277.patch?part=2&view=1">Patch</a>
-					</li>
 				</ul>
 
 				<!-- libcouchbase -->
@@ -453,49 +439,12 @@
 
 				<ul>
 					<li>
-						<a target="_blank" href="https://github.com/couchbase/libcouchbase/blob/master/AUTHORS">Contributors list</a>
-					</li>
-					<li>
 						<a target="_blank" href="https://github.com/couchbase/libcouchbase/commit/aa54a4dd1ea125337c1a479ae4c44770b31d671c">Tap filtration</a> (tap filters in the
 						<a target="_blank" href="http://www.couchbase.com/docs//couchbase-sdk-c-1.0/api-reference-summary.html#table-couchbase-sdk_c_lcb_arithmetic_by_key">official documentation</a>)</li>
 					<li>
 						<a target="_blank" href="https://github.com/couchbase/libcouchbase/commit/4c7f138c920d10786f4cd2cf9edd3c7454f3884d">Internal error handling</a>
 					</li>
 				</ul>
-
-				<!-- BrowserQuest -->
-				<h5>BrowserQuest
-					<span class="smaller text-muted">(JavaScript)</span>
-				</h5>
-
-				<p>Found a bunch of little sneaky bugs and
-					<a target="_blank" href="https://github.com/mozilla/BrowserQuest/commit/8b144820ab69092512e9b35034adef01c3bf8ddc">squashed them</a>.</p>
-
-				<!-- Bukkit -->
-				<h5>Bukkit
-					<span class="smaller text-muted">(Java)</span>
-				</h5>
-
-				<p>A plugin-enabled Minecraft server.</p>
-
-				<ul>
-					<li>
-						<a target="_blank" href="https://github.com/Bukkit/Bukkit/pull/175/files">Client/Library</a>
-					</li>
-					<li>
-						<a target="_blank" href="https://github.com/Bukkit/CraftBukkit/pull/218/files">Server</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-
-		<div id="references" class="row section">
-			<div class="col-md-3 column heading-column">
-				<h3>References</h3>
-			</div>
-
-			<div class="col-md-9 column content-column">
-				<p>Available upon request.</p>
 			</div>
 		</div>
 	</div>
