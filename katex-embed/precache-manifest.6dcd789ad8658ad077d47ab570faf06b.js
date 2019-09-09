@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ea953c39cfcff17356d55a3037457b1",
+    "revision": "51e3030108ae1325235f2cbaf59ab3c8",
     "url": "/katex-embed/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/katex-embed/static/css/2.8f01aaff.chunk.css"
   },
   {
-    "revision": "1b502d6184a57c469a63",
+    "revision": "93701dd81543ff0c976d",
     "url": "/katex-embed/static/css/main.d45e255b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/katex-embed/static/js/2.7b9e1240.chunk.js"
   },
   {
-    "revision": "1b502d6184a57c469a63",
-    "url": "/katex-embed/static/js/main.1e25fd66.chunk.js"
+    "revision": "93701dd81543ff0c976d",
+    "url": "/katex-embed/static/js/main.ede52390.chunk.js"
   },
   {
     "revision": "2fbddadad317e1e1c7f7",
