@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/katex-embed/static/css/main.06eeb11d.chunk.css",
+    "main.css": "/katex-embed/static/css/main.d45e255b.chunk.css",
     "main.js": "/katex-embed/static/js/main.1e25fd66.chunk.js",
     "main.js.map": "/katex-embed/static/js/main.1e25fd66.chunk.js.map",
     "runtime~main.js": "/katex-embed/static/js/runtime~main.8f5ed784.js",
@@ -9,10 +9,10 @@
     "static/js/2.7b9e1240.chunk.js": "/katex-embed/static/js/2.7b9e1240.chunk.js",
     "static/js/2.7b9e1240.chunk.js.map": "/katex-embed/static/js/2.7b9e1240.chunk.js.map",
     "index.html": "/katex-embed/index.html",
-    "precache-manifest.d538dc0ec9304e8e4c58c6ea2d44b9d0.js": "/katex-embed/precache-manifest.d538dc0ec9304e8e4c58c6ea2d44b9d0.js",
+    "precache-manifest.43586ef0970cf621c7260ff41714fc6d.js": "/katex-embed/precache-manifest.43586ef0970cf621c7260ff41714fc6d.js",
     "service-worker.js": "/katex-embed/service-worker.js",
     "static/css/2.8f01aaff.chunk.css.map": "/katex-embed/static/css/2.8f01aaff.chunk.css.map",
-    "static/css/main.06eeb11d.chunk.css.map": "/katex-embed/static/css/main.06eeb11d.chunk.css.map",
+    "static/css/main.d45e255b.chunk.css.map": "/katex-embed/static/css/main.d45e255b.chunk.css.map",
     "static/media/katex.min.css": "/katex-embed/static/media/KaTeX_Typewriter-Regular.6cc31ea5.woff2"
   }
 }
