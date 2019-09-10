@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/katex-embed/static/css/main.d45e255b.chunk.css",
-    "main.js": "/katex-embed/static/js/main.ede52390.chunk.js",
-    "main.js.map": "/katex-embed/static/js/main.ede52390.chunk.js.map",
+    "main.js": "/katex-embed/static/js/main.226af73d.chunk.js",
+    "main.js.map": "/katex-embed/static/js/main.226af73d.chunk.js.map",
     "runtime~main.js": "/katex-embed/static/js/runtime~main.8f5ed784.js",
     "runtime~main.js.map": "/katex-embed/static/js/runtime~main.8f5ed784.js.map",
     "static/css/2.8f01aaff.chunk.css": "/katex-embed/static/css/2.8f01aaff.chunk.css",
     "static/js/2.7b9e1240.chunk.js": "/katex-embed/static/js/2.7b9e1240.chunk.js",
     "static/js/2.7b9e1240.chunk.js.map": "/katex-embed/static/js/2.7b9e1240.chunk.js.map",
     "index.html": "/katex-embed/index.html",
-    "precache-manifest.6dcd789ad8658ad077d47ab570faf06b.js": "/katex-embed/precache-manifest.6dcd789ad8658ad077d47ab570faf06b.js",
+    "precache-manifest.b216937c630c949f48f2ccdc8c7826bd.js": "/katex-embed/precache-manifest.b216937c630c949f48f2ccdc8c7826bd.js",
     "service-worker.js": "/katex-embed/service-worker.js",
     "static/css/2.8f01aaff.chunk.css.map": "/katex-embed/static/css/2.8f01aaff.chunk.css.map",
     "static/css/main.d45e255b.chunk.css.map": "/katex-embed/static/css/main.d45e255b.chunk.css.map",

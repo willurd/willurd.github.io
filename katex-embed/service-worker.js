@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/katex-embed/precache-manifest.6dcd789ad8658ad077d47ab570faf06b.js"
+  "/katex-embed/precache-manifest.b216937c630c949f48f2ccdc8c7826bd.js"
 );
 
 self.addEventListener('message', (event) => {
