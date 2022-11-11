@@ -28,7 +28,7 @@
     "es6-shim": "^0.35.3",
     "lodash": "^3.6.0",
     "q": "^1.2.0",
-    "react": "^0.13.1",
+    "react": "^0.14.0",
     "react-addons": "^0.9.1-deprecated",
     "react-router": "^0.13.2",
     "superagent": "^1.1.0"
