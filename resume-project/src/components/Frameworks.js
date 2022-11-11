@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Frameworks extends Component {
   render() {
@@ -14,10 +14,10 @@ class Frameworks extends Component {
               <span className="text">React</span>
             </li>
             <li>
-              <span className="text">Flux</span>
+              <span className="text">GraphQL</span>
             </li>
             <li>
-              <span className="text">Underscore.js</span>
+              <span className="text">Redux</span>
             </li>
             <li>
               <span className="text">Node.js</span>

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Languages extends Component {
   render() {
@@ -12,26 +12,18 @@ class Languages extends Component {
           <ul className="taglist">
             <li>
               <span className="text">JavaScript</span>
-              <span className="badge">13 years</span>
+              <span className="badge">16 years</span>
             </li>
             <li>
               <span className="text">HTML</span>
-              <span className="badge">13</span>
+              <span className="badge">16</span>
             </li>
             <li>
               <span className="text">CSS</span>
-              <span className="badge">13</span>
+              <span className="badge">16</span>
             </li>
             <li>
               <span className="text">Python</span>
-              <span className="badge">6</span>
-            </li>
-            <li>
-              <span className="text">ActionScript 3</span>
-              <span className="badge">6</span>
-            </li>
-            <li>
-              <span className="text">MXML</span>
               <span className="badge">6</span>
             </li>
             <li>
@@ -60,14 +52,6 @@ class Languages extends Component {
             </li>
             <li>
               <span className="text">C</span>
-              <span className="badge">1</span>
-            </li>
-            <li>
-              <span className="text">CoffeeScript</span>
-              <span className="badge">1</span>
-            </li>
-            <li>
-              <span className="text">Objective-C</span>
               <span className="badge">1</span>
             </li>
           </ul>
