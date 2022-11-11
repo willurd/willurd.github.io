@@ -1,5 +1,5 @@
-import React from 'react';
-import Job from './Job';
+import React from "react";
+import Job from "./Job";
 
 const Microsource = () => (
   <Job
@@ -11,13 +11,11 @@ const Microsource = () => (
     layout="left"
   >
     <p>
-      I started Microsource Web Development when I was 18. I found two guys willing
-      to back me and we registered an LLC and got to work. We had some local clients,
-      made some websites, made some money, and had a blast. Owning my own company
-      was a great experience that, even though the company eventually want under, I
-      will always look back on fondly.
+      I started Microsource Web Development when I was 18. I found two guys willing to back me and we registered an LLC
+      and got to work. We had some local clients, made some websites, made some money, and had a blast. Owning my own
+      company was a great experience that I will always look back on fondly.
     </p>
-  </Job >
+  </Job>
 );
 
 export default Microsource;
