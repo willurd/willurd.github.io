@@ -1,6 +1,7 @@
 import React from "react";
 import Job from "./Job";
 import logo from "../../img/coursera.svg";
+import CourseraEndorsements from "./CourseraEndorsements";
 
 const Coursera = () => (
   <Job
@@ -12,6 +13,7 @@ const Coursera = () => (
     logo={logo}
     title="Software Engineer"
     layout="left"
+    endorsements={<CourseraEndorsements />}
   >
     <p style={{ display: "none" }}></p>
 

@@ -1,0 +1,12 @@
+.Endoresments {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  padding-bottom: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+  .Endoresments {
+    grid-template-columns: 1fr;
+  }
+}

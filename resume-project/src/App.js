@@ -7,7 +7,7 @@ import WorkHistory from "./components/WorkHistory";
 import Skills from "./components/Skills";
 import Languages from "./components/Languages";
 import Frameworks from "./components/Frameworks";
-import OpenSource from "./components/OpenSource";
+// import OpenSource from "./components/OpenSource";
 
 class App extends Component {
   render() {
