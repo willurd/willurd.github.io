@@ -12,6 +12,7 @@ class Frameworks extends Component {
           <ul className="taglist">
             <li>
               <span className="text">React</span>
+              <span className="badge">6 years</span>
             </li>
             <li>
               <span className="text">GraphQL</span>

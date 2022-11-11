@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import meImage from '../img/me.jpg';
-import trailImage from '../img/trail.jpg';
+import React, { Component } from "react";
+import meImage from "../img/me.jpg";
+import trailImage from "../img/trail.jpg";
 
 class Header extends Component {
   render() {
@@ -12,7 +12,7 @@ class Header extends Component {
 
         <div className="header-content">
           <h1>Will Bowers</h1>
-          <h4>Software Engineer | Frontend</h4>
+          <h4>Senior Software Engineer | Frontend</h4>
 
           <div className="column heading-column content-column">
             <div className="me">

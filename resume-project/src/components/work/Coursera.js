@@ -5,18 +5,16 @@ import CourseraEndorsements from "./CourseraEndorsements";
 
 const Coursera = () => (
   <Job
-    className="current coursera"
+    className="coursera"
     start="March 2014"
     end="November 2022"
     company="Coursera"
     companyHref="https://www.coursera.org"
     logo={logo}
-    title="Software Engineer"
+    title="Senior Software Engineer"
     layout="left"
     endorsements={<CourseraEndorsements />}
   >
-    <p style={{ display: "none" }}></p>
-
     <p>
       During my time at Coursera I helped build the learner-facing platform from the ground up, organized two
       company-wide Make-a-Thons (their version of a Hack-a-Thon) and helped to improve that process for future
