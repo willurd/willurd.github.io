@@ -53,9 +53,11 @@ a.nostyle {
 }
 
 em {
-	background: #f9f9f9;
+	background: #fafafa;
 	font-weight: 300;
 	font-style: normal;
+	border-radius: 5px;
+	padding: 0 1px;
 }
 
 .bigger {
