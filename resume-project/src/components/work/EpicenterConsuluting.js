@@ -11,7 +11,7 @@ const EpicenterConsulting = () => (
     company="Epicenter Consulting"
     companyHref="https://www.epicenterconsulting.com"
     logo={logo}
-    title="Web Application Designer"
+    title="Web Developer / Prototyper"
     layout="left"
     endorsements={<EpicenterConsultingEndorsements />}
   >
