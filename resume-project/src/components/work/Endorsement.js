@@ -19,22 +19,19 @@ class Endoresments extends Component<Props> {
     const classes = cx("Endorsement");
 
     return (
-      // This div lets the endorsements have varying heights in CSS Grid.
-      <div>
-        <div className={classes}>
-          <div className="header">
-            <div className="profile-picture">
-              <img src={profilePicture || noProfilePictureImg} alt="profile" />
-            </div>
-            <div>
-              <div className="name">{name}</div>
-              <div className="title">
-                {title} at {company}
-              </div>
+      <div className={classes}>
+        <div className="header">
+          <div className="profile-picture">
+            <img src={profilePicture || noProfilePictureImg} alt="profile" />
+          </div>
+          <div>
+            <div className="name">{name}</div>
+            <div className="title">
+              {title} at {company}
             </div>
           </div>
-          <div className="message">{message}</div>
         </div>
+        <div className="message">{message}</div>
       </div>
     );
   }

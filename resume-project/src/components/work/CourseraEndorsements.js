@@ -21,27 +21,11 @@ const CourseraEndorsements = () => (
     />
 
     <Endorsement
-      name="Kevin Behan"
-      title="Product Manager"
-      company="Coursera"
-      message="I worked with Will for a year and a half and all the way through, Will was diligent, delivered quality software, and was an exceptional collaborator. I think what makes Will special, is how he contributes to Product requirements, he just has this uncanny ability to think in a creative and expansive way. He also has great energy, too. This comes together to make requirements and features significantly more polished and well-rounded. I'm very grateful for the time I had with Will at Coursera. You're the man Will!"
-      profilePicture={kevinBehanImg}
-    />
-
-    <Endorsement
       name="Phil Cayting"
       title="Engineering Manager"
       company="Coursera"
       message="As a tentpole member of Coursera's Hiring Committee, Will was a fearless advocate for preserving the high bar of technical excellence of our incoming engineers. He gave thoughtful and deep evaluations of our candidates, while always maintaining standards of fairness. His commitment to the ideals and principles of the group was unequaled."
       profilePicture={philCaytingImg}
-    />
-
-    <Endorsement
-      name="Rohan Benkar"
-      title="Software Architect"
-      company="Coursera"
-      message="I worked with Will on Coursera's technical assessments team for over 4 years. Will was instrumental in growing Coursera Labs product from its inception to serving Millions of learners. He is very disciplined, methodical and self-directed. He is definitely one of the most collaborative engineers I have worked with. His deep understanding of FE technologies made him our go-to person for complex FE projects. An exceptional developer and a great team player!!"
-      profilePicture={rohanBenkarImg}
     />
 
     <Endorsement
@@ -53,19 +37,35 @@ const CourseraEndorsements = () => (
     />
 
     <Endorsement
-      name="James Tyack"
-      title="Engineering Leader"
-      company="Coursera"
-      message="I worked closely with Will throughout 2021 and 2022 as a senior engineer partner during our engineering hiring process. Will brought engineering rigor and high standards to analysis and discussions so we were able to quickly make decisions and move forward to hire the most capable candidates. I found Will extremely reliable and dependable. He has strong technical communication skills, and always brought value to our meetings."
-      profilePicture={jamesTyackImg}
-    />
-
-    <Endorsement
       name="Geoff Schuller"
       title="Senior Design Manager"
       company="Coursera"
       message="Will and I worked together on the first project I ever did at Coursera. I designed the UI and he implemented it - like a total pro! He did a fantastic job! Will is diligent, considerate, resourceful and professional in every regard. You'd be very fortunate to have an engineer like him on your team!"
       profilePicture={geoffSchullerImg}
+    />
+
+    <Endorsement
+      name="Kevin Behan"
+      title="Product Manager"
+      company="Coursera"
+      message="I worked with Will for a year and a half and all the way through, Will was diligent, delivered quality software, and was an exceptional collaborator. I think what makes Will special, is how he contributes to Product requirements, he just has this uncanny ability to think in a creative and expansive way. He also has great energy, too. This comes together to make requirements and features significantly more polished and well-rounded. I'm very grateful for the time I had with Will at Coursera. You're the man Will!"
+      profilePicture={kevinBehanImg}
+    />
+
+    <Endorsement
+      name="Rohan Benkar"
+      title="Software Architect"
+      company="Coursera"
+      message="I worked with Will on Coursera's technical assessments team for over 4 years. Will was instrumental in growing Coursera Labs product from its inception to serving Millions of learners. He is very disciplined, methodical and self-directed. He is definitely one of the most collaborative engineers I have worked with. His deep understanding of FE technologies made him our go-to person for complex FE projects. An exceptional developer and a great team player!!"
+      profilePicture={rohanBenkarImg}
+    />
+
+    <Endorsement
+      name="James Tyack"
+      title="Engineering Leader"
+      company="Coursera"
+      message="I worked closely with Will throughout 2021 and 2022 as a senior engineer partner during our engineering hiring process. Will brought engineering rigor and high standards to analysis and discussions so we were able to quickly make decisions and move forward to hire the most capable candidates. I found Will extremely reliable and dependable. He has strong technical communication skills, and always brought value to our meetings."
+      profilePicture={jamesTyackImg}
     />
 
     <Endorsement
