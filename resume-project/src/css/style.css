@@ -273,6 +273,10 @@ header {
 		padding: 0;
 	}
 
+	.container {
+		border-radius: 0;
+	}
+	
 	h1 {
 		font-size: 36pt;
 	}
