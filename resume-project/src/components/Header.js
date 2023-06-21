@@ -12,7 +12,7 @@ class Header extends Component {
 
         <div className="header-content">
           <h1>Will Bowers</h1>
-          <h4>Senior Software Engineer | Frontend</h4>
+          <h4>Staff Software Engineer | Frontend</h4>
 
           <div className="column heading-column content-column">
             <div className="me">
