@@ -8,7 +8,7 @@ class Skills extends Component {
           <h3>Skills</h3>
         </div>
 
-        <div className="column content-column">
+        <div className="column content-column">          
           <ul className="taglist">
             <li>
               <span className="text">UI / Web Design</span>

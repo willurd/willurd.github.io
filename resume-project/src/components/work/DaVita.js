@@ -1,7 +1,7 @@
 import React from "react";
-import Job from "./Job";
 import logo from "../../img/davita.png";
 import DaVitaEndorsements from "./DaVitaEndorsements";
+import Job from "./Job";
 
 const DaVita = () => (
   <Job
@@ -17,8 +17,7 @@ const DaVita = () => (
   >
     <p>
       At DaVita I was responsible for designing, developing and maintaining some of their public-facing websites.
-      Developing websites for medical companies has its own set of challenges, especially when your target demographic
-      is over 50. I learned a lot about professional design working at DaVita, including how not to be afraid of{" "}
+      Developing websites for medical companies has its own set of challenges. I learned a lot about professional design working at DaVita, including how not to be afraid of{" "}
       <span className="bigger">large font sizes</span>.
     </p>
   </Job>

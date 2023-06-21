@@ -1,16 +1,18 @@
 import React, { Component } from 'react';
-import Coursera from './work/Coursera';
+import Activision from './work/Activision';
 import CounterTack from './work/CounterTack';
-import EpicenterConsuluting from './work/EpicenterConsuluting';
+import Coursera from './work/Coursera';
 import DaVita from './work/DaVita';
-import Microsource from './work/Microsource';
+import EpicenterConsuluting from './work/EpicenterConsuluting';
 import Freelance from './work/Freelance';
+import Microsource from './work/Microsource';
 
 class WorkHistory extends Component {
   render() {
     return (
       <div id="work-history" className="row section">
         <div className="column content-column">
+          <Activision />
           <Coursera />
           <CounterTack />
           <EpicenterConsuluting />
