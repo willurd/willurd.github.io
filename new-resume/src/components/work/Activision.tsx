@@ -38,24 +38,25 @@ const Activision = () => {
       photos={photos}
     >
       <p>
-        I'm now working as a staff-level engineer at Activision Blizzard, fulfilling a life-long dream of working in
-        games. I'm contributing to one of the biggest game franchises of all time, Call of Duty, building UI for the
-        desktop and console games using web technologies.
+        I'm a Staff Software Engineer at Activision Blizzard, fulfilling a life-long dream of working in games. I'm
+        contributing to one of the biggest game franchises of all time, Call of Duty, building UI for the desktop and
+        console games using web technologies.
       </p>
 
       <p>
-        In my short time at Activision, I have modernized my team's tech stack, bringing in best practices like{" "}
+        In my short time at Activision, I proactively modernized my team's tech stack, bringing in best practices like{" "}
         <em>unit testing</em>, <em>linting</em>, automatic code formatting with <em>Prettier</em> and{" "}
-        <em>EditorConfig</em>, and <em>npm workspaces</em>. I built multiple internal tools, including a{" "}
+        <em>EditorConfig</em>, and <em>npm workspaces</em>. I have built multiple internal tools, including a{" "}
         <em>Chrome Devtools extension</em> that acts as a simulator for the production game environment in which our
-        apps are run. I have formally <em>mentored</em> an intern on the team, as well as taken every opportunity to
-        informally mentor my team through code reviews, spontaneous knowledge sharing, and starting a tech-focused{" "}
-        <em>book club</em> and regular <em>tech talk watch party</em>. I also started a monthly game session for team
-        members to group up and play our game, which has helped to make our largely remote team feel less isolated.
+        apps are run, giving us gamepad input and audio feedback in the browser, as well as other functionality. I have
+        formally <em>mentored</em> an intern on the team, as well as taken every opportunity to informally mentor my
+        team through code reviews, spontaneous knowledge sharing, and starting a tech-focused <em>book club</em> and
+        regular <em>tech talk watch party</em>. I also started a monthly game session for team members to group up and
+        play our game, which has helped to make our largely remote team feel less isolated.
       </p>
 
       <p>
-        Additionally, I have built UI features that shipped in{" "}
+        I have built UI features that shipped in{" "}
         <a href="https://www.callofduty.com/modernwarfare2">Call of Duty: Modern Warfare 2</a> and{" "}
         <a href="https://www.callofduty.com/modernwarfare3">Call of Duty: Modern Warfare 3</a>, landing me a{" "}
         <em>credit</em> in MW3 (I joined after the MW2 credit roll had been finalized), and am currently working on UI

@@ -1,7 +1,7 @@
 body {
   /* font-family: Lato, Sofia Pro, Helvetica Neue, sans-serif; */
   background-color: #ddd;
-  background-image: url("../img/bg2.png");
+  background-image: url("./img/bg2.png");
   font-family: "Tajawal", sans-serif;
   line-height: 1.4em;
   margin: 0;
@@ -46,7 +46,7 @@ p {
 }
 
 a {
-  color: #59c422;
+  color: #116a7b;
 }
 
 a.nostyle {
@@ -245,7 +245,7 @@ header {
 
 .item:first-child .description p:first-child {
   font-size: 1.6em;
-  line-height: 1.2em;
+  line-height: 1.3em;
 }
 
 .item:last-child {
