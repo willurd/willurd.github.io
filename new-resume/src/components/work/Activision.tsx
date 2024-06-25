@@ -1,11 +1,4 @@
-import { useState } from "react";
-import PhotoAlbum from "react-photo-album";
-import Lightbox from "yet-another-react-lightbox";
-import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
-import Slideshow from "yet-another-react-lightbox/plugins/slideshow";
-import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
-import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import "yet-another-react-lightbox/styles.css";
 import logo from "../../img/activision.png";
 import codHq from "../../img/activision/cod-hq.png";
@@ -25,8 +18,6 @@ const photos = [
 ];
 
 const Activision = () => {
-  const [index, setIndex] = useState(-1);
-
   return (
     <Job
       className="activision"
@@ -44,6 +35,7 @@ const Activision = () => {
           transitioned to Activision Publishing after the acquisition from Microsoft.
         </p>
       }
+      photos={photos}
     >
       <p>
         I'm now working as a staff-level engineer at Activision Blizzard, fulfilling a life-long dream of working in
@@ -52,42 +44,24 @@ const Activision = () => {
       </p>
 
       <p>
-        At Activision, I modernized my team's tech stack, bringing in best practices like unit testing, linting,
-        automatic code formatting with Prettier and EditorConfig, and npm workspaces. I built multiple internal tools,
-        including a Chrome Devtools extension that acts as a simulator for the production game environment in which our
-        apps are run. I have formally mentored an intern on the team, as well as taken every opportunity to informally
-        mentor my team through code reviews, spontaneous knowledge sharing, and starting a tech-focused book club and
-        regular tech talk watch party. I also started a monthly game session for team members to group up and play our
-        game, which has helped to make our largely remote team feel less isolated.
+        In my short time at Activision, I have modernized my team's tech stack, bringing in best practices like unit
+        testing, linting, automatic code formatting with Prettier and EditorConfig, and npm workspaces. I built multiple
+        internal tools, including a Chrome Devtools extension that acts as a simulator for the production game
+        environment in which our apps are run. I have formally mentored an intern on the team, as well as taken every
+        opportunity to informally mentor my team through code reviews, spontaneous knowledge sharing, and starting a
+        tech-focused book club and regular tech talk watch party. I also started a monthly game session for team members
+        to group up and play our game, which has helped to make our largely remote team feel less isolated.
       </p>
 
       <p>
         Additionally, I have built UI features that shipped in Call of Duty: MW2 and Call of Duty: MW3, landing me a
-        credit in MW3 (I joined after the MW2 credit roll had been finalized). I have built multiple prototypes for
-        features where it was unclear how they would be implemented or perform in production, which then went on to ship
-        in game. I have built libraries that have shipped in production for instrumentation, complex scrolling behavior,
-        and more.
+        credit in MW3 (I joined after the MW2 credit roll had been finalized), and am currently working on UI that will
+        ship in Call of Duty: Black Ops 6. I have built multiple prototypes for features where it was unclear how they
+        would be implemented or perform in production, which then went on to ship in game. I have built libraries that
+        have shipped in production for instrumentation, complex scrolling behavior, and more.
       </p>
 
-      <p>Lastly, I did some feature work outside of my team for an unfortunately as-of-yet unreleased product.</p>
-
-      <PhotoAlbum
-        // masonry
-        layout="rows"
-        photos={photos}
-        spacing={10}
-        padding={1}
-        onClick={({ index }) => setIndex(index)}
-      />
-
-      <Lightbox
-        slides={photos}
-        open={index >= 0}
-        index={index}
-        close={() => setIndex(-1)}
-        // enable optional lightbox plugins
-        plugins={[Fullscreen, Slideshow, Thumbnails, Zoom]}
-      />
+      <p>Lastly, I have done feature work outside of my team for an as-of-yet unnamed product.</p>
     </Job>
   );
 };

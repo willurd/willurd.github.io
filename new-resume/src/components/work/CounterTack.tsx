@@ -1,7 +1,9 @@
-import React from "react";
-import Job from "./Job";
 import logo from "../../img/countertack.png";
+import eventHorizon from "../../img/countertack/event-horizon.jpg";
+import goSecure from "../../img/go-secure.webp";
+import VideoLink from "../lib/VideoLink";
 import CounterTackEndorsements from "./CounterTackEndorsements";
+import Job from "./Job";
 
 const CounterTack = () => (
   <Job
@@ -14,6 +16,19 @@ const CounterTack = () => (
     title="UI Technical Lead"
     layout="right"
     endorsements={<CounterTackEndorsements />}
+    note={<p>CounterTack is now GoSecure</p>}
+    extraLogos={[goSecure]}
+    sidebar={
+      <>
+        <VideoLink
+          href="https://www.youtube.com/watch?app=desktop&v=VyVWepjvNwg"
+          imageSource={eventHorizon}
+          altText="Event Horizon Platform"
+          caption="This UI was built over 10 years ago, in Flash. The UI isn't modern, but the technical
+          challenges were real."
+        />
+      </>
+    }
   >
     <p>
       My work at CounterTack (now GoSecure) was eclectic. I did everything from specing, mocking, prototyping and

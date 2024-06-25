@@ -1,13 +1,18 @@
 // @flow
 
 import cx from "classnames";
-import React from "react";
+import React, { useState } from "react";
+import PhotoAlbum, { Photo } from "react-photo-album";
 import styled from "styled-components";
+import Lightbox from "yet-another-react-lightbox";
+import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
+import "yet-another-react-lightbox/plugins/thumbnails.css";
+import "yet-another-react-lightbox/styles.css";
+import Note from "../lib/Note";
 import Company from "./Company";
 
-type Props = {
+type Props = React.PropsWithChildren<{
   className?: string;
-  children: string;
   start: string;
   end: string;
   company?: string;
@@ -17,22 +22,41 @@ type Props = {
   title: string;
   layout: "left" | "right";
   endorsements?: React.ReactNode;
-};
+  note?: React.ReactNode;
+  photos?: Array<Photo>;
+  sidebar?: React.ReactNode;
+}>;
 
 const Container = styled.div`
   display: flex;
   padding: 30px 0;
 
+  .examples img,
+  .VideoLink img {
+    border-radius: 5px;
+    -moz-outline-radius: 5px;
+    outline: 1px solid #aaa;
+    border: 1px solid white;
+  }
+
+  .VideoLink img {
+    width: 100%;
+  }
+
   .details {
     font-family: "Dosis", sans-serif;
     min-width: 190px;
+    max-width: 190px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
   }
 
   .company {
     font-size: 1.6em;
     font-weight: normal;
     line-height: 1.1em;
-    margin: 0 0 15px;
+    margin: 0 0 5px;
     padding: 0;
   }
 
@@ -51,17 +75,14 @@ const Container = styled.div`
   }
 
   .extra-logos {
-    border-top: 1px dotted #ddd;
     display: flex;
     flex-direction: column;
-    gap: 20px;
-    margin-top: 20px;
-    padding-top: 20px;
+    gap: 10px;
     align-items: center;
   }
 
   .extra-logos .logo {
-    width: 80%;
+    width: 60%;
   }
 
   &.right {
@@ -79,14 +100,6 @@ const Container = styled.div`
   p {
     margin-top: 0;
   }
-
-  &.coursera .title {
-    margin-bottom: 5px !important;
-  }
-
-  &.coursera .timeframe {
-    font-size: 0.8em;
-  }
 `;
 
 const Job: React.FC<Props> = ({
@@ -99,9 +112,14 @@ const Job: React.FC<Props> = ({
   logo,
   extraLogos,
   title,
-  layout = "left",
   endorsements,
+  note,
+  photos,
+  sidebar,
+  layout = "left",
 }) => {
+  const [selectedPhotoIndex, setSelectedPhotoIndex] = useState(-1);
+
   const classes = cx(className, {
     left: layout === "left",
     right: layout === "right",
@@ -112,25 +130,57 @@ const Job: React.FC<Props> = ({
     <>
       <Container className={classes}>
         <div className={cx("details")}>
-          {company && (
-            <h4 className="company">
-              <Company name={company} href={companyHref} logo={logo} />
-            </h4>
-          )}
+          <div>
+            {company && (
+              <h4 className="company">
+                <Company name={company} href={companyHref} logo={logo} />
+              </h4>
+            )}
 
-          <h5 className="title">{title}</h5>
+            <h5 className="title">{title}</h5>
 
-          <div className="timeframe">
-            {start} — {end}
+            <div className="timeframe">
+              {start} — {end}
+            </div>
           </div>
 
-          {extraLogos && (
-            <div className={cx("extra-logos")}>
-              {extraLogos.map((extraLogo) => (
-                <img key={extraLogo} className="logo" alt="logo" src={extraLogo} />
-              ))}
+          {(note || extraLogos) && (
+            <Note>
+              {note}
+
+              {extraLogos && (
+                <div className={cx("extra-logos")}>
+                  {extraLogos.map((extraLogo) => (
+                    <img key={extraLogo} className="logo" alt="logo" src={extraLogo} />
+                  ))}
+                </div>
+              )}
+            </Note>
+          )}
+
+          {photos && (
+            <div className="examples">
+              <div>
+                <PhotoAlbum
+                  layout="masonry"
+                  photos={photos}
+                  spacing={8}
+                  padding={0}
+                  onClick={({ index }) => setSelectedPhotoIndex(index)}
+                />
+              </div>
+
+              <Lightbox
+                slides={photos}
+                open={selectedPhotoIndex >= 0}
+                index={selectedPhotoIndex}
+                close={() => setSelectedPhotoIndex(-1)}
+                plugins={[Fullscreen]}
+              />
             </div>
           )}
+
+          {sidebar}
         </div>
 
         {children && <div className="description">{children}</div>}

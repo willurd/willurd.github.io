@@ -1,7 +1,9 @@
-import React from "react";
-import Job from "./Job";
 import logo from "../../img/coursera.svg";
+import interactiveTranscript from "../../img/coursera/interactive-transcript.png";
 import CourseraEndorsements from "./CourseraEndorsements";
+import Job from "./Job";
+
+const photos = [{ alt: "Interactive Transcript", src: interactiveTranscript, width: 1364, height: 1536 }];
 
 const Coursera = () => (
   <Job
@@ -14,6 +16,7 @@ const Coursera = () => (
     title="Senior Software Engineer"
     layout="left"
     endorsements={<CourseraEndorsements />}
+    photos={photos}
   >
     <p>
       During my time at Coursera I helped build the learner-facing platform from the ground up, organized two
