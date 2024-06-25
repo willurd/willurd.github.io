@@ -1,5 +1,3 @@
-// @flow
-
 import styled from "styled-components";
 import noProfilePictureImg from "../../img/people/no-profile-picture.png";
 

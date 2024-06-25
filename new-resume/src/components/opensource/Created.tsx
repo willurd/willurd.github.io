@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import ExternalLink from '../lib/ExternalLink';
+import { Component } from "react";
+import ExternalLink from "../lib/ExternalLink";
 
 class Created extends Component {
   render() {
@@ -26,10 +26,7 @@ const Variadic = () => (
       &nbsp;
       <span>(JavaScript)</span>
     </h5>
-    <p>
-      A JavaScript library that cleans up your functions that accept different types and
-      arrangements of arguments.
-    </p>
+    <p>A JavaScript library that cleans up your functions that accept different types and arrangements of arguments.</p>
   </div>
 );
 
@@ -42,9 +39,8 @@ const ScopeStatus = () => (
     </h5>
 
     <p>
-      A Sublime Text plugin that, when activated, shows you the "scope" of the syntax
-      at the current cursor position. This is useful when writing plugins or themes, as
-      parts of a document are referenced by their scope.
+      A Sublime Text plugin that, when activated, shows you the "scope" of the syntax at the current cursor position.
+      This is useful when writing plugins or themes, as parts of a document are referenced by their scope.
     </p>
   </div>
 );
@@ -58,13 +54,13 @@ const JsLisp = () => (
     </h5>
 
     <p>
-      A lisp interpreter that runs in the browser, written 100% in JavaScript. The
-      project is old and the code is kind of gross, but it was super fun to write.
+      A lisp interpreter that runs in the browser, written 100% in JavaScript. The project is old and the code is kind
+      of gross, but it was super fun to write.
     </p>
 
     <p>
-      I wrote quite a large suite of unit tests for this project. The tests are actually
-      &nbsp;<ExternalLink href="https://github.com/willurd/js-lisp/blob/master/tests/tests.lisp" label="written in lisp" />,
+      I wrote quite a large suite of unit tests for this project. The tests are actually &nbsp;
+      <ExternalLink href="https://github.com/willurd/js-lisp/blob/master/tests/tests.lisp" label="written in lisp" />,
       and interpreted and run by the project itself, to test itself.
     </p>
   </div>

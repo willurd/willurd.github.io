@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import Created from './opensource/Created';
-import Contributions from './opensource/Contributions';
+import { Component } from "react";
+import Contributions from "./opensource/Contributions";
+import Created from "./opensource/Created";
 
 class OpenSource extends Component {
   render() {

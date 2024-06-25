@@ -1,14 +1,13 @@
-import React from "react";
-import Endorsements from "./Endorsements";
-import Endorsement from "./Endorsement";
-import kevinBehanImg from "../../img/people/kevin-behan.jfif";
-import rahulKothariImg from "../../img/people/rahul-kothari.jfif";
-import sashiPentaImg from "../../img/people/sashi-penta.jfif";
-import philCaytingImg from "../../img/people/phil-cayting.jfif";
-import stephenWexlerImg from "../../img/people/stephen-wexler.jfif";
-import jamesTyackImg from "../../img/people/james-tyack.jfif";
-import rohanBenkarImg from "../../img/people/rohan-benkar.jfif";
 import geoffSchullerImg from "../../img/people/geoff-schuller.jfif";
+import jamesTyackImg from "../../img/people/james-tyack.jfif";
+import kevinBehanImg from "../../img/people/kevin-behan.jfif";
+import philCaytingImg from "../../img/people/phil-cayting.jfif";
+import rahulKothariImg from "../../img/people/rahul-kothari.jfif";
+import rohanBenkarImg from "../../img/people/rohan-benkar.jfif";
+import sashiPentaImg from "../../img/people/sashi-penta.jfif";
+import stephenWexlerImg from "../../img/people/stephen-wexler.jfif";
+import Endorsement from "./Endorsement";
+import Endorsements from "./Endorsements";
 
 const CourseraEndorsements = () => (
   <Endorsements>

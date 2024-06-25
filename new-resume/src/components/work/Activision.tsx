@@ -27,7 +27,7 @@ const Activision = () => {
       companyHref="https://www.activision.com/"
       logo={logo}
       extraLogos={[microsoftLogo, demonwareLogo]}
-      title="Staff Frontend Engineer"
+      title="Staff Software Engineer"
       layout="right"
       note={
         <p>
@@ -44,24 +44,30 @@ const Activision = () => {
       </p>
 
       <p>
-        In my short time at Activision, I have modernized my team's tech stack, bringing in best practices like unit
-        testing, linting, automatic code formatting with Prettier and EditorConfig, and npm workspaces. I built multiple
-        internal tools, including a Chrome Devtools extension that acts as a simulator for the production game
-        environment in which our apps are run. I have formally mentored an intern on the team, as well as taken every
-        opportunity to informally mentor my team through code reviews, spontaneous knowledge sharing, and starting a
-        tech-focused book club and regular tech talk watch party. I also started a monthly game session for team members
-        to group up and play our game, which has helped to make our largely remote team feel less isolated.
+        In my short time at Activision, I have modernized my team's tech stack, bringing in best practices like{" "}
+        <em>unit testing</em>, <em>linting</em>, automatic code formatting with <em>Prettier</em> and{" "}
+        <em>EditorConfig</em>, and <em>npm workspaces</em>. I built multiple internal tools, including a{" "}
+        <em>Chrome Devtools extension</em> that acts as a simulator for the production game environment in which our
+        apps are run. I have formally <em>mentored</em> an intern on the team, as well as taken every opportunity to
+        informally mentor my team through code reviews, spontaneous knowledge sharing, and starting a tech-focused{" "}
+        <em>book club</em> and regular <em>tech talk watch party</em>. I also started a monthly game session for team
+        members to group up and play our game, which has helped to make our largely remote team feel less isolated.
       </p>
 
       <p>
-        Additionally, I have built UI features that shipped in Call of Duty: MW2 and Call of Duty: MW3, landing me a
-        credit in MW3 (I joined after the MW2 credit roll had been finalized), and am currently working on UI that will
-        ship in Call of Duty: Black Ops 6. I have built multiple prototypes for features where it was unclear how they
-        would be implemented or perform in production, which then went on to ship in game. I have built libraries that
-        have shipped in production for instrumentation, complex scrolling behavior, and more.
+        Additionally, I have built UI features that shipped in{" "}
+        <a href="https://www.callofduty.com/modernwarfare2">Call of Duty: Modern Warfare 2</a> and{" "}
+        <a href="https://www.callofduty.com/modernwarfare3">Call of Duty: Modern Warfare 3</a>, landing me a{" "}
+        <em>credit</em> in MW3 (I joined after the MW2 credit roll had been finalized), and am currently working on UI
+        that will ship in <a href="https://www.callofduty.com/playnow/blackops6">Call of Duty: Black Ops 6</a>. I have
+        built multiple <em>prototypes</em> for features where it was unclear how they would be implemented or perform in
+        production, which <em>shipped</em> in game. I have built <em>libraries</em> that have shipped in production for
+        instrumentation, complex scrolling behavior, and more.
       </p>
 
-      <p>Lastly, I have done feature work outside of my team for an as-of-yet unnamed product.</p>
+      <p>
+        Lastly, I have done feature work outside of my team for an as-of-yet <em>unnamed product</em>.
+      </p>
     </Job>
   );
 };

@@ -1,14 +1,16 @@
-import React, { Component } from 'react';
-import ExternalLink from './lib/ExternalLink';
+import { Component } from "react";
+import ExternalLink from "./lib/ExternalLink";
 
 class Titlebar extends Component {
   render() {
-    const email = 'william.bowers@gmail.com';
+    const email = "william.bowers@gmail.com";
 
     return (
       <div className="title-bar row smaller">
         <div className="float-right">
-          <a className="nostyle" href={`mailto:${email}`}>{email}</a>
+          <a className="nostyle" href={`mailto:${email}`}>
+            {email}
+          </a>
         </div>
 
         <div>

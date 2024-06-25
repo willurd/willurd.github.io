@@ -1,7 +1,6 @@
-import React from "react";
-import Endorsements from "./Endorsements";
-import Endorsement from "./Endorsement";
 import justinWhiteImg from "../../img/people/justin-white.jfif";
+import Endorsement from "./Endorsement";
+import Endorsements from "./Endorsements";
 
 const CounterTackEndorsements = () => (
   <Endorsements>

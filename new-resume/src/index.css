@@ -55,11 +55,9 @@ a.nostyle {
 }
 
 em {
-  background: #fafafa;
-  font-weight: 300;
+  color: #555;
   font-style: normal;
-  border-radius: 5px;
-  padding: 0 1px;
+  font-weight: bold;
 }
 
 .bigger {

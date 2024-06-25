@@ -1,5 +1,3 @@
-// @flow
-
 import cx from "classnames";
 import React, { useState } from "react";
 import PhotoAlbum, { Photo } from "react-photo-album";
@@ -99,6 +97,20 @@ const Container = styled.div`
 
   p {
     margin-top: 0;
+  }
+
+  @media (max-width: 800px) {
+    display: block !important;
+
+    .logo {
+      width: 100% !important;
+    }
+
+    .details {
+      margin: 0 0 20px !important;
+      min-width: initial;
+      max-width: initial;
+    }
   }
 `;
 

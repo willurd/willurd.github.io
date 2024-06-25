@@ -1,7 +1,6 @@
-import React from "react";
-import Endorsements from "./Endorsements";
-import Endorsement from "./Endorsement";
 import davidChatsuthiphanImg from "../../img/people/david-chatsuthiphan.jfif";
+import Endorsement from "./Endorsement";
+import Endorsements from "./Endorsements";
 
 const DaVitaEndorsements = () => (
   <Endorsements>

@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import meImage from "../img/me.jpg";
 import trailImage from "../img/trail.jpg";
 

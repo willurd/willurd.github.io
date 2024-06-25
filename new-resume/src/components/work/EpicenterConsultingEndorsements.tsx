@@ -1,7 +1,6 @@
-import React from "react";
-import Endorsements from "./Endorsements";
-import Endorsement from "./Endorsement";
 import clarkValbergImg from "../../img/people/clark-valberg.jfif";
+import Endorsement from "./Endorsement";
+import Endorsements from "./Endorsements";
 
 const EpicenterConsultingEndorsements = () => (
   <Endorsements>

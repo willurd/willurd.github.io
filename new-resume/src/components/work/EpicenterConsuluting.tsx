@@ -1,7 +1,6 @@
-import React from "react";
-import Job from "./Job";
 import logo from "../../img/epicenter.png";
 import EpicenterConsultingEndorsements from "./EpicenterConsultingEndorsements";
+import Job from "./Job";
 
 const EpicenterConsulting = () => (
   <Job
