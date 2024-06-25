@@ -32,7 +32,7 @@ const Activision = () => {
       note={
         <p>
           My team started out in the <ExternalLink href="https://www.demonware.net/" label="Demonware" /> studio, and
-          transitioned to Activision Publishing after the acquisition from Microsoft.
+          transitioned to Activision Publishing after the acquisition by Microsoft.
         </p>
       }
       photos={photos}
