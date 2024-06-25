@@ -30,6 +30,20 @@
   width: 100%;
 }
 
+.Job .extra-logos {
+  border-top: 1px dotted #ddd;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  padding-top: 20px;
+  align-items: center;
+}
+
+.Job .extra-logos .logo {
+  width: 80%;
+}
+
 .Job.right {
   flex-direction: row-reverse;
 }

@@ -1,7 +1,7 @@
 // @flow
 
-import React, { Component } from "react";
 import cx from "classnames";
+import React, { Component } from "react";
 import ExternalLink from "../lib/ExternalLink";
 import "./Job.css";
 
@@ -13,6 +13,7 @@ type Props = {
   company?: string,
   companyHref?: string,
   logo?: string,
+  extraLogos?: Array<string>,
   title: string,
   layout: "left" | "right",
   endorsements?: React.ReactNode,
@@ -24,7 +25,7 @@ class Job extends Component<Props> {
   };
 
   render() {
-    const { className, children, start, end, company, companyHref, logo, title, layout, endorsements } = this.props;
+    const { className, children, start, end, company, companyHref, logo, extraLogos, title, layout, endorsements } = this.props;
     const classes = cx("Job", className, {
       left: layout === "left",
       right: layout === "right",
@@ -40,10 +41,18 @@ class Job extends Component<Props> {
                 <Company name={company} href={companyHref} logo={logo} />
               </h4>
             )}
+
             <h5 className="title">{title}</h5>
+
             <div className="timeframe">
               {start} — {end}
             </div>
+
+            {extraLogos && (
+              <div className={cx("extra-logos")}>
+                {extraLogos.map(extraLogo => <img className="logo" alt="logo" src={extraLogo} />)}
+              </div>
+            )}
           </div>
 
           {children && <div className="description">{children}</div>}
