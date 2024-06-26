@@ -33,9 +33,8 @@ const Experience = () => {
         <h4>Programming Languages</h4>
 
         <p>
-          I have worked professionally in JavaScript, TypeScript, Python, C, C++, Lua, ActionScript 3, Scala, and
-          ColdFusion, and I have used Java, Ruby, Common Lisp, Clojure, C#, GDScript, Perl, PHP and more on side
-          projects.
+          I have worked professionally in JavaScript, TypeScript, Python, C, C++, Lua, ActionScript 3, Scala, Ruby, and
+          ColdFusion, and I have used Java, Common Lisp, Clojure, C#, GDScript, Perl, PHP and more on side projects.
         </p>
 
         <p>

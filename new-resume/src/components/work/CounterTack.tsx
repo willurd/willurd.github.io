@@ -31,13 +31,12 @@ const CounterTack = () => (
     }
   >
     <p>
-      My work at CounterTack (now GoSecure) was eclectic. I did everything from specing, mocking, prototyping and
-      building Flex/AIR and Web applications and the backend services that feed them, to domain modeling, interaction
-      and user experience design, interfacing with 3rd party applications, developing use cases, raw socket development,
-      and designing and implementing REST APIs in both Python and Ruby. Throughout my time at CounterTack, I wrote
-      several internal usability assessments and libraries for internal customers that abstract away 3rd party APIs. I
-      contributed to open source projects, and as a team we did some really cutting edge work. It was exciting to say
-      the least.
+      I wore many hats at CounterTack. I did everything from specing, mocking, prototyping and building Flex/AIR and Web
+      applications and the backend services that feed them, to domain modeling, interaction and user experience design,
+      integrating with 3rd party applications, developing use cases, raw socket development, and designing and
+      implementing REST APIs in both Python and Ruby. Throughout my time at CounterTack, I wrote several internal
+      usability assessments and libraries for internal customers that abstract away 3rd party APIs. I contributed to
+      open source projects, and as a team we did some really cutting edge work.
     </p>
   </Job>
 );
