@@ -10,7 +10,12 @@ const Header = () => {
 
       <div className="header-content">
         <h1>Will Bowers</h1>
-        <h4>Staff Software Engineer | Frontend</h4>
+
+        <h4 className="font-normal">
+          <span>Staff Software Engineer</span>
+          <span className="vertical-rule white" />
+          <span>Frontend</span>
+        </h4>
 
         <div className="column heading-column content-column">
           <div className="me">
