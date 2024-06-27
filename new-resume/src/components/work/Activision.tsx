@@ -44,7 +44,7 @@ const Activision = () => {
       </p>
 
       <p>
-        In my short time at Activision, I proactively modernized my team's tech stack, bringing in best practices like{" "}
+        In my short time at Activision, I modernized my team's tech stack, bringing in best practices like{" "}
         <em>unit testing</em>, <em>linting</em>, automatic code formatting with <em>Prettier</em> and{" "}
         <em>EditorConfig</em>, and <em>npm workspaces</em>. I have built multiple internal tools, including a{" "}
         <em>Chrome Devtools extension</em> that acts as a simulator for the production game environment in which our

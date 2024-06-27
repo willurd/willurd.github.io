@@ -34,7 +34,8 @@ const Experience = () => {
 
         <p>
           I have worked professionally in JavaScript, TypeScript, Python, C, C++, Lua, ActionScript 3, Scala, Ruby, and
-          ColdFusion, and I have used Java, Common Lisp, Clojure, C#, GDScript, Perl, PHP and more on side projects.
+          ColdFusion, and I have used Java, Common Lisp, Clojure, ELisp, C#, GDScript, Perl, PHP and more on side
+          projects.
         </p>
 
         <p>

@@ -132,10 +132,9 @@ const Job: React.FC<Props> = ({
 }) => {
   const [selectedPhotoIndex, setSelectedPhotoIndex] = useState(-1);
 
-  const classes = cx(className, {
+  const classes = cx(className, "item", {
     left: layout === "left",
     right: layout === "right",
-    item: !endorsements,
   });
 
   return (

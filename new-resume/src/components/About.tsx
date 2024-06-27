@@ -36,8 +36,8 @@ const About = () => {
         </p>
 
         <p>
-          I've written production code in a dozen languages. My focus has always been on the &nbsp;<em>frontend</em>,
-          but I love to code at any level of the stack, from desktop UIs to C libraries.{" "}
+          I've written production code in nearly a dozen languages. My focus has always been on the &nbsp;
+          <em>frontend</em>, but I love to code at any level of the stack, from desktop UIs to C libraries.{" "}
           <em>Programming is my greatest passion</em>.
         </p>
       </div>

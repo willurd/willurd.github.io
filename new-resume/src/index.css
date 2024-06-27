@@ -151,7 +151,6 @@ table.unstyled td {
 }
 
 .section h3 {
-  /* Indie Flower, Baloo Chettan, Quicksand */
   font-family: "Baloo Chettan", serif;
   margin: 0 0 15px -2px;
   font-size: 24pt;
@@ -237,7 +236,6 @@ header {
   border-top-width: 0;
   border-right-width: 0;
   border-left-width: 0;
-  font-size: 0.9em;
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
@@ -247,16 +245,6 @@ header {
   font-weight: bold;
   margin-bottom: 6px;
 }
-
-/* .item:first-child {
-	font-size: 1.2em;
-	padding-top: 20px;
-}
-
-.item:first-child .description p {
-	font-size: 0.8em;
-}
-*/
 
 .item:first-child .description p:first-child {
   font-size: 1.6em;

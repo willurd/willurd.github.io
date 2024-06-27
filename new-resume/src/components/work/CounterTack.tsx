@@ -24,7 +24,7 @@ const CounterTack = () => (
           href="https://www.youtube.com/watch?app=desktop&v=VyVWepjvNwg"
           imageSource={eventHorizon}
           altText="Event Horizon Platform"
-          caption="This UI was built over 10 years ago, in Flash. The UI isn't modern, but the technical
+          caption="This app was built nearly 15 years ago, in Flash. The UI isn't modern, but the technical
           challenges were real."
         />
       </>
