@@ -29,6 +29,11 @@ const Container = styled.div`
   display: flex;
   padding: 30px 0;
 
+  &.has-endorsements {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
+
   .examples img,
   .VideoLink img {
     border-radius: 5px;
@@ -135,6 +140,7 @@ const Job: React.FC<Props> = ({
   const classes = cx(className, "item", {
     left: layout === "left",
     right: layout === "right",
+    "has-endorsements": !!endorsements,
   });
 
   return (
