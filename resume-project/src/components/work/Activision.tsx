@@ -59,8 +59,8 @@ const Activision = () => {
         I have built UI features that shipped in{" "}
         <ExternalLink href="https://www.callofduty.com/modernwarfare2" label="Call of Duty: Modern Warfare 2" /> and{" "}
         <ExternalLink href="https://www.callofduty.com/modernwarfare3" label="Call of Duty: Modern Warfare 3" />,
-        landing me a <em>credit</em> in MW3 (I joined after the MW2 credit roll had been finalized), and am currently
-        working on UI that will ship in{" "}
+        landing me a <ExternalLink href="https://www.mobygames.com/person/1659197/will-bowers/" label="credit in MW3" />{" "}
+        (I joined after the MW2 credit roll had been finalized), and am currently working on UI that will ship in{" "}
         <ExternalLink href="https://www.callofduty.com/playnow/blackops6" label="Call of Duty: Black Ops 6" />. I have
         built multiple <em>prototypes</em> for features where it was unclear how they would be implemented or perform in
         production, which then <em>shipped</em> in game. I have built <em>libraries</em> that have shipped in production
