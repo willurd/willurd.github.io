@@ -44,7 +44,7 @@ const Activision = () => {
       </p>
 
       <p>
-        In my short time at Activision, I modernized my team's tech stack, bringing in best practices like{" "}
+        In my time at Activision, I modernized my team's tech stack, bringing in best practices like{" "}
         <em>unit testing</em>, <em>linting</em>, automatic code formatting with <em>Prettier</em> and{" "}
         <em>EditorConfig</em>, and <em>npm workspaces</em>. I have built multiple internal tools, including a{" "}
         <em>Chrome Devtools extension</em> that acts as a simulator for the production game environment in which our
@@ -57,18 +57,18 @@ const Activision = () => {
 
       <p>
         I have built UI features that shipped in{" "}
-        <ExternalLink href="https://www.callofduty.com/modernwarfare2" label="Call of Duty: Modern Warfare 2" /> and{" "}
-        <ExternalLink href="https://www.callofduty.com/modernwarfare3" label="Call of Duty: Modern Warfare 3" />,
-        landing me a <ExternalLink href="https://www.mobygames.com/person/1659197/will-bowers/" label="credit in MW3" />{" "}
-        (I joined after the MW2 credit roll had been finalized), and am currently working on UI that will ship in{" "}
+        <ExternalLink href="https://www.callofduty.com/modernwarfare2" label="Call of Duty: Modern Warfare 2" />,{" "}
+        <ExternalLink href="https://www.callofduty.com/modernwarfare3" label="Call of Duty: Modern Warfare 3" />, and{" "}
         <ExternalLink href="https://www.callofduty.com/playnow/blackops6" label="Call of Duty: Black Ops 6" />. I have
         built multiple <em>prototypes</em> for features where it was unclear how they would be implemented or perform in
         production, which then <em>shipped</em> in game. I have built <em>libraries</em> that have shipped in production
-        for instrumentation, complex scrolling behavior, and more.
+        for instrumentation, complex scrolling behavior, and more. I have lead optimization efforts which helped my team
+        meet incredibly tight CPU/memory budgets.
       </p>
 
       <p>
-        Lastly, I have done feature work outside of my team for an as-of-yet <em>unnamed product</em>.
+        I've worked with multiple teams across multiple organizations to bring ideas to life. Part of that includes
+        feature work for an as-of-yet <em>unnamed product</em>.
       </p>
     </Job>
   );
